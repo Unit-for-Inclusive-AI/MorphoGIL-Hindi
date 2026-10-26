@@ -2,7 +2,7 @@
 
 Resources for **gender-inclusive language generation in Hindi**: two Hindi datasets, a Hindi gender-bias Knowledge Graph (KG), and the code for a KG-guided generation pipeline.
 
-This repository accompanies the paper *"Morphology-Enhanced KG-Guided Gender-Inclusive Language Generation for Hindi"* (submitted to ECIR 2027, Resource Track).
+This repository accompanies the paper *"Morphology-Enhanced KG-Guided Gender-Inclusive Language Generation for Hindi"* .
 
 ---
 
@@ -46,7 +46,7 @@ MorphoGIL-Hindi/
 3. Every translation was checked manually against the LBSNAA guide on gender-inclusive communication, the gender-neutral occupation names of Kirtane and Anand (2022), Joshi et al. (2024) and the Shabdkosh dictionary.
 4. We removed duplicates created by translation, pairs whose Hindi translation is already gender-neutral, and pairs with no neutral alternative supported by the sources. Four exact duplicate rows were then removed, giving **296 unique pairs**.
 
-**Categories:** Occupational (OCC), Representational (REP), Relational (REL). In the KG, categories are assigned by keyword matching; terms that match no keyword are labelled UNKNOWN.
+**Categories:** Occupational (OCC), Representational (REP), Relational (REL). In the KG, categories are assigned by keyword matching; terms that match no keyword are labelled Unknown.
 
 **Examples**
 
@@ -126,7 +126,7 @@ pip install -r requirements.txt
 import pandas as pd
 gnp = pd.read_csv("datasets/[GNP-Hindi.csv]")
 csp = pd.read_csv("datasets/[CSP-Hindi.csv]")
-print(len(gnp), len(csp))   # 296 348
+print(len(gnp), len(csp))   
 ```
 
 **Look up a neutral replacement in the KG**
@@ -172,23 +172,7 @@ The resources cover binary gender only. GNP-Hindi translations were drafted with
 
 ---
 
-## Licence
 
-- **Datasets and KG:** [CC BY 4.0]
-- **Code:** [MIT] (see `LICENSE`)
-
-GNP-Hindi is derived from the English pairs of Bartl and Leavy (2024); please also cite their work.
-
-## Citation
-
-```bibtex
-@inproceedings{chakalakal2027morphogil,
-  author    = {Chakalakal, Janice Johnson},
-  title     = {Morphology-Enhanced {KG}-Guided Gender-Inclusive Language Generation for {Hindi}},
-  booktitle = {Proceedings of the 49th European Conference on Information Retrieval (ECIR)},
-  year      = {2027},
-  note      = {Under review}
-}
 ```
 
 ## Contact and contributions
