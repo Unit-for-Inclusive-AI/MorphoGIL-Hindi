@@ -1,0 +1,24 @@
+{
+  "entity_types": {
+    "GenderedTerm": "Hindi term carrying grammatical or social gender",
+    "NeutralTerm": "Gender-inclusive replacement term",
+    "GenderedSubject": "Gendered group expression found in a biased sentence",
+    "BiasedSentence": "Sentence containing a gender stereotype",
+    "CounterfactualRule": "Dataset inclusive rewrite template; evaluation reference only",
+    "CounterClaim": "Reusable dimension-level anti-stereotype statement",
+    "StereotypeCategory": "OCC, REL, REP or UNKNOWN",
+    "StereotypeDimension": "One or more bias dimensions",
+    "GrammarRule": "Limited Hindi agreement metadata"
+  },
+  "relation_types": {
+    "NEUTRAL_REPLACEMENT": "Gendered term to inclusive alternative",
+    "BELONGS_TO_CATEGORY": "Term to OCC/REL/REP/UNKNOWN category",
+    "HAS_GRAMMATICAL_GENDER": "Term to conservative lexical marker",
+    "COUNTERFACTUAL_OF": "Biased sentence to dataset inclusive rewrite",
+    "HAS_SUBJECT": "Biased sentence to detected gendered group",
+    "TRIGGERS_MUTATION": "Sentence to observed agreement marker",
+    "HAS_STEREOTYPE": "Sentence to each applicable dimension",
+    "COUNTERED_BY": "Dimension to reusable counterclaim",
+    "RELEVANT_TO_DIMENSION": "GNP occupation to Profession dimension"
+  }
+}

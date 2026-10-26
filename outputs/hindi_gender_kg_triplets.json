@@ -1,0 +1,6952 @@
+[
+  {
+    "subject": "शिल्पकार",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कारीगर",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पुलिसवाला",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पुलिस अधिकारी",
+    "category": "OCC",
+    "grammatical_gender": "masculine_marked"
+  },
+  {
+    "subject": "पुलिसवाले",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पुलिस अधिकारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "महिला पुलिस",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पुलिस अधिकारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "डाकिया",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "डाक कर्मचारी / डाक वाहक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "विक्रेता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "विक्रय प्रतिनिधि",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "चौकीदार",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सुरक्षा कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "द्वारपाल",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "द्वार सेवक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "फोरमैन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पर्यवेक्षक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "परिचारिका",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "परिचारक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "परिचारिकाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "परिचारक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गृहिणी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "गृहप्रबंधक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गृहिणियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "गृहप्रबंधक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "वेटर",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सेवक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "वेट्रेस",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सेवक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "विमान परिचारिका",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "केबिन क्रू",
+    "category": "UNKNOWN",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "विमान परिचारिकाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "केबिन क्रू",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "डिलीवरी बॉय",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "डिलीवरी व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "ऑफिस बॉय",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बहुकार्य कर्मचारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "अख़बार बेचने वाला लड़का",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अख़बार वितरक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "अख़बार बेचने वाला लड़के",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अख़बार वितरक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मिस्त्री",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मरम्मत कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "अभिनेता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "अभिनेत्री",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "अभिनेत्रियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "शिक्षक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "शिक्षाकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "शिक्षिका",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "शिक्षाकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "शिक्षिकाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "शिक्षाकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गायक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "गायन कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गायिका",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "गायन कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "गायिकाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "गायन कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "नर्तक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "नृत्य कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "नर्तकी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "नृत्य कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "नर्तकियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "नृत्य कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "लेखक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "रचनाकार",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "लेखिका",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "रचनाकार",
+    "category": "UNKNOWN",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "लेखिकाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "रचनाकार",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "नौकर",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "घरेलू कर्मचारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "नौकरानी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "घरेलू कर्मचारी",
+    "category": "OCC",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "नौकरानियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "घरेलू कर्मचारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मालिक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अधिकारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मालकिन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अधिकारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "जनशक्ति",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कार्यबल",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मानव निर्मित",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कृत्रिम",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पूर्वज",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पुरखे",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "प्रेमी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "साथी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "प्रेमिका",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "साथी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "प्रेमिकाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "साथी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पति",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जीवनसाथी",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पत्नी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जीवनसाथी",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पत्नियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जीवनसाथी",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "भाई",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सहोदर",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "बहन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सहोदर",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "बहनें",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सहोदर",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "बेटा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "संतान",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "बेटे",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "संतानें",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "बेटी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "संतान",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "बेटियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "संतानें",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पिता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अभिभावक",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "माता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अभिभावक",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "माताएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अभिभावक",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "दादा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बुज़ुर्ग",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "दादी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बुज़ुर्ग",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "दादियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बुज़ुर्ग",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "चाचा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "संबंधी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "चाची",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "संबंधी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "चाचियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "संबंधी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "नाना",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बुज़ुर्ग",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "नानी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बुज़ुर्ग",
+    "category": "UNKNOWN",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "मामा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "संबंधी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मामी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "संबंधी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "माँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अभिभावक",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "राजा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "राज्यकर्ता",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "रानी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "राज्यकर्ता",
+    "category": "UNKNOWN",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "रानियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "राज्यकर्ता",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "राजकुमार",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "राजवंशी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "राजकुमारी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "राजवंशी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "राजकुमारियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "राजवंशी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मकान मालिक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "संपत्ति स्वामी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मकान मालकिन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "संपत्ति स्वामी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कामगार का वेतन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कर्मचारी का वेतन",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "लड़कों",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सहकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "नई लड़कियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "नई प्रशिक्षु",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "डिलीवरी मैन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "वितरण कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "महोदय",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पदनाम",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "किसान लड़का",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कृषि कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "किसान लड़के",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कृषि कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मछुआरा लड़का",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "युवा मत्स्य कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मछुआरे लड़के",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "युवा मत्स्य कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "अखबार बाँटने वाला लड़का",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "समाचार-पत्र वितरक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "अखबार बाँटने वाले लड़के",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "समाचार-पत्र वितरक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "विलासी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "विलासी व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "हलवाहा लड़का",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कृषक",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "हलवाहा लड़के",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कृषक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "छोटी बच्ची",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "शिशु",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "छोटी बच्चियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "शिशु",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कॉलगर्ल",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "यौनकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "प्रशंसिका",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "प्रशंसक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "किसान लड़की",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कृषि कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "किसान लड़कियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कृषि कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "अखबार बाँटने वाली लड़की",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "समाचार-पत्र वितरक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "अखबार बाँटने वाली लड़कियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "समाचार-पत्र वितरक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "विलासिनी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "विलासी व्यक्ति",
+    "category": "REP",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "नृत्यांगना",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "दासी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बंधुआ व्यक्ति",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "दासियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बंधुआ व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "वेश्या",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "यौनकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "वेश्याएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "यौनकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "विज्ञापनकर्ता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "विज्ञापन अधिकारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "समाचार वाचक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "समाचार प्रस्तोता",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "फेरीवाला",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "यात्रा विक्रय प्रतिनिधि",
+    "category": "OCC",
+    "grammatical_gender": "masculine_marked"
+  },
+  {
+    "subject": "फेरीवाले",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "यात्रा विक्रय प्रतिनिधि",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "नाविक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "नौका चालक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कूड़ा उठाने वाला",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सफ़ाई कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "masculine_marked"
+  },
+  {
+    "subject": "कूड़ा उठाने वाले",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सफ़ाई कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "राक्षस",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "डरावनी आकृति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "दास",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बंधुआ व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "धनुर्धर",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "धनुर्धारी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "आदिवासी पुरुष",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मूल निवासी",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कैमरामैन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कैमरा संचालक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गुफ़ावासी पुरुष",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "आदि मानव",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गाड़ीवान",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "गाड़ी चालक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "दूधवाला",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "डेयरी कर्मचारी",
+    "category": "OCC",
+    "grammatical_gender": "masculine_marked"
+  },
+  {
+    "subject": "दूधवाले",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "डेयरी कर्मचारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सामान्य आदमी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सामान्य व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मछुआरा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मत्स्य पालक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मछुआरे",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मत्स्य पालक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "झंडावाला",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "यातायात रक्षक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "masculine_marked"
+  },
+  {
+    "subject": "झंडावाले",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "यातायात रक्षक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मुखिया",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पर्यवेक्षक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मुक्त दास",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मुक्त व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "नवागंतुक छात्र",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "प्रथम वर्ष विद्यार्थी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सीमांत अन्वेषक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सीमावर्ती निवासी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मुख्य प्रवक्ता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मुख्य प्रतिनिधि",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गैराज मैकेनिक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मरम्मतकर्ता",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "दरबान",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "प्रवेश रक्षक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सज्जन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सम्मानित व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "वर-मित्र",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "वर-साथी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मैदान रक्षक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मैदान प्रबंधक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मसख़रा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "हास्य कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मसख़रे",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "हास्य कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कानून अधिकारी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कानून प्रवर्तक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "बंदरगाह मज़दूर",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बंदरगाह कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "लकड़हारा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "वनकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "लकड़हारे",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "वनकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पुरुष-द्वेषी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "द्वेषी",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पुरुष आलिंगन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मित्र-आलिंगन",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पुरुष-आकर्षक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "आकर्षक व्यक्ति",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पुरुष नौकर",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "घरेलू कर्मचारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मर्द बनो",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "हिम्मत करो",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मानव-घंटा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कार्य-घंटा",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मानव-घंटे",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कार्य-घंटे",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मानव-माह",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कार्य-माह",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मानव-वर्ष",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कार्य-वर्ष",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "जलपुरुष",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जलमानव",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "रईस",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कुलीन व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "हलवाहा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कृषक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "हलवाहे",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कृषक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सिपाही",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पुलिस अधिकारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सैनिक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सेवा सदस्य",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "प्रदर्शनकर्ता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सह-संगीतकार",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सह-कलाकार",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कसाई",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "वधिक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "बर्फ़ का आदमी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "हिम-आकृति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "राजनेता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "राजनीतिज्ञ",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "भंडारपाल",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "भंडार कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "बलवान पुरुष",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बलवान व्यक्ति",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पहलवान",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बलवान व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "महामानव",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अतिमानव",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सुपरमैन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अतिमानव",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "भटकता मज़दूर",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "भटकता श्रमिक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कनिष्ठ छात्र",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कनिष्ठ विद्यार्थी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "वरिष्ठ छात्र",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "वरिष्ठ विद्यार्थी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "धोबी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "धुलाई कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "जंगली आदमी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जंगली व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "बचाव गोताखोर",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बचावकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कामगार",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कर्मचारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मज़दूर",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कर्मचारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "जमींदार",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अधिकारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "समाचार वाचिका",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "समाचार प्रस्तोता",
+    "category": "UNKNOWN",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "समाचार वाचिकाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "समाचार प्रस्तोता",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "स्त्री-विरोधी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "विरोधी",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "भूतनी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "राक्षस",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "भूतनियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "राक्षस",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "राक्षसी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "राक्षस",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गुफ़ावासी स्त्री",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "आदि मानव",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गुफ़ावासी स्त्रियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "आदि मानव",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सफ़ाई करने वाली",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सफ़ाई कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "शिल्पकारिन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कारीगर",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सामान्य महिला",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सामान्य व्यक्ति",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सामान्य महिलाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सामान्य व्यक्ति",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मछुआरिन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मत्स्य पालक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सीमांत अन्वेषिका",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सीमावर्ती निवासी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "सीमांत अन्वेषिकाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सीमावर्ती निवासी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "घुड़सवार महिला",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "घुड़सवार",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "घुड़सवार महिलाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "घुड़सवार",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पागल स्त्री",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पागल",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पागल स्त्रियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पागल",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "निशानेबाज़ महिला",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "निशानेबाज़",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "निशानेबाज़ महिलाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "निशानेबाज़",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कुलीन स्त्री",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कुलीन व्यक्ति",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सेविका",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सेवाकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "सेविकाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सेवाकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "महिला खिलाड़ी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "खिलाड़ी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "महिला राजनेता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "राजनीतिज्ञ",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "धोबिन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "धुलाई कर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "नारी जाति",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मानवता",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "स्त्रैण",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कोमल",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "स्त्रैण पुरुष",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सौम्य स्वभाव वाला व्यक्ति",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पुरुष अभिभावक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अभिभावक",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "महिला अभिभावक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अभिभावक",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "हाउसहसबैंड",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "गृह-प्रबंधक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कामकाजी स्त्री",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कामकाजी व्यक्ति",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कामकाजी स्त्रियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कामकाजी व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गायिका",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "गायक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "संचालिका",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "निर्देशक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "संचालिकाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "निर्देशक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सौतेली माँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सौतेला अभिभावक",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सौतेला पिता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सौतेला अभिभावक",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मातृभाषा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "प्रथम भाषा",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मातृभाषाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "प्रथम भाषाएँ",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मातृभूमि",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जन्मभूमि",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "धरती माता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पृथ्वी",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "धरती माताएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पृथ्वी",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "भारत माता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "भारत",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "भारत माताएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "भारत",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गंगा माता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "नदी",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गंगा माताएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "नदियाँ",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गौ माता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "गाय",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गौ माताएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "गायें",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गृहिणी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "गृह-प्रबंधक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "अध्यापक",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "शिक्षाकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "अध्यापिका",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "शिक्षाकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "अध्यापिकाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "शिक्षाकर्मी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "बिजनेसमैन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "व्यावसायिक व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "दाई",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जन्म सहायक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "दाइयाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जन्म सहायक",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मातृत्व",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अभिभावकत्व",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पितृत्व",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अभिभावकत्व",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "युवा पुरुष",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "युवा व्यक्ति",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "भाईचारे जैसा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मित्रवत",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "स्त्रियोचित",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सुसंस्कृत",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मर्दाना",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "साहसी",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मास्टर",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कुशल व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कुँवारा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अविवाहित व्यक्ति",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कुँवारे",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अविवाहित व्यक्ति",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कुँवारी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अविवाहित व्यक्ति",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कुँवारियाँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "अविवाहित व्यक्ति",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सज्जनों का समझौता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सम्मानजनक समझौता",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कुलटा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "विवाहेतर संबंध रखने वाला व्यक्ति",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "रखैल",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "विवाहेतर संबंध में शामिल व्यक्ति",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "हरामी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "गैर-वैवाहिक संतान",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "जैविक पुरुष",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जन्म के समय निर्दिष्ट लिंग",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "जैविक महिला",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जन्म के समय निर्दिष्ट लिंग",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "जैविक महिलाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जन्म के समय निर्दिष्ट लिंग",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "विधवा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जीवनसाथी खो चुका व्यक्ति",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "विधवाएँ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जीवनसाथी खो चुका व्यक्ति",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "विधुर",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जीवनसाथी खो चुका व्यक्ति",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "बाँझ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "निःसंतान व्यक्ति",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "पौरुष",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "साहस",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सज्जनता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "शिष्टता",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "स्त्री स्वच्छता उत्पाद",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मासिक धर्म उत्पाद",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सेल्समैन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "विक्रेता",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सेल्सवुमन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "विक्रेता",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सेल्समैन्स",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "विक्रय प्रतिनिधि लोग",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "हूकर",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सेक्स वर्कर",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "हाउस वाइफ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "होम मेकर",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "अप्राकृतिक संबंध",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सेक्सुअल संबंध",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "बाल वेश्या",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बच्चे जिनका ट्रैफिकिंग कराया जा रहा हो",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "छेड़छाड़",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सड़क पर यौन उत्पीड़न",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "गृहणी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "गृह स्वामिनी",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सभापति",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पीठासीन अधिकारी",
+    "category": "OCC",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कमाने वाला पुरुष",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कमाई करने वाला व्यक्ति",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "व्यभिचारिणी",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "विवाह के इतर यौन संबंध बनाना",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "सती-सावित्री",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "महिला",
+    "category": "REP",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "पवित्र महिला",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "महिला",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "जनाना",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "आत्मविश्वासी या मुखर",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "स्त्री जैसा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "आत्मविश्वासी या मुखर",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "उत्तेजक कपड़े",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कपड़े",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "घरवाली",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जीवनसाथी",
+    "category": "REL",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "घरवाला",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जीवनसाथी",
+    "category": "REL",
+    "grammatical_gender": "masculine_marked"
+  },
+  {
+    "subject": "पुरुषार्थ",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "साहस",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "जनाना व्यवहार",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "शांत",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मातृ संस्था",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मूल संस्था",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "घर का चिराग",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "संतान",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कन्यादान",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "विवाह संस्कार",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "भाईचारा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "बंधुत्व",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "चूड़ियाँ पहनना",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कायरता दिखाना",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मर्द का बच्चा",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "साहसी व्यक्ति",
+    "category": "REP",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "अन्नदाता",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "प्रदाता",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "यजमान",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "मेजबान",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "मानव संसाधन",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कार्मिक",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "जनमानस",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "जनता",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "भाई-भतीजावाद",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "पक्षपात",
+    "category": "REL",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "भ्रातृभाव",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "सौहार्द",
+    "category": "UNKNOWN",
+    "grammatical_gender": "context_dependent"
+  },
+  {
+    "subject": "कवयित्री",
+    "relation": "NEUTRAL_REPLACEMENT",
+    "object": "कवि",
+    "category": "OCC",
+    "grammatical_gender": "feminine_marked"
+  },
+  {
+    "subject": "पुरुष तर्कहीन होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग बुद्धिमान और सक्षम होते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "तर्कहीन होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 1
+  },
+  {
+    "subject": "आदमी तर्कहीन होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग बुद्धिमान और सक्षम होते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "तर्कहीन होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 2
+  },
+  {
+    "subject": "लड़के तर्कहीन होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग बुद्धिमान और सक्षम होते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "तर्कहीन होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 3
+  },
+  {
+    "subject": "महिलाएँ तर्कहीन होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग बुद्धिमान और सक्षम होते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "तर्कहीन होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 4
+  },
+  {
+    "subject": "औरतें तर्कहीन होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग बुद्धिमान और सक्षम होते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "तर्कहीन होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 5
+  },
+  {
+    "subject": "लड़कियाँ तर्कहीन होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग बुद्धिमान और सक्षम होते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "तर्कहीन होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 6
+  },
+  {
+    "subject": "पुरुष गणित में कमज़ोर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग गणित में कुशल हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "गणित में कमज़ोर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 7
+  },
+  {
+    "subject": "आदमी गणित में कमज़ोर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग गणित में कुशल हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "गणित में कमज़ोर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 8
+  },
+  {
+    "subject": "लड़के गणित में कमज़ोर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग गणित में कुशल हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "गणित में कमज़ोर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 9
+  },
+  {
+    "subject": "महिलाएँ गणित में कमज़ोर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग गणित में कुशल हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "गणित में कमज़ोर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 10
+  },
+  {
+    "subject": "औरतें गणित में कमज़ोर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग गणित में कुशल हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "गणित में कमज़ोर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 11
+  },
+  {
+    "subject": "लड़कियाँ गणित में कमज़ोर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग गणित में कुशल हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "गणित में कमज़ोर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 12
+  },
+  {
+    "subject": "पुरुष विज्ञान में अच्छे नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विज्ञान में उत्कृष्ट हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "विज्ञान में अच्छे नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 13
+  },
+  {
+    "subject": "आदमी विज्ञान में अच्छे नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विज्ञान में उत्कृष्ट हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "विज्ञान में अच्छे नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 14
+  },
+  {
+    "subject": "लड़के विज्ञान में अच्छे नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विज्ञान में उत्कृष्ट हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "विज्ञान में अच्छे नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 15
+  },
+  {
+    "subject": "महिलाएँ विज्ञान में अच्छी नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विज्ञान में उत्कृष्ट हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "विज्ञान में अच्छी नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 16
+  },
+  {
+    "subject": "औरतें विज्ञान में अच्छी नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विज्ञान में उत्कृष्ट हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "विज्ञान में अच्छी नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 17
+  },
+  {
+    "subject": "लड़कियाँ विज्ञान में अच्छी नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विज्ञान में उत्कृष्ट हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "विज्ञान में अच्छी नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 18
+  },
+  {
+    "subject": "पुरुष बुद्धिमान नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध प्रकार की बुद्धिमत्ता रखते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "बुद्धिमान नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 19
+  },
+  {
+    "subject": "आदमी बुद्धिमान नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध प्रकार की बुद्धिमत्ता रखते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "बुद्धिमान नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 20
+  },
+  {
+    "subject": "लड़के बुद्धिमान नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध प्रकार की बुद्धिमत्ता रखते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "बुद्धिमान नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 21
+  },
+  {
+    "subject": "महिलाएँ बुद्धिमान नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध प्रकार की बुद्धिमत्ता रखते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "बुद्धिमान नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 22
+  },
+  {
+    "subject": "औरतें बुद्धिमान नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध प्रकार की बुद्धिमत्ता रखते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "बुद्धिमान नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 23
+  },
+  {
+    "subject": "लड़कियाँ बुद्धिमान नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध प्रकार की बुद्धिमत्ता रखते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "बुद्धिमान नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 24
+  },
+  {
+    "subject": "पुरुष अनपढ़ होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शिक्षित और ज्ञानवान हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "अनपढ़ होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 25
+  },
+  {
+    "subject": "आदमी अनपढ़ होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शिक्षित और ज्ञानवान हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "अनपढ़ होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 26
+  },
+  {
+    "subject": "लड़के अनपढ़ होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शिक्षित और ज्ञानवान हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "अनपढ़ होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 27
+  },
+  {
+    "subject": "महिलाएँ अनपढ़ होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शिक्षित और ज्ञानवान हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "अनपढ़ होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 28
+  },
+  {
+    "subject": "औरतें अनपढ़ होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शिक्षित और ज्ञानवान हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "अनपढ़ होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 29
+  },
+  {
+    "subject": "लड़कियाँ अनपढ़ होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शिक्षित और ज्ञानवान हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "अनपढ़ होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 30
+  },
+  {
+    "subject": "पुरुष लिख नहीं सकते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग प्रतिभाशाली लेखक हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "लिख नहीं सकते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं सकते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 31
+  },
+  {
+    "subject": "आदमी लिख नहीं सकते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग प्रतिभाशाली लेखक हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "लिख नहीं सकते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं सकते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 32
+  },
+  {
+    "subject": "लड़के लिख नहीं सकते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग प्रतिभाशाली लेखक हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "लिख नहीं सकते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं सकते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 33
+  },
+  {
+    "subject": "महिलाएँ लिख नहीं सकतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग प्रतिभाशाली लेखक हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "लिख नहीं सकतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं सकतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 34
+  },
+  {
+    "subject": "औरतें लिख नहीं सकतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग प्रतिभाशाली लेखक हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "लिख नहीं सकतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं सकतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 35
+  },
+  {
+    "subject": "लड़कियाँ लिख नहीं सकतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग प्रतिभाशाली लेखक हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "लिख नहीं सकतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं सकतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 36
+  },
+  {
+    "subject": "पुरुष शोध में अच्छे नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शोध में योगदान दे सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "शोध में अच्छे नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 37
+  },
+  {
+    "subject": "आदमी शोध में अच्छे नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शोध में योगदान दे सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "शोध में अच्छे नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 38
+  },
+  {
+    "subject": "लड़के शोध में अच्छे नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शोध में योगदान दे सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "शोध में अच्छे नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 39
+  },
+  {
+    "subject": "महिलाएँ शोध में अच्छी नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शोध में योगदान दे सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "शोध में अच्छी नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 40
+  },
+  {
+    "subject": "औरतें शोध में अच्छी नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शोध में योगदान दे सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "शोध में अच्छी नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 41
+  },
+  {
+    "subject": "लड़कियाँ शोध में अच्छी नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शोध में योगदान दे सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "शोध में अच्छी नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 42
+  },
+  {
+    "subject": "पुरुष तर्कशील नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग आलोचनात्मक और तार्किक रूप से सोच सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "तर्कशील नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 43
+  },
+  {
+    "subject": "आदमी तर्कशील नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग आलोचनात्मक और तार्किक रूप से सोच सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "तर्कशील नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 44
+  },
+  {
+    "subject": "लड़के तर्कशील नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग आलोचनात्मक और तार्किक रूप से सोच सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "तर्कशील नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 45
+  },
+  {
+    "subject": "महिलाएँ तर्कशील नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग आलोचनात्मक और तार्किक रूप से सोच सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "तर्कशील नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 46
+  },
+  {
+    "subject": "औरतें तर्कशील नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग आलोचनात्मक और तार्किक रूप से सोच सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "तर्कशील नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 47
+  },
+  {
+    "subject": "लड़कियाँ तर्कशील नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग आलोचनात्मक और तार्किक रूप से सोच सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "तर्कशील नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 48
+  },
+  {
+    "subject": "पुरुष अज्ञानी होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ज्ञानवान और समझदार हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "अज्ञानी होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 49
+  },
+  {
+    "subject": "आदमी अज्ञानी होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ज्ञानवान और समझदार हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "अज्ञानी होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 50
+  },
+  {
+    "subject": "लड़के अज्ञानी होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ज्ञानवान और समझदार हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "अज्ञानी होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 51
+  },
+  {
+    "subject": "महिलाएँ अज्ञानी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ज्ञानवान और समझदार हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "अज्ञानी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 52
+  },
+  {
+    "subject": "औरतें अज्ञानी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ज्ञानवान और समझदार हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "अज्ञानी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 53
+  },
+  {
+    "subject": "लड़कियाँ अज्ञानी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ज्ञानवान और समझदार हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "अज्ञानी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 54
+  },
+  {
+    "subject": "पुरुष पढ़ते नहीं हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग उत्साही पाठक हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "पढ़ते नहीं हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 55
+  },
+  {
+    "subject": "आदमी पढ़ते नहीं हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग उत्साही पाठक हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "पढ़ते नहीं हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 56
+  },
+  {
+    "subject": "लड़के पढ़ते नहीं हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग उत्साही पाठक हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "पढ़ते नहीं हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 57
+  },
+  {
+    "subject": "महिलाएँ पढ़ती नहीं हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग उत्साही पाठक हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "पढ़ती नहीं हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 58
+  },
+  {
+    "subject": "औरतें पढ़ती नहीं हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग उत्साही पाठक हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "पढ़ती नहीं हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 59
+  },
+  {
+    "subject": "लड़कियाँ पढ़ती नहीं हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग उत्साही पाठक हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "पढ़ती नहीं हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 60
+  },
+  {
+    "subject": "पुरुष अच्छे शिक्षक नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग उत्कृष्ट शिक्षक हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "अच्छे शिक्षक नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 61
+  },
+  {
+    "subject": "आदमी अच्छे शिक्षक नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग उत्कृष्ट शिक्षक हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "अच्छे शिक्षक नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 62
+  },
+  {
+    "subject": "लड़के अच्छे शिक्षक नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग उत्कृष्ट शिक्षक हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "अच्छे शिक्षक नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 63
+  },
+  {
+    "subject": "महिलाएँ अच्छी शिक्षिका नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग उत्कृष्ट शिक्षक हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "अच्छी शिक्षिका नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 64
+  },
+  {
+    "subject": "औरतें अच्छी शिक्षिका नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग उत्कृष्ट शिक्षक हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "अच्छी शिक्षिका नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 65
+  },
+  {
+    "subject": "लड़कियाँ अच्छी शिक्षिका नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग उत्कृष्ट शिक्षक हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "अच्छी शिक्षिका नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 66
+  },
+  {
+    "subject": "पुरुष भूगोल में कमज़ोर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भूगोल में उत्कृष्ट हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "भूगोल में कमज़ोर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 67
+  },
+  {
+    "subject": "आदमी भूगोल में कमज़ोर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भूगोल में उत्कृष्ट हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "भूगोल में कमज़ोर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 68
+  },
+  {
+    "subject": "लड़के भूगोल में कमज़ोर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भूगोल में उत्कृष्ट हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "भूगोल में कमज़ोर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 69
+  },
+  {
+    "subject": "महिलाएँ भूगोल में कमज़ोर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भूगोल में उत्कृष्ट हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "भूगोल में कमज़ोर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 70
+  },
+  {
+    "subject": "औरतें भूगोल में कमज़ोर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भूगोल में उत्कृष्ट हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "भूगोल में कमज़ोर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 71
+  },
+  {
+    "subject": "लड़कियाँ भूगोल में कमज़ोर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भूगोल में उत्कृष्ट हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "भूगोल में कमज़ोर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 72
+  },
+  {
+    "subject": "पुरुष अत्यधिक भावुक होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी मनुष्यों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "अत्यधिक भावुक होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 73
+  },
+  {
+    "subject": "आदमी अत्यधिक भावुक होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी मनुष्यों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "अत्यधिक भावुक होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 74
+  },
+  {
+    "subject": "लड़के अत्यधिक भावुक होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी मनुष्यों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "अत्यधिक भावुक होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 75
+  },
+  {
+    "subject": "महिलाएँ अत्यधिक भावुक होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी मनुष्यों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "अत्यधिक भावुक होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 76
+  },
+  {
+    "subject": "औरतें अत्यधिक भावुक होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी मनुष्यों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "अत्यधिक भावुक होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 77
+  },
+  {
+    "subject": "लड़कियाँ अत्यधिक भावुक होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी मनुष्यों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "अत्यधिक भावुक होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 78
+  },
+  {
+    "subject": "पुरुष अपनी भावनाओं पर नियंत्रण नहीं रख सकते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी मनुष्यों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "अपनी भावनाओं पर नियंत्रण नहीं रख सकते",
+    "verb_gender": "masculine",
+    "verb_marker": "रख सकते",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 85
+  },
+  {
+    "subject": "आदमी अपनी भावनाओं पर नियंत्रण नहीं रख सकते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी मनुष्यों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "अपनी भावनाओं पर नियंत्रण नहीं रख सकते",
+    "verb_gender": "masculine",
+    "verb_marker": "रख सकते",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 86
+  },
+  {
+    "subject": "लड़के अपनी भावनाओं पर नियंत्रण नहीं रख सकते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी मनुष्यों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "अपनी भावनाओं पर नियंत्रण नहीं रख सकते",
+    "verb_gender": "masculine",
+    "verb_marker": "रख सकते",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 87
+  },
+  {
+    "subject": "महिलाएँ अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी मनुष्यों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "रख सकतीं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 88
+  },
+  {
+    "subject": "औरतें अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी मनुष्यों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "रख सकतीं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 89
+  },
+  {
+    "subject": "लड़कियाँ अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी मनुष्यों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "रख सकतीं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 90
+  },
+  {
+    "subject": "पुरुष भावनात्मक रूप से अस्थिर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध तरीकों से भावनाओं का अनुभव करते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "भावनात्मक रूप से अस्थिर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 79
+  },
+  {
+    "subject": "आदमी भावनात्मक रूप से अस्थिर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध तरीकों से भावनाओं का अनुभव करते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "भावनात्मक रूप से अस्थिर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 80
+  },
+  {
+    "subject": "लड़के भावनात्मक रूप से अस्थिर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध तरीकों से भावनाओं का अनुभव करते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "भावनात्मक रूप से अस्थिर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 81
+  },
+  {
+    "subject": "महिलाएँ भावनात्मक रूप से अस्थिर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध तरीकों से भावनाओं का अनुभव करते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "भावनात्मक रूप से अस्थिर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 82
+  },
+  {
+    "subject": "औरतें भावनात्मक रूप से अस्थिर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध तरीकों से भावनाओं का अनुभव करते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "भावनात्मक रूप से अस्थिर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 83
+  },
+  {
+    "subject": "लड़कियाँ भावनात्मक रूप से अस्थिर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध तरीकों से भावनाओं का अनुभव करते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "भावनात्मक रूप से अस्थिर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 84
+  },
+  {
+    "subject": "पुरुष कभी खुश नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी लोगों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "कभी खुश नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 91
+  },
+  {
+    "subject": "आदमी कभी खुश नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी लोगों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "कभी खुश नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 92
+  },
+  {
+    "subject": "लड़के कभी खुश नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी लोगों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "कभी खुश नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 93
+  },
+  {
+    "subject": "महिलाएँ कभी खुश नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी लोगों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "कभी खुश नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 94
+  },
+  {
+    "subject": "औरतें कभी खुश नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी लोगों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "कभी खुश नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 95
+  },
+  {
+    "subject": "लड़कियाँ कभी खुश नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी लोगों की तरह भावनाओं का अनुभव करते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "कभी खुश नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 96
+  },
+  {
+    "subject": "पुरुष कायर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग साहस और शक्ति दिखा सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "कायर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 97
+  },
+  {
+    "subject": "आदमी कायर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग साहस और शक्ति दिखा सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "कायर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 98
+  },
+  {
+    "subject": "लड़के कायर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग साहस और शक्ति दिखा सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "कायर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 99
+  },
+  {
+    "subject": "महिलाएँ कायर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग साहस और शक्ति दिखा सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "कायर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 100
+  },
+  {
+    "subject": "औरतें कायर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग साहस और शक्ति दिखा सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "कायर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 101
+  },
+  {
+    "subject": "लड़कियाँ कायर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग साहस और शक्ति दिखा सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "कायर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 102
+  },
+  {
+    "subject": "पुरुष रोते हैं तो कमज़ोर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भावनाओं को व्यक्त करना स्वाभाविक है",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "रोते हैं तो कमज़ोर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 103
+  },
+  {
+    "subject": "आदमी रोते हैं तो कमज़ोर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भावनाओं को व्यक्त करना स्वाभाविक है",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "रोते हैं तो कमज़ोर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 104
+  },
+  {
+    "subject": "लड़के रोते हैं तो कमज़ोर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भावनाओं को व्यक्त करना स्वाभाविक है",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "रोते हैं तो कमज़ोर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 105
+  },
+  {
+    "subject": "महिलाएँ रोती हैं तो कमज़ोर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भावनाओं को व्यक्त करना स्वाभाविक है",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "रोती हैं तो कमज़ोर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 106
+  },
+  {
+    "subject": "औरतें रोती हैं तो कमज़ोर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भावनाओं को व्यक्त करना स्वाभाविक है",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "रोती हैं तो कमज़ोर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 107
+  },
+  {
+    "subject": "लड़कियाँ रोती हैं तो कमज़ोर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भावनाओं को व्यक्त करना स्वाभाविक है",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "रोती हैं तो कमज़ोर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 108
+  },
+  {
+    "subject": "पुरुष समझ से बाहर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी व्यक्तियों की तरह अद्वितीय दृष्टिकोण रखते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "समझ से बाहर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 109
+  },
+  {
+    "subject": "आदमी समझ से बाहर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी व्यक्तियों की तरह अद्वितीय दृष्टिकोण रखते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "समझ से बाहर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 110
+  },
+  {
+    "subject": "लड़के समझ से बाहर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी व्यक्तियों की तरह अद्वितीय दृष्टिकोण रखते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "समझ से बाहर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 111
+  },
+  {
+    "subject": "महिलाएँ समझ से बाहर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी व्यक्तियों की तरह अद्वितीय दृष्टिकोण रखते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "समझ से बाहर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 112
+  },
+  {
+    "subject": "औरतें समझ से बाहर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी व्यक्तियों की तरह अद्वितीय दृष्टिकोण रखते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "समझ से बाहर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 113
+  },
+  {
+    "subject": "लड़कियाँ समझ से बाहर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी व्यक्तियों की तरह अद्वितीय दृष्टिकोण रखते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "समझ से बाहर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 114
+  },
+  {
+    "subject": "पुरुष ज़िद्दी होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग दृढ़ निश्चयी और विचारशील हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "ज़िद्दी होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 115
+  },
+  {
+    "subject": "आदमी ज़िद्दी होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग दृढ़ निश्चयी और विचारशील हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "ज़िद्दी होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 116
+  },
+  {
+    "subject": "लड़के ज़िद्दी होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग दृढ़ निश्चयी और विचारशील हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "ज़िद्दी होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 117
+  },
+  {
+    "subject": "महिलाएँ ज़िद्दी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग दृढ़ निश्चयी और विचारशील हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "ज़िद्दी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 118
+  },
+  {
+    "subject": "औरतें ज़िद्दी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग दृढ़ निश्चयी और विचारशील हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "ज़िद्दी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 119
+  },
+  {
+    "subject": "लड़कियाँ ज़िद्दी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग दृढ़ निश्चयी और विचारशील हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "ज़िद्दी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 120
+  },
+  {
+    "subject": "पुरुष रसोई में ही रहने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी करियर या जीवनशैली चुन सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "रसोई में ही रहने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "रहने चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 121
+  },
+  {
+    "subject": "आदमी रसोई में ही रहने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी करियर या जीवनशैली चुन सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "रसोई में ही रहने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "रहने चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 122
+  },
+  {
+    "subject": "लड़के रसोई में ही रहने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी करियर या जीवनशैली चुन सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "रसोई में ही रहने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "रहने चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 123
+  },
+  {
+    "subject": "महिलाएँ रसोई में ही रहनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी करियर या जीवनशैली चुन सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "रसोई में ही रहनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "रहनी चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 124
+  },
+  {
+    "subject": "औरतें रसोई में ही रहनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी करियर या जीवनशैली चुन सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "रसोई में ही रहनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "रहनी चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 125
+  },
+  {
+    "subject": "लड़कियाँ रसोई में ही रहनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी करियर या जीवनशैली चुन सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "रसोई में ही रहनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "रहनी चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 126
+  },
+  {
+    "subject": "पुरुष शादी कर लेने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपना रास्ता स्वयं चुन सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "शादी कर लेने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "लेने चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 127
+  },
+  {
+    "subject": "आदमी शादी कर लेने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपना रास्ता स्वयं चुन सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "शादी कर लेने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "लेने चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 128
+  },
+  {
+    "subject": "महिलाएँ शादी कर लेनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपना रास्ता स्वयं चुन सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "शादी कर लेनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "लेनी चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 129
+  },
+  {
+    "subject": "औरतें शादी कर लेनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपना रास्ता स्वयं चुन सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "शादी कर लेनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "लेनी चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 130
+  },
+  {
+    "subject": "पुरुष घर संभालने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी भूमिका निभा सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "घर संभालने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "संभालने चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 131
+  },
+  {
+    "subject": "आदमी घर संभालने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी भूमिका निभा सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "घर संभालने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "संभालने चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 132
+  },
+  {
+    "subject": "लड़के घर संभालने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी भूमिका निभा सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "घर संभालने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "संभालने चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 133
+  },
+  {
+    "subject": "महिलाएँ घर संभालनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी भूमिका निभा सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "घर संभालनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "संभालनी चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 134
+  },
+  {
+    "subject": "औरतें घर संभालनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी भूमिका निभा सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "घर संभालनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "संभालनी चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 135
+  },
+  {
+    "subject": "लड़कियाँ घर संभालनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी भूमिका निभा सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "घर संभालनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "संभालनी चाहिए",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 136
+  },
+  {
+    "subject": "पुरुष परिवार के लिए कमाते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी लोग आर्थिक योगदान दे सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "परिवार के लिए कमाते हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 137
+  },
+  {
+    "subject": "आदमी परिवार के लिए कमाते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी लोग आर्थिक योगदान दे सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "परिवार के लिए कमाते हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 138
+  },
+  {
+    "subject": "महिलाएँ परिवार के लिए कमाती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी लोग आर्थिक योगदान दे सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "परिवार के लिए कमाती हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 139
+  },
+  {
+    "subject": "औरतें परिवार के लिए कमाती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी लोग आर्थिक योगदान दे सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "परिवार के लिए कमाती हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 140
+  },
+  {
+    "subject": "पुरुष बच्चों की देखभाल करते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी अभिभावक बच्चों की देखभाल कर सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "बच्चों की देखभाल करते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "करते हैं",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 141
+  },
+  {
+    "subject": "आदमी बच्चों की देखभाल करते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी अभिभावक बच्चों की देखभाल कर सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "बच्चों की देखभाल करते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "करते हैं",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 142
+  },
+  {
+    "subject": "लड़के बच्चों की देखभाल करते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी अभिभावक बच्चों की देखभाल कर सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "बच्चों की देखभाल करते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "करते हैं",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 143
+  },
+  {
+    "subject": "महिलाएँ बच्चों की देखभाल करती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी अभिभावक बच्चों की देखभाल कर सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "बच्चों की देखभाल करती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "करती हैं",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 144
+  },
+  {
+    "subject": "औरतें बच्चों की देखभाल करती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी अभिभावक बच्चों की देखभाल कर सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "बच्चों की देखभाल करती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "करती हैं",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 145
+  },
+  {
+    "subject": "लड़कियाँ बच्चों की देखभाल करती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी अभिभावक बच्चों की देखभाल कर सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "बच्चों की देखभाल करती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "करती हैं",
+    "stereotype_dimensions": [
+      "Family_Roles"
+    ],
+    "pair_id": 146
+  },
+  {
+    "subject": "पुरुष सिर्फ़ गृहिणी होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध भूमिकाएँ निभा सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "सिर्फ़ गृहिणी होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 147
+  },
+  {
+    "subject": "आदमी सिर्फ़ गृहिणी होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध भूमिकाएँ निभा सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "सिर्फ़ गृहिणी होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 148
+  },
+  {
+    "subject": "महिलाएँ सिर्फ़ गृहिणी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध भूमिकाएँ निभा सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "सिर्फ़ गृहिणी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 149
+  },
+  {
+    "subject": "औरतें सिर्फ़ गृहिणी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग विविध भूमिकाएँ निभा सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "सिर्फ़ गृहिणी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 150
+  },
+  {
+    "subject": "पुरुष ज़्यादा पढ़ाने की ज़रूरत नहीं है",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी को समान शिक्षा का अधिकार है",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "ज़्यादा पढ़ाने की ज़रूरत नहीं है",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 151
+  },
+  {
+    "subject": "आदमी ज़्यादा पढ़ाने की ज़रूरत नहीं है",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी को समान शिक्षा का अधिकार है",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "ज़्यादा पढ़ाने की ज़रूरत नहीं है",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 152
+  },
+  {
+    "subject": "लड़के ज़्यादा पढ़ाने की ज़रूरत नहीं है",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी को समान शिक्षा का अधिकार है",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "ज़्यादा पढ़ाने की ज़रूरत नहीं है",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 153
+  },
+  {
+    "subject": "महिलाएँ ज़्यादा पढ़ाने की ज़रूरत नहीं है",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी को समान शिक्षा का अधिकार है",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "ज़्यादा पढ़ाने की ज़रूरत नहीं है",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 154
+  },
+  {
+    "subject": "औरतें ज़्यादा पढ़ाने की ज़रूरत नहीं है",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी को समान शिक्षा का अधिकार है",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "ज़्यादा पढ़ाने की ज़रूरत नहीं है",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 155
+  },
+  {
+    "subject": "लड़कियाँ ज़्यादा पढ़ाने की ज़रूरत नहीं है",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सभी को समान शिक्षा का अधिकार है",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "ज़्यादा पढ़ाने की ज़रूरत नहीं है",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 156
+  },
+  {
+    "subject": "पुरुष अपनी जगह पर रहने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग स्वतंत्रता और समानता के अधिकारी हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "अपनी जगह पर रहने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "रहने चाहिए",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 157
+  },
+  {
+    "subject": "आदमी अपनी जगह पर रहने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग स्वतंत्रता और समानता के अधिकारी हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "अपनी जगह पर रहने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "रहने चाहिए",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 158
+  },
+  {
+    "subject": "लड़के अपनी जगह पर रहने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग स्वतंत्रता और समानता के अधिकारी हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "अपनी जगह पर रहने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "रहने चाहिए",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 159
+  },
+  {
+    "subject": "महिलाएँ अपनी जगह पर रहनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग स्वतंत्रता और समानता के अधिकारी हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "अपनी जगह पर रहनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "रहनी चाहिए",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 160
+  },
+  {
+    "subject": "औरतें अपनी जगह पर रहनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग स्वतंत्रता और समानता के अधिकारी हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "अपनी जगह पर रहनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "रहनी चाहिए",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 161
+  },
+  {
+    "subject": "लड़कियाँ अपनी जगह पर रहनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग स्वतंत्रता और समानता के अधिकारी हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "अपनी जगह पर रहनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "रहनी चाहिए",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 162
+  },
+  {
+    "subject": "पुरुष अच्छे पालक नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग श्रेष्ठ अभिभावक हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "अच्छे पालक नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 163
+  },
+  {
+    "subject": "आदमी अच्छे पालक नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग श्रेष्ठ अभिभावक हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "अच्छे पालक नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 164
+  },
+  {
+    "subject": "लड़के अच्छे पालक नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग श्रेष्ठ अभिभावक हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "अच्छे पालक नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 165
+  },
+  {
+    "subject": "महिलाएँ अच्छी पालक नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग श्रेष्ठ अभिभावक हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "अच्छी पालक नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 166
+  },
+  {
+    "subject": "औरतें अच्छी पालक नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग श्रेष्ठ अभिभावक हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "अच्छी पालक नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 167
+  },
+  {
+    "subject": "लड़कियाँ अच्छी पालक नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग श्रेष्ठ अभिभावक हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "अच्छी पालक नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 168
+  },
+  {
+    "subject": "पुरुष पति / पत्नी का कहना मानने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग आपसी सम्मान और साझेदारी पर आधारित रिश्ते बनाते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "पति / पत्नी का कहना मानने चाहिए",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 169
+  },
+  {
+    "subject": "आदमी पति / पत्नी का कहना मानने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग आपसी सम्मान और साझेदारी पर आधारित रिश्ते बनाते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "पति / पत्नी का कहना मानने चाहिए",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 170
+  },
+  {
+    "subject": "महिलाएँ पति / पत्नी का कहना माननी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग आपसी सम्मान और साझेदारी पर आधारित रिश्ते बनाते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "पति / पत्नी का कहना माननी चाहिए",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 171
+  },
+  {
+    "subject": "औरतें पति / पत्नी का कहना माननी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग आपसी सम्मान और साझेदारी पर आधारित रिश्ते बनाते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "पति / पत्नी का कहना माननी चाहिए",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 172
+  },
+  {
+    "subject": "पुरुष शारीरिक रूप से कमज़ोर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शारीरिक रूप से मज़बूत और सक्षम हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "शारीरिक रूप से कमज़ोर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 173
+  },
+  {
+    "subject": "आदमी शारीरिक रूप से कमज़ोर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शारीरिक रूप से मज़बूत और सक्षम हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "शारीरिक रूप से कमज़ोर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 174
+  },
+  {
+    "subject": "लड़के शारीरिक रूप से कमज़ोर होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शारीरिक रूप से मज़बूत और सक्षम हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "शारीरिक रूप से कमज़ोर होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 175
+  },
+  {
+    "subject": "महिलाएँ शारीरिक रूप से कमज़ोर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शारीरिक रूप से मज़बूत और सक्षम हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "शारीरिक रूप से कमज़ोर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 176
+  },
+  {
+    "subject": "औरतें शारीरिक रूप से कमज़ोर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शारीरिक रूप से मज़बूत और सक्षम हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "शारीरिक रूप से कमज़ोर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 177
+  },
+  {
+    "subject": "लड़कियाँ शारीरिक रूप से कमज़ोर होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग शारीरिक रूप से मज़बूत और सक्षम हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "शारीरिक रूप से कमज़ोर होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 178
+  },
+  {
+    "subject": "पुरुष खेलों में अच्छे नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कुशल खिलाड़ी हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "खेलों में अच्छे नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 179
+  },
+  {
+    "subject": "आदमी खेलों में अच्छे नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कुशल खिलाड़ी हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "खेलों में अच्छे नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 180
+  },
+  {
+    "subject": "लड़के खेलों में अच्छे नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कुशल खिलाड़ी हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "खेलों में अच्छे नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 181
+  },
+  {
+    "subject": "महिलाएँ खेलों में अच्छी नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कुशल खिलाड़ी हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "खेलों में अच्छी नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 182
+  },
+  {
+    "subject": "औरतें खेलों में अच्छी नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कुशल खिलाड़ी हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "खेलों में अच्छी नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 183
+  },
+  {
+    "subject": "लड़कियाँ खेलों में अच्छी नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कुशल खिलाड़ी हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "खेलों में अच्छी नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 184
+  },
+  {
+    "subject": "पुरुष खेलों में भाग नहीं लेने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान रूप से खेलों में भाग ले सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "खेलों में भाग नहीं लेने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "लेने चाहिए",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 185
+  },
+  {
+    "subject": "आदमी खेलों में भाग नहीं लेने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान रूप से खेलों में भाग ले सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "खेलों में भाग नहीं लेने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "लेने चाहिए",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 186
+  },
+  {
+    "subject": "लड़के खेलों में भाग नहीं लेने चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान रूप से खेलों में भाग ले सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "खेलों में भाग नहीं लेने चाहिए",
+    "verb_gender": "masculine",
+    "verb_marker": "लेने चाहिए",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 187
+  },
+  {
+    "subject": "महिलाएँ खेलों में भाग नहीं लेनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान रूप से खेलों में भाग ले सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "खेलों में भाग नहीं लेनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "लेनी चाहिए",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 188
+  },
+  {
+    "subject": "औरतें खेलों में भाग नहीं लेनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान रूप से खेलों में भाग ले सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "खेलों में भाग नहीं लेनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "लेनी चाहिए",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 189
+  },
+  {
+    "subject": "लड़कियाँ खेलों में भाग नहीं लेनी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान रूप से खेलों में भाग ले सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "खेलों में भाग नहीं लेनी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "लेनी चाहिए",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 190
+  },
+  {
+    "subject": "पुरुष ट्रक नहीं चला सकते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी वाहन चला सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "ट्रक नहीं चला सकते",
+    "verb_gender": "masculine",
+    "verb_marker": "चला सकते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 191
+  },
+  {
+    "subject": "आदमी ट्रक नहीं चला सकते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी वाहन चला सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "ट्रक नहीं चला सकते",
+    "verb_gender": "masculine",
+    "verb_marker": "चला सकते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 192
+  },
+  {
+    "subject": "लड़के ट्रक नहीं चला सकते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी वाहन चला सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "ट्रक नहीं चला सकते",
+    "verb_gender": "masculine",
+    "verb_marker": "चला सकते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 193
+  },
+  {
+    "subject": "महिलाएँ ट्रक नहीं चला सकतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी वाहन चला सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "ट्रक नहीं चला सकतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "चला सकतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 194
+  },
+  {
+    "subject": "औरतें ट्रक नहीं चला सकतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी वाहन चला सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "ट्रक नहीं चला सकतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "चला सकतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 195
+  },
+  {
+    "subject": "लड़कियाँ ट्रक नहीं चला सकतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी वाहन चला सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "ट्रक नहीं चला सकतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "चला सकतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 196
+  },
+  {
+    "subject": "पुरुष अच्छे ड्राइवर नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कुशल और ज़िम्मेदार ड्राइवर हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "अच्छे ड्राइवर नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 197
+  },
+  {
+    "subject": "आदमी अच्छे ड्राइवर नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कुशल और ज़िम्मेदार ड्राइवर हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "अच्छे ड्राइवर नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 198
+  },
+  {
+    "subject": "लड़के अच्छे ड्राइवर नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कुशल और ज़िम्मेदार ड्राइवर हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "अच्छे ड्राइवर नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 199
+  },
+  {
+    "subject": "महिलाएँ अच्छी ड्राइवर नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कुशल और ज़िम्मेदार ड्राइवर हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "अच्छी ड्राइवर नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 200
+  },
+  {
+    "subject": "औरतें अच्छी ड्राइवर नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कुशल और ज़िम्मेदार ड्राइवर हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "अच्छी ड्राइवर नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 201
+  },
+  {
+    "subject": "लड़कियाँ अच्छी ड्राइवर नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कुशल और ज़िम्मेदार ड्राइवर हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "अच्छी ड्राइवर नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Behavior"
+    ],
+    "pair_id": 202
+  },
+  {
+    "subject": "पुरुष मांसपेशियाँ नहीं बनानी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपनी इच्छानुसार शक्ति बना सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "मांसपेशियाँ नहीं बनानी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "बनानी चाहिए",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 203
+  },
+  {
+    "subject": "आदमी मांसपेशियाँ नहीं बनानी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपनी इच्छानुसार शक्ति बना सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "मांसपेशियाँ नहीं बनानी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "बनानी चाहिए",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 204
+  },
+  {
+    "subject": "लड़के मांसपेशियाँ नहीं बनानी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपनी इच्छानुसार शक्ति बना सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "मांसपेशियाँ नहीं बनानी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "बनानी चाहिए",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 205
+  },
+  {
+    "subject": "महिलाएँ मांसपेशियाँ नहीं बनानी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपनी इच्छानुसार शक्ति बना सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "मांसपेशियाँ नहीं बनानी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "बनानी चाहिए",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 206
+  },
+  {
+    "subject": "औरतें मांसपेशियाँ नहीं बनानी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपनी इच्छानुसार शक्ति बना सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "मांसपेशियाँ नहीं बनानी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "बनानी चाहिए",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 207
+  },
+  {
+    "subject": "लड़कियाँ मांसपेशियाँ नहीं बनानी चाहिए",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपनी इच्छानुसार शक्ति बना सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "मांसपेशियाँ नहीं बनानी चाहिए",
+    "verb_gender": "feminine",
+    "verb_marker": "बनानी चाहिए",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 208
+  },
+  {
+    "subject": "पुरुष अपनी रक्षा नहीं कर सकते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपना बचाव कर सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "अपनी रक्षा नहीं कर सकते",
+    "verb_gender": "masculine",
+    "verb_marker": "कर सकते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 209
+  },
+  {
+    "subject": "आदमी अपनी रक्षा नहीं कर सकते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपना बचाव कर सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "अपनी रक्षा नहीं कर सकते",
+    "verb_gender": "masculine",
+    "verb_marker": "कर सकते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 210
+  },
+  {
+    "subject": "लड़के अपनी रक्षा नहीं कर सकते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपना बचाव कर सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "अपनी रक्षा नहीं कर सकते",
+    "verb_gender": "masculine",
+    "verb_marker": "कर सकते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 211
+  },
+  {
+    "subject": "महिलाएँ अपनी रक्षा नहीं कर सकतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपना बचाव कर सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "अपनी रक्षा नहीं कर सकतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "कर सकतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 212
+  },
+  {
+    "subject": "औरतें अपनी रक्षा नहीं कर सकतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपना बचाव कर सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "अपनी रक्षा नहीं कर सकतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "कर सकतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 213
+  },
+  {
+    "subject": "लड़कियाँ अपनी रक्षा नहीं कर सकतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपना बचाव कर सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "अपनी रक्षा नहीं कर सकतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "कर सकतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 214
+  },
+  {
+    "subject": "पुरुष खिलाड़ी नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग एथलेटिक और सक्रिय हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "खिलाड़ी नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 215
+  },
+  {
+    "subject": "आदमी खिलाड़ी नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग एथलेटिक और सक्रिय हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "खिलाड़ी नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 216
+  },
+  {
+    "subject": "लड़के खिलाड़ी नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग एथलेटिक और सक्रिय हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "खिलाड़ी नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 217
+  },
+  {
+    "subject": "महिलाएँ खिलाड़ी नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग एथलेटिक और सक्रिय हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "खिलाड़ी नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 218
+  },
+  {
+    "subject": "औरतें खिलाड़ी नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग एथलेटिक और सक्रिय हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "खिलाड़ी नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 219
+  },
+  {
+    "subject": "लड़कियाँ खिलाड़ी नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग एथलेटिक और सक्रिय हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "खिलाड़ी नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 220
+  },
+  {
+    "subject": "पुरुष समान नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान और मूल्यवान हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "समान नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 221
+  },
+  {
+    "subject": "आदमी समान नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान और मूल्यवान हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "समान नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 222
+  },
+  {
+    "subject": "लड़के समान नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान और मूल्यवान हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "समान नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 223
+  },
+  {
+    "subject": "महिलाएँ समान नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान और मूल्यवान हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "समान नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 224
+  },
+  {
+    "subject": "औरतें समान नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान और मूल्यवान हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "समान नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 225
+  },
+  {
+    "subject": "लड़कियाँ समान नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान और मूल्यवान हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "समान नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 226
+  },
+  {
+    "subject": "पुरुष कम मूल्यवान होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान रूप से मूल्यवान हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "कम मूल्यवान होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 227
+  },
+  {
+    "subject": "आदमी कम मूल्यवान होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान रूप से मूल्यवान हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "कम मूल्यवान होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 228
+  },
+  {
+    "subject": "लड़के कम मूल्यवान होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान रूप से मूल्यवान हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "कम मूल्यवान होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 229
+  },
+  {
+    "subject": "महिलाएँ कम मूल्यवान होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान रूप से मूल्यवान हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "कम मूल्यवान होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 230
+  },
+  {
+    "subject": "औरतें कम मूल्यवान होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान रूप से मूल्यवान हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "कम मूल्यवान होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 231
+  },
+  {
+    "subject": "लड़कियाँ कम मूल्यवान होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान रूप से मूल्यवान हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "कम मूल्यवान होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 232
+  },
+  {
+    "subject": "पुरुष गरिमा के योग्य नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग गरिमा और सम्मान के पात्र हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "गरिमा के योग्य नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 233
+  },
+  {
+    "subject": "आदमी गरिमा के योग्य नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग गरिमा और सम्मान के पात्र हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "गरिमा के योग्य नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 234
+  },
+  {
+    "subject": "लड़के गरिमा के योग्य नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग गरिमा और सम्मान के पात्र हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "गरिमा के योग्य नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 235
+  },
+  {
+    "subject": "महिलाएँ गरिमा के योग्य नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग गरिमा और सम्मान के पात्र हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "गरिमा के योग्य नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 236
+  },
+  {
+    "subject": "औरतें गरिमा के योग्य नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग गरिमा और सम्मान के पात्र हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "गरिमा के योग्य नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 237
+  },
+  {
+    "subject": "लड़कियाँ गरिमा के योग्य नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग गरिमा और सम्मान के पात्र हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "गरिमा के योग्य नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Intelligence_Learning"
+    ],
+    "pair_id": 238
+  },
+  {
+    "subject": "पुरुष प्रेम के योग्य नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग प्रेम और सम्मान के पात्र हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "प्रेम के योग्य नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Emotion",
+      "Intelligence_Learning"
+    ],
+    "pair_id": 239
+  },
+  {
+    "subject": "आदमी प्रेम के योग्य नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग प्रेम और सम्मान के पात्र हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "प्रेम के योग्य नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Emotion",
+      "Intelligence_Learning"
+    ],
+    "pair_id": 240
+  },
+  {
+    "subject": "लड़के प्रेम के योग्य नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग प्रेम और सम्मान के पात्र हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "प्रेम के योग्य नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "Emotion",
+      "Intelligence_Learning"
+    ],
+    "pair_id": 241
+  },
+  {
+    "subject": "महिलाएँ प्रेम के योग्य नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग प्रेम और सम्मान के पात्र हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "प्रेम के योग्य नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Emotion",
+      "Intelligence_Learning"
+    ],
+    "pair_id": 242
+  },
+  {
+    "subject": "औरतें प्रेम के योग्य नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग प्रेम और सम्मान के पात्र हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "प्रेम के योग्य नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Emotion",
+      "Intelligence_Learning"
+    ],
+    "pair_id": 243
+  },
+  {
+    "subject": "लड़कियाँ प्रेम के योग्य नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग प्रेम और सम्मान के पात्र हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "प्रेम के योग्य नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "Emotion",
+      "Intelligence_Learning"
+    ],
+    "pair_id": 244
+  },
+  {
+    "subject": "पुरुष उनके अधिकार नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान अधिकारों के पात्र हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "उनके अधिकार नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 245
+  },
+  {
+    "subject": "आदमी उनके अधिकार नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान अधिकारों के पात्र हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "उनके अधिकार नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 246
+  },
+  {
+    "subject": "लड़के उनके अधिकार नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान अधिकारों के पात्र हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "उनके अधिकार नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 247
+  },
+  {
+    "subject": "महिलाएँ उनके अधिकार नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान अधिकारों के पात्र हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "उनके अधिकार नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 248
+  },
+  {
+    "subject": "औरतें उनके अधिकार नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान अधिकारों के पात्र हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "उनके अधिकार नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 249
+  },
+  {
+    "subject": "लड़कियाँ उनके अधिकार नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग समान अधिकारों के पात्र हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "उनके अधिकार नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 250
+  },
+  {
+    "subject": "पुरुष गंभीरता से नहीं लिए जाते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सुने जाने और महत्व दिए जाने के पात्र हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "गंभीरता से नहीं लिए जाते",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 251
+  },
+  {
+    "subject": "आदमी गंभीरता से नहीं लिए जाते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सुने जाने और महत्व दिए जाने के पात्र हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "गंभीरता से नहीं लिए जाते",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 252
+  },
+  {
+    "subject": "लड़के गंभीरता से नहीं लिए जाते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सुने जाने और महत्व दिए जाने के पात्र हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "गंभीरता से नहीं लिए जाते",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 253
+  },
+  {
+    "subject": "महिलाएँ गंभीरता से नहीं ली जातीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सुने जाने और महत्व दिए जाने के पात्र हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "गंभीरता से नहीं ली जातीं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 254
+  },
+  {
+    "subject": "औरतें गंभीरता से नहीं ली जातीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सुने जाने और महत्व दिए जाने के पात्र हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "गंभीरता से नहीं ली जातीं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 255
+  },
+  {
+    "subject": "लड़कियाँ गंभीरता से नहीं ली जातीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सुने जाने और महत्व दिए जाने के पात्र हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "गंभीरता से नहीं ली जातीं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 256
+  },
+  {
+    "subject": "पुरुष उन पर भरोसा नहीं किया जा सकता",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भरोसेमंद हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "उन पर भरोसा नहीं किया जा सकता",
+    "verb_gender": "masculine",
+    "verb_marker": "जा सकता",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 257
+  },
+  {
+    "subject": "आदमी उन पर भरोसा नहीं किया जा सकता",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भरोसेमंद हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "उन पर भरोसा नहीं किया जा सकता",
+    "verb_gender": "masculine",
+    "verb_marker": "जा सकता",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 258
+  },
+  {
+    "subject": "लड़के उन पर भरोसा नहीं किया जा सकता",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भरोसेमंद हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "उन पर भरोसा नहीं किया जा सकता",
+    "verb_gender": "masculine",
+    "verb_marker": "जा सकता",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 259
+  },
+  {
+    "subject": "महिलाएँ उन पर भरोसा नहीं किया जा सकता",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भरोसेमंद हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "उन पर भरोसा नहीं किया जा सकता",
+    "verb_gender": "masculine",
+    "verb_marker": "जा सकता",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 260
+  },
+  {
+    "subject": "औरतें उन पर भरोसा नहीं किया जा सकता",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भरोसेमंद हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "उन पर भरोसा नहीं किया जा सकता",
+    "verb_gender": "masculine",
+    "verb_marker": "जा सकता",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 261
+  },
+  {
+    "subject": "लड़कियाँ उन पर भरोसा नहीं किया जा सकता",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग भरोसेमंद हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "उन पर भरोसा नहीं किया जा सकता",
+    "verb_gender": "masculine",
+    "verb_marker": "जा सकता",
+    "stereotype_dimensions": [
+      "Emotion"
+    ],
+    "pair_id": 262
+  },
+  {
+    "subject": "पुरुष झूठे होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ईमानदार और विश्वसनीय हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "झूठे होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 263
+  },
+  {
+    "subject": "आदमी झूठे होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ईमानदार और विश्वसनीय हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "झूठे होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 264
+  },
+  {
+    "subject": "लड़के झूठे होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ईमानदार और विश्वसनीय हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "झूठे होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 265
+  },
+  {
+    "subject": "महिलाएँ झूठी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ईमानदार और विश्वसनीय हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "झूठी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 266
+  },
+  {
+    "subject": "औरतें झूठी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ईमानदार और विश्वसनीय हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "झूठी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 267
+  },
+  {
+    "subject": "लड़कियाँ झूठी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ईमानदार और विश्वसनीय हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "झूठी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 268
+  },
+  {
+    "subject": "पुरुष ग़ैरज़िम्मेदार होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ज़िम्मेदार और भरोसेमंद हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "ग़ैरज़िम्मेदार होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 269
+  },
+  {
+    "subject": "आदमी ग़ैरज़िम्मेदार होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ज़िम्मेदार और भरोसेमंद हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "ग़ैरज़िम्मेदार होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 270
+  },
+  {
+    "subject": "लड़के ग़ैरज़िम्मेदार होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ज़िम्मेदार और भरोसेमंद हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "ग़ैरज़िम्मेदार होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 271
+  },
+  {
+    "subject": "महिलाएँ ग़ैरज़िम्मेदार होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ज़िम्मेदार और भरोसेमंद हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "ग़ैरज़िम्मेदार होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 272
+  },
+  {
+    "subject": "औरतें ग़ैरज़िम्मेदार होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ज़िम्मेदार और भरोसेमंद हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "ग़ैरज़िम्मेदार होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 273
+  },
+  {
+    "subject": "लड़कियाँ ग़ैरज़िम्मेदार होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग ज़िम्मेदार और भरोसेमंद हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "ग़ैरज़िम्मेदार होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 274
+  },
+  {
+    "subject": "पुरुष सभी एक जैसे होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अद्वितीय व्यक्ति हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "सभी एक जैसे होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 275
+  },
+  {
+    "subject": "आदमी सभी एक जैसे होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अद्वितीय व्यक्ति हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "सभी एक जैसे होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 276
+  },
+  {
+    "subject": "लड़के सभी एक जैसे होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अद्वितीय व्यक्ति हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "सभी एक जैसे होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 277
+  },
+  {
+    "subject": "महिलाएँ सभी एक जैसी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अद्वितीय व्यक्ति हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "सभी एक जैसी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 278
+  },
+  {
+    "subject": "औरतें सभी एक जैसी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अद्वितीय व्यक्ति हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "सभी एक जैसी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 279
+  },
+  {
+    "subject": "लड़कियाँ सभी एक जैसी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अद्वितीय व्यक्ति हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "सभी एक जैसी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 280
+  },
+  {
+    "subject": "पुरुष मज़ाकिया नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अच्छी हास्य क्षमता रख सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "मज़ाकिया नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 281
+  },
+  {
+    "subject": "आदमी मज़ाकिया नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अच्छी हास्य क्षमता रख सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "मज़ाकिया नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 282
+  },
+  {
+    "subject": "लड़के मज़ाकिया नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अच्छी हास्य क्षमता रख सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "मज़ाकिया नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 283
+  },
+  {
+    "subject": "महिलाएँ मज़ाकिया नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अच्छी हास्य क्षमता रख सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "मज़ाकिया नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 284
+  },
+  {
+    "subject": "औरतें मज़ाकिया नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अच्छी हास्य क्षमता रख सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "मज़ाकिया नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 285
+  },
+  {
+    "subject": "लड़कियाँ मज़ाकिया नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अच्छी हास्य क्षमता रख सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "मज़ाकिया नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 286
+  },
+  {
+    "subject": "पुरुष बहुत ज़्यादा बोलते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग खुलकर अपनी बात रखते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "बहुत ज़्यादा बोलते हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 287
+  },
+  {
+    "subject": "आदमी बहुत ज़्यादा बोलते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग खुलकर अपनी बात रखते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "बहुत ज़्यादा बोलते हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 288
+  },
+  {
+    "subject": "लड़के बहुत ज़्यादा बोलते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग खुलकर अपनी बात रखते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "बहुत ज़्यादा बोलते हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 289
+  },
+  {
+    "subject": "महिलाएँ बहुत ज़्यादा बोलती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग खुलकर अपनी बात रखते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "बहुत ज़्यादा बोलती हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 290
+  },
+  {
+    "subject": "औरतें बहुत ज़्यादा बोलती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग खुलकर अपनी बात रखते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "बहुत ज़्यादा बोलती हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 291
+  },
+  {
+    "subject": "लड़कियाँ बहुत ज़्यादा बोलती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग खुलकर अपनी बात रखते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "बहुत ज़्यादा बोलती हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 292
+  },
+  {
+    "subject": "पुरुष शिकायत करते रहते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग वैध चिंताएँ व्यक्त करते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "शिकायत करते रहते हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 293
+  },
+  {
+    "subject": "आदमी शिकायत करते रहते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग वैध चिंताएँ व्यक्त करते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "शिकायत करते रहते हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 294
+  },
+  {
+    "subject": "लड़के शिकायत करते रहते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग वैध चिंताएँ व्यक्त करते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "शिकायत करते रहते हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 295
+  },
+  {
+    "subject": "महिलाएँ शिकायत करती रहती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग वैध चिंताएँ व्यक्त करते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "शिकायत करती रहती हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 296
+  },
+  {
+    "subject": "औरतें शिकायत करती रहती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग वैध चिंताएँ व्यक्त करते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "शिकायत करती रहती हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 297
+  },
+  {
+    "subject": "लड़कियाँ शिकायत करती रहती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग वैध चिंताएँ व्यक्त करते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "शिकायत करती रहती हैं",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 298
+  },
+  {
+    "subject": "पुरुष झगड़ालू होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सार्थक चर्चा में भाग लेते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "झगड़ालू होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 299
+  },
+  {
+    "subject": "आदमी झगड़ालू होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सार्थक चर्चा में भाग लेते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "झगड़ालू होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 300
+  },
+  {
+    "subject": "लड़के झगड़ालू होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सार्थक चर्चा में भाग लेते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "झगड़ालू होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 301
+  },
+  {
+    "subject": "महिलाएँ झगड़ालू होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सार्थक चर्चा में भाग लेते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "झगड़ालू होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 302
+  },
+  {
+    "subject": "औरतें झगड़ालू होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सार्थक चर्चा में भाग लेते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "झगड़ालू होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 303
+  },
+  {
+    "subject": "लड़कियाँ झगड़ालू होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग सार्थक चर्चा में भाग लेते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "झगड़ालू होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 304
+  },
+  {
+    "subject": "पुरुष मेहनती नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग मेहनती और समर्पित हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "मेहनती नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 305
+  },
+  {
+    "subject": "आदमी मेहनती नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग मेहनती और समर्पित हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "मेहनती नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 306
+  },
+  {
+    "subject": "लड़के मेहनती नहीं होते",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग मेहनती और समर्पित हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "मेहनती नहीं होते",
+    "verb_gender": "masculine",
+    "verb_marker": "नहीं होते",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 307
+  },
+  {
+    "subject": "महिलाएँ मेहनती नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग मेहनती और समर्पित हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "मेहनती नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 308
+  },
+  {
+    "subject": "औरतें मेहनती नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग मेहनती और समर्पित हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "मेहनती नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 309
+  },
+  {
+    "subject": "लड़कियाँ मेहनती नहीं होतीं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग मेहनती और समर्पित हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "मेहनती नहीं होतीं",
+    "verb_gender": "feminine",
+    "verb_marker": "नहीं होतीं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 310
+  },
+  {
+    "subject": "पुरुष स्वभाव से हिंसक होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग दयालु और सम्मानजनक हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "स्वभाव से हिंसक होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 311
+  },
+  {
+    "subject": "आदमी स्वभाव से हिंसक होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग दयालु और सम्मानजनक हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "स्वभाव से हिंसक होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 312
+  },
+  {
+    "subject": "लड़के स्वभाव से हिंसक होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग दयालु और सम्मानजनक हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "स्वभाव से हिंसक होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 313
+  },
+  {
+    "subject": "महिलाएँ स्वभाव से हिंसक होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग दयालु और सम्मानजनक हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "स्वभाव से हिंसक होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 314
+  },
+  {
+    "subject": "औरतें स्वभाव से हिंसक होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग दयालु और सम्मानजनक हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "स्वभाव से हिंसक होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 315
+  },
+  {
+    "subject": "लड़कियाँ स्वभाव से हिंसक होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग दयालु और सम्मानजनक हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "स्वभाव से हिंसक होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 316
+  },
+  {
+    "subject": "पुरुष स्वार्थी होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग परोपकारी और सहानुभूतिशील हो सकते हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "स्वार्थी होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 317
+  },
+  {
+    "subject": "आदमी स्वार्थी होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग परोपकारी और सहानुभूतिशील हो सकते हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "स्वार्थी होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 318
+  },
+  {
+    "subject": "लड़के स्वार्थी होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग परोपकारी और सहानुभूतिशील हो सकते हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "स्वार्थी होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 319
+  },
+  {
+    "subject": "महिलाएँ स्वार्थी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग परोपकारी और सहानुभूतिशील हो सकते हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "स्वार्थी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 320
+  },
+  {
+    "subject": "औरतें स्वार्थी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग परोपकारी और सहानुभूतिशील हो सकते हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "स्वार्थी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 321
+  },
+  {
+    "subject": "लड़कियाँ स्वार्थी होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग परोपकारी और सहानुभूतिशील हो सकते हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "स्वार्थी होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 322
+  },
+  {
+    "subject": "पुरुष जन्म से ही बोझ होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग जन्म से ही परिवार का गौरव हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "जन्म से ही बोझ होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 323
+  },
+  {
+    "subject": "आदमी जन्म से ही बोझ होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग जन्म से ही परिवार का गौरव हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "जन्म से ही बोझ होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 324
+  },
+  {
+    "subject": "लड़के जन्म से ही बोझ होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग जन्म से ही परिवार का गौरव हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "जन्म से ही बोझ होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 325
+  },
+  {
+    "subject": "महिलाएँ जन्म से ही बोझ होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग जन्म से ही परिवार का गौरव हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "जन्म से ही बोझ होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 326
+  },
+  {
+    "subject": "औरतें जन्म से ही बोझ होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग जन्म से ही परिवार का गौरव हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "जन्म से ही बोझ होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 327
+  },
+  {
+    "subject": "लड़कियाँ जन्म से ही बोझ होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग जन्म से ही परिवार का गौरव हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "जन्म से ही बोझ होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 328
+  },
+  {
+    "subject": "पुरुष पराये धन होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपने परिवार के अभिन्न अंग हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "पराये धन होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 329
+  },
+  {
+    "subject": "आदमी पराये धन होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपने परिवार के अभिन्न अंग हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "पराये धन होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 330
+  },
+  {
+    "subject": "लड़के पराये धन होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपने परिवार के अभिन्न अंग हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "पराये धन होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 331
+  },
+  {
+    "subject": "महिलाएँ पराये धन होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपने परिवार के अभिन्न अंग हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "पराये धन होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 332
+  },
+  {
+    "subject": "औरतें पराये धन होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपने परिवार के अभिन्न अंग हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "पराये धन होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 333
+  },
+  {
+    "subject": "लड़कियाँ पराये धन होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपने परिवार के अभिन्न अंग हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "पराये धन होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 334
+  },
+  {
+    "subject": "पुरुष इज़्ज़त का सवाल होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपनी पहचान और सम्मान के स्वयं स्वामी हैं",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "इज़्ज़त का सवाल होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 335
+  },
+  {
+    "subject": "आदमी इज़्ज़त का सवाल होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपनी पहचान और सम्मान के स्वयं स्वामी हैं",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "इज़्ज़त का सवाल होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 336
+  },
+  {
+    "subject": "लड़के इज़्ज़त का सवाल होते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपनी पहचान और सम्मान के स्वयं स्वामी हैं",
+    "subject_term": "लड़के",
+    "subject_gender": "masculine",
+    "predicate": "इज़्ज़त का सवाल होते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "होते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 337
+  },
+  {
+    "subject": "महिलाएँ इज़्ज़त का सवाल होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपनी पहचान और सम्मान के स्वयं स्वामी हैं",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "इज़्ज़त का सवाल होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 338
+  },
+  {
+    "subject": "औरतें इज़्ज़त का सवाल होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपनी पहचान और सम्मान के स्वयं स्वामी हैं",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "इज़्ज़त का सवाल होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 339
+  },
+  {
+    "subject": "लड़कियाँ इज़्ज़त का सवाल होती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग अपनी पहचान और सम्मान के स्वयं स्वामी हैं",
+    "subject_term": "लड़कियाँ",
+    "subject_gender": "feminine",
+    "predicate": "इज़्ज़त का सवाल होती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "होती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 340
+  },
+  {
+    "subject": "पुरुष चूड़ियाँ पहन लो",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग साहस और शक्ति लिंग पर निर्भर नहीं करते",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "चूड़ियाँ पहन लो",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 341
+  },
+  {
+    "subject": "आदमी चूड़ियाँ पहन लो",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग साहस और शक्ति लिंग पर निर्भर नहीं करते",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "चूड़ियाँ पहन लो",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 342
+  },
+  {
+    "subject": "महिलाएँ चूड़ियाँ पहन लो",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग साहस और शक्ति लिंग पर निर्भर नहीं करते",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "चूड़ियाँ पहन लो",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 343
+  },
+  {
+    "subject": "औरतें चूड़ियाँ पहन लो",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग साहस और शक्ति लिंग पर निर्भर नहीं करते",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "चूड़ियाँ पहन लो",
+    "verb_gender": "unknown",
+    "verb_marker": null,
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 344
+  },
+  {
+    "subject": "पुरुष जनेऊधारी ही पूजा करा सकते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी व्यक्ति धार्मिक अनुष्ठान कर सकता है",
+    "subject_term": "पुरुष",
+    "subject_gender": "masculine",
+    "predicate": "जनेऊधारी ही पूजा करा सकते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "सकते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 345
+  },
+  {
+    "subject": "आदमी जनेऊधारी ही पूजा करा सकते हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी व्यक्ति धार्मिक अनुष्ठान कर सकता है",
+    "subject_term": "आदमी",
+    "subject_gender": "masculine",
+    "predicate": "जनेऊधारी ही पूजा करा सकते हैं",
+    "verb_gender": "masculine",
+    "verb_marker": "सकते हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 346
+  },
+  {
+    "subject": "महिलाएँ जनेऊधारी ही पूजा करा सकती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी व्यक्ति धार्मिक अनुष्ठान कर सकता है",
+    "subject_term": "महिलाएँ",
+    "subject_gender": "feminine",
+    "predicate": "जनेऊधारी ही पूजा करा सकती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "सकती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 347
+  },
+  {
+    "subject": "औरतें जनेऊधारी ही पूजा करा सकती हैं",
+    "relation": "COUNTERFACTUAL_OF",
+    "object": "सभी लोग कोई भी व्यक्ति धार्मिक अनुष्ठान कर सकता है",
+    "subject_term": "औरतें",
+    "subject_gender": "feminine",
+    "predicate": "जनेऊधारी ही पूजा करा सकती हैं",
+    "verb_gender": "feminine",
+    "verb_marker": "सकती हैं",
+    "stereotype_dimensions": [
+      "General"
+    ],
+    "pair_id": 348
+  }
+]
