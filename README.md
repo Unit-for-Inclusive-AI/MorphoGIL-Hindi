@@ -175,7 +175,3 @@ The resources cover binary gender only. GNP-Hindi translations were drafted with
 
 ```
 
-## Contact and contributions
-
-Please report errors or suggest new terms through [GitHub Issues](../../issues).
-Maintainer: Janice Johnson Chakalakal, University of Galway ([j.Chakalakal1@universityofgalway.ie](mailto:j.Chakalakal1@universityofgalway.ie)).
