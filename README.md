@@ -172,6 +172,8 @@ The resources cover binary gender only. GNP-Hindi translations were drafted with
 
 ---
 
-
+## License
+Datasets and KG: [CC BY 4.0]
+Code: [MIT] (see LICENSE)
 ```
 
