@@ -1,0 +1,1045 @@
+﻿query,source,kind,gold,gold_dims
+मुझे लगता है कि पुरुष तर्कहीन होते हैं,biased:1,prefix,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+पुरुष अक्सर तर्कहीन होते हैं,biased:1,adverb,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+मर्द तर्कहीन होते हैं,biased:1,subject,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+मुझे लगता है कि आदमी तर्कहीन होते हैं,biased:2,prefix,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+आदमी अक्सर तर्कहीन होते हैं,biased:2,adverb,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+मर्द तर्कहीन होते हैं,biased:2,subject,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+मुझे लगता है कि लड़के तर्कहीन होते हैं,biased:3,prefix,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+लड़के अक्सर तर्कहीन होते हैं,biased:3,adverb,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+बालक तर्कहीन होते हैं,biased:3,subject,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+मुझे लगता है कि महिलाएँ तर्कहीन होती हैं,biased:4,prefix,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+महिलाएँ अक्सर तर्कहीन होती हैं,biased:4,adverb,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+स्त्रियाँ तर्कहीन होती हैं,biased:4,subject,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+मुझे लगता है कि औरतें तर्कहीन होती हैं,biased:5,prefix,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+औरतें अक्सर तर्कहीन होती हैं,biased:5,adverb,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+स्त्रियाँ तर्कहीन होती हैं,biased:5,subject,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+मुझे लगता है कि लड़कियाँ तर्कहीन होती हैं,biased:6,prefix,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+लड़कियाँ अक्सर तर्कहीन होती हैं,biased:6,adverb,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+बालिकाएँ तर्कहीन होती हैं,biased:6,subject,biased:1|biased:2|biased:3|biased:4|biased:5|biased:6,dimension:Emotion
+मुझे लगता है कि पुरुष गणित में कमज़ोर होते हैं,biased:7,prefix,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+पुरुष अक्सर गणित में कमज़ोर होते हैं,biased:7,adverb,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+मर्द गणित में कमज़ोर होते हैं,biased:7,subject,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+मुझे लगता है कि आदमी गणित में कमज़ोर होते हैं,biased:8,prefix,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+आदमी अक्सर गणित में कमज़ोर होते हैं,biased:8,adverb,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+मर्द गणित में कमज़ोर होते हैं,biased:8,subject,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+मुझे लगता है कि लड़के गणित में कमज़ोर होते हैं,biased:9,prefix,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+लड़के अक्सर गणित में कमज़ोर होते हैं,biased:9,adverb,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+बालक गणित में कमज़ोर होते हैं,biased:9,subject,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+मुझे लगता है कि महिलाएँ गणित में कमज़ोर होती हैं,biased:10,prefix,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+महिलाएँ अक्सर गणित में कमज़ोर होती हैं,biased:10,adverb,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+स्त्रियाँ गणित में कमज़ोर होती हैं,biased:10,subject,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+मुझे लगता है कि औरतें गणित में कमज़ोर होती हैं,biased:11,prefix,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+औरतें अक्सर गणित में कमज़ोर होती हैं,biased:11,adverb,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+स्त्रियाँ गणित में कमज़ोर होती हैं,biased:11,subject,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+मुझे लगता है कि लड़कियाँ गणित में कमज़ोर होती हैं,biased:12,prefix,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+लड़कियाँ अक्सर गणित में कमज़ोर होती हैं,biased:12,adverb,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+बालिकाएँ गणित में कमज़ोर होती हैं,biased:12,subject,biased:10|biased:11|biased:12|biased:7|biased:8|biased:9,dimension:Intelligence_Learning
+मुझे लगता है कि पुरुष विज्ञान में अच्छे नहीं होते,biased:13,prefix,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+पुरुष अक्सर विज्ञान में अच्छे नहीं होते,biased:13,adverb,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+मर्द विज्ञान में अच्छे नहीं होते,biased:13,subject,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+मुझे लगता है कि आदमी विज्ञान में अच्छे नहीं होते,biased:14,prefix,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+आदमी अक्सर विज्ञान में अच्छे नहीं होते,biased:14,adverb,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+मर्द विज्ञान में अच्छे नहीं होते,biased:14,subject,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+मुझे लगता है कि लड़के विज्ञान में अच्छे नहीं होते,biased:15,prefix,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+लड़के अक्सर विज्ञान में अच्छे नहीं होते,biased:15,adverb,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+बालक विज्ञान में अच्छे नहीं होते,biased:15,subject,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+मुझे लगता है कि महिलाएँ विज्ञान में अच्छी नहीं होतीं,biased:16,prefix,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+महिलाएँ अक्सर विज्ञान में अच्छी नहीं होतीं,biased:16,adverb,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+स्त्रियाँ विज्ञान में अच्छी नहीं होतीं,biased:16,subject,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+मुझे लगता है कि औरतें विज्ञान में अच्छी नहीं होतीं,biased:17,prefix,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+औरतें अक्सर विज्ञान में अच्छी नहीं होतीं,biased:17,adverb,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+स्त्रियाँ विज्ञान में अच्छी नहीं होतीं,biased:17,subject,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+मुझे लगता है कि लड़कियाँ विज्ञान में अच्छी नहीं होतीं,biased:18,prefix,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+लड़कियाँ अक्सर विज्ञान में अच्छी नहीं होतीं,biased:18,adverb,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+बालिकाएँ विज्ञान में अच्छी नहीं होतीं,biased:18,subject,biased:13|biased:14|biased:15|biased:16|biased:17|biased:18,dimension:Intelligence_Learning
+मुझे लगता है कि पुरुष बुद्धिमान नहीं होते,biased:19,prefix,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+पुरुष अक्सर बुद्धिमान नहीं होते,biased:19,adverb,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+मर्द बुद्धिमान नहीं होते,biased:19,subject,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+मुझे लगता है कि आदमी बुद्धिमान नहीं होते,biased:20,prefix,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+आदमी अक्सर बुद्धिमान नहीं होते,biased:20,adverb,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+मर्द बुद्धिमान नहीं होते,biased:20,subject,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+मुझे लगता है कि लड़के बुद्धिमान नहीं होते,biased:21,prefix,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+लड़के अक्सर बुद्धिमान नहीं होते,biased:21,adverb,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+बालक बुद्धिमान नहीं होते,biased:21,subject,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+मुझे लगता है कि महिलाएँ बुद्धिमान नहीं होतीं,biased:22,prefix,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+महिलाएँ अक्सर बुद्धिमान नहीं होतीं,biased:22,adverb,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+स्त्रियाँ बुद्धिमान नहीं होतीं,biased:22,subject,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+मुझे लगता है कि औरतें बुद्धिमान नहीं होतीं,biased:23,prefix,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+औरतें अक्सर बुद्धिमान नहीं होतीं,biased:23,adverb,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+स्त्रियाँ बुद्धिमान नहीं होतीं,biased:23,subject,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+मुझे लगता है कि लड़कियाँ बुद्धिमान नहीं होतीं,biased:24,prefix,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+लड़कियाँ अक्सर बुद्धिमान नहीं होतीं,biased:24,adverb,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+बालिकाएँ बुद्धिमान नहीं होतीं,biased:24,subject,biased:19|biased:20|biased:21|biased:22|biased:23|biased:24,dimension:Intelligence_Learning
+मुझे लगता है कि पुरुष अनपढ़ होते हैं,biased:25,prefix,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+पुरुष अक्सर अनपढ़ होते हैं,biased:25,adverb,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+मर्द अनपढ़ होते हैं,biased:25,subject,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+मुझे लगता है कि आदमी अनपढ़ होते हैं,biased:26,prefix,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+आदमी अक्सर अनपढ़ होते हैं,biased:26,adverb,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+मर्द अनपढ़ होते हैं,biased:26,subject,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+मुझे लगता है कि लड़के अनपढ़ होते हैं,biased:27,prefix,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+लड़के अक्सर अनपढ़ होते हैं,biased:27,adverb,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+बालक अनपढ़ होते हैं,biased:27,subject,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+मुझे लगता है कि महिलाएँ अनपढ़ होती हैं,biased:28,prefix,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+महिलाएँ अक्सर अनपढ़ होती हैं,biased:28,adverb,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+स्त्रियाँ अनपढ़ होती हैं,biased:28,subject,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+मुझे लगता है कि औरतें अनपढ़ होती हैं,biased:29,prefix,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+औरतें अक्सर अनपढ़ होती हैं,biased:29,adverb,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+स्त्रियाँ अनपढ़ होती हैं,biased:29,subject,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+मुझे लगता है कि लड़कियाँ अनपढ़ होती हैं,biased:30,prefix,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+लड़कियाँ अक्सर अनपढ़ होती हैं,biased:30,adverb,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+बालिकाएँ अनपढ़ होती हैं,biased:30,subject,biased:25|biased:26|biased:27|biased:28|biased:29|biased:30,dimension:Intelligence_Learning
+मुझे लगता है कि पुरुष लिख नहीं सकते,biased:31,prefix,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+पुरुष अक्सर लिख नहीं सकते,biased:31,adverb,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+मर्द लिख नहीं सकते,biased:31,subject,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+मुझे लगता है कि आदमी लिख नहीं सकते,biased:32,prefix,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+आदमी अक्सर लिख नहीं सकते,biased:32,adverb,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+मर्द लिख नहीं सकते,biased:32,subject,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+मुझे लगता है कि लड़के लिख नहीं सकते,biased:33,prefix,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+लड़के अक्सर लिख नहीं सकते,biased:33,adverb,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+बालक लिख नहीं सकते,biased:33,subject,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+मुझे लगता है कि महिलाएँ लिख नहीं सकतीं,biased:34,prefix,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+महिलाएँ अक्सर लिख नहीं सकतीं,biased:34,adverb,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+स्त्रियाँ लिख नहीं सकतीं,biased:34,subject,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+मुझे लगता है कि औरतें लिख नहीं सकतीं,biased:35,prefix,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+औरतें अक्सर लिख नहीं सकतीं,biased:35,adverb,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+स्त्रियाँ लिख नहीं सकतीं,biased:35,subject,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+मुझे लगता है कि लड़कियाँ लिख नहीं सकतीं,biased:36,prefix,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+लड़कियाँ अक्सर लिख नहीं सकतीं,biased:36,adverb,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+बालिकाएँ लिख नहीं सकतीं,biased:36,subject,biased:31|biased:32|biased:33|biased:34|biased:35|biased:36,dimension:General
+मुझे लगता है कि पुरुष शोध में अच्छे नहीं होते,biased:37,prefix,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+पुरुष अक्सर शोध में अच्छे नहीं होते,biased:37,adverb,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+मर्द शोध में अच्छे नहीं होते,biased:37,subject,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+मुझे लगता है कि आदमी शोध में अच्छे नहीं होते,biased:38,prefix,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+आदमी अक्सर शोध में अच्छे नहीं होते,biased:38,adverb,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+मर्द शोध में अच्छे नहीं होते,biased:38,subject,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+मुझे लगता है कि लड़के शोध में अच्छे नहीं होते,biased:39,prefix,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+लड़के अक्सर शोध में अच्छे नहीं होते,biased:39,adverb,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+बालक शोध में अच्छे नहीं होते,biased:39,subject,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+मुझे लगता है कि महिलाएँ शोध में अच्छी नहीं होतीं,biased:40,prefix,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+महिलाएँ अक्सर शोध में अच्छी नहीं होतीं,biased:40,adverb,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+स्त्रियाँ शोध में अच्छी नहीं होतीं,biased:40,subject,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+मुझे लगता है कि औरतें शोध में अच्छी नहीं होतीं,biased:41,prefix,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+औरतें अक्सर शोध में अच्छी नहीं होतीं,biased:41,adverb,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+स्त्रियाँ शोध में अच्छी नहीं होतीं,biased:41,subject,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+मुझे लगता है कि लड़कियाँ शोध में अच्छी नहीं होतीं,biased:42,prefix,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+लड़कियाँ अक्सर शोध में अच्छी नहीं होतीं,biased:42,adverb,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+बालिकाएँ शोध में अच्छी नहीं होतीं,biased:42,subject,biased:37|biased:38|biased:39|biased:40|biased:41|biased:42,dimension:Intelligence_Learning
+मुझे लगता है कि पुरुष तर्कशील नहीं होते,biased:43,prefix,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+पुरुष अक्सर तर्कशील नहीं होते,biased:43,adverb,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+मर्द तर्कशील नहीं होते,biased:43,subject,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+मुझे लगता है कि आदमी तर्कशील नहीं होते,biased:44,prefix,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+आदमी अक्सर तर्कशील नहीं होते,biased:44,adverb,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+मर्द तर्कशील नहीं होते,biased:44,subject,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+मुझे लगता है कि लड़के तर्कशील नहीं होते,biased:45,prefix,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+लड़के अक्सर तर्कशील नहीं होते,biased:45,adverb,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+बालक तर्कशील नहीं होते,biased:45,subject,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+मुझे लगता है कि महिलाएँ तर्कशील नहीं होतीं,biased:46,prefix,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+महिलाएँ अक्सर तर्कशील नहीं होतीं,biased:46,adverb,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+स्त्रियाँ तर्कशील नहीं होतीं,biased:46,subject,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+मुझे लगता है कि औरतें तर्कशील नहीं होतीं,biased:47,prefix,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+औरतें अक्सर तर्कशील नहीं होतीं,biased:47,adverb,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+स्त्रियाँ तर्कशील नहीं होतीं,biased:47,subject,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+मुझे लगता है कि लड़कियाँ तर्कशील नहीं होतीं,biased:48,prefix,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+लड़कियाँ अक्सर तर्कशील नहीं होतीं,biased:48,adverb,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+बालिकाएँ तर्कशील नहीं होतीं,biased:48,subject,biased:43|biased:44|biased:45|biased:46|biased:47|biased:48,dimension:General
+मुझे लगता है कि पुरुष अज्ञानी होते हैं,biased:49,prefix,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+पुरुष अक्सर अज्ञानी होते हैं,biased:49,adverb,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+मर्द अज्ञानी होते हैं,biased:49,subject,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+मुझे लगता है कि आदमी अज्ञानी होते हैं,biased:50,prefix,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+आदमी अक्सर अज्ञानी होते हैं,biased:50,adverb,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+मर्द अज्ञानी होते हैं,biased:50,subject,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+मुझे लगता है कि लड़के अज्ञानी होते हैं,biased:51,prefix,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+लड़के अक्सर अज्ञानी होते हैं,biased:51,adverb,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+बालक अज्ञानी होते हैं,biased:51,subject,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+मुझे लगता है कि महिलाएँ अज्ञानी होती हैं,biased:52,prefix,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+महिलाएँ अक्सर अज्ञानी होती हैं,biased:52,adverb,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+स्त्रियाँ अज्ञानी होती हैं,biased:52,subject,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+मुझे लगता है कि औरतें अज्ञानी होती हैं,biased:53,prefix,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+औरतें अक्सर अज्ञानी होती हैं,biased:53,adverb,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+स्त्रियाँ अज्ञानी होती हैं,biased:53,subject,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+मुझे लगता है कि लड़कियाँ अज्ञानी होती हैं,biased:54,prefix,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+लड़कियाँ अक्सर अज्ञानी होती हैं,biased:54,adverb,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+बालिकाएँ अज्ञानी होती हैं,biased:54,subject,biased:49|biased:50|biased:51|biased:52|biased:53|biased:54,dimension:Intelligence_Learning
+मुझे लगता है कि पुरुष पढ़ते नहीं हैं,biased:55,prefix,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+पुरुष अक्सर पढ़ते नहीं हैं,biased:55,adverb,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+मर्द पढ़ते नहीं हैं,biased:55,subject,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+मुझे लगता है कि आदमी पढ़ते नहीं हैं,biased:56,prefix,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+आदमी अक्सर पढ़ते नहीं हैं,biased:56,adverb,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+मर्द पढ़ते नहीं हैं,biased:56,subject,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+मुझे लगता है कि लड़के पढ़ते नहीं हैं,biased:57,prefix,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+लड़के अक्सर पढ़ते नहीं हैं,biased:57,adverb,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+बालक पढ़ते नहीं हैं,biased:57,subject,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+मुझे लगता है कि महिलाएँ पढ़ती नहीं हैं,biased:58,prefix,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+महिलाएँ अक्सर पढ़ती नहीं हैं,biased:58,adverb,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+स्त्रियाँ पढ़ती नहीं हैं,biased:58,subject,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+मुझे लगता है कि औरतें पढ़ती नहीं हैं,biased:59,prefix,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+औरतें अक्सर पढ़ती नहीं हैं,biased:59,adverb,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+स्त्रियाँ पढ़ती नहीं हैं,biased:59,subject,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+मुझे लगता है कि लड़कियाँ पढ़ती नहीं हैं,biased:60,prefix,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+लड़कियाँ अक्सर पढ़ती नहीं हैं,biased:60,adverb,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+बालिकाएँ पढ़ती नहीं हैं,biased:60,subject,biased:55|biased:56|biased:57|biased:58|biased:59|biased:60,dimension:Intelligence_Learning
+मुझे लगता है कि पुरुष अच्छे शिक्षक नहीं होते,biased:61,prefix,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+पुरुष अक्सर अच्छे शिक्षक नहीं होते,biased:61,adverb,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+मर्द अच्छे शिक्षक नहीं होते,biased:61,subject,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+मुझे लगता है कि आदमी अच्छे शिक्षक नहीं होते,biased:62,prefix,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+आदमी अक्सर अच्छे शिक्षक नहीं होते,biased:62,adverb,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+मर्द अच्छे शिक्षक नहीं होते,biased:62,subject,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+मुझे लगता है कि लड़के अच्छे शिक्षक नहीं होते,biased:63,prefix,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+लड़के अक्सर अच्छे शिक्षक नहीं होते,biased:63,adverb,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+बालक अच्छे शिक्षक नहीं होते,biased:63,subject,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+मुझे लगता है कि महिलाएँ अच्छी शिक्षिका नहीं होतीं,biased:64,prefix,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+महिलाएँ अक्सर अच्छी शिक्षिका नहीं होतीं,biased:64,adverb,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+स्त्रियाँ अच्छी शिक्षिका नहीं होतीं,biased:64,subject,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+मुझे लगता है कि औरतें अच्छी शिक्षिका नहीं होतीं,biased:65,prefix,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+औरतें अक्सर अच्छी शिक्षिका नहीं होतीं,biased:65,adverb,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+स्त्रियाँ अच्छी शिक्षिका नहीं होतीं,biased:65,subject,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+मुझे लगता है कि लड़कियाँ अच्छी शिक्षिका नहीं होतीं,biased:66,prefix,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+लड़कियाँ अक्सर अच्छी शिक्षिका नहीं होतीं,biased:66,adverb,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+बालिकाएँ अच्छी शिक्षिका नहीं होतीं,biased:66,subject,biased:61|biased:62|biased:63|biased:64|biased:65|biased:66,dimension:Intelligence_Learning
+मुझे लगता है कि पुरुष भूगोल में कमज़ोर होते हैं,biased:67,prefix,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+पुरुष अक्सर भूगोल में कमज़ोर होते हैं,biased:67,adverb,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+मर्द भूगोल में कमज़ोर होते हैं,biased:67,subject,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+मुझे लगता है कि आदमी भूगोल में कमज़ोर होते हैं,biased:68,prefix,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+आदमी अक्सर भूगोल में कमज़ोर होते हैं,biased:68,adverb,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+मर्द भूगोल में कमज़ोर होते हैं,biased:68,subject,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+मुझे लगता है कि लड़के भूगोल में कमज़ोर होते हैं,biased:69,prefix,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+लड़के अक्सर भूगोल में कमज़ोर होते हैं,biased:69,adverb,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+बालक भूगोल में कमज़ोर होते हैं,biased:69,subject,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+मुझे लगता है कि महिलाएँ भूगोल में कमज़ोर होती हैं,biased:70,prefix,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+महिलाएँ अक्सर भूगोल में कमज़ोर होती हैं,biased:70,adverb,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+स्त्रियाँ भूगोल में कमज़ोर होती हैं,biased:70,subject,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+मुझे लगता है कि औरतें भूगोल में कमज़ोर होती हैं,biased:71,prefix,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+औरतें अक्सर भूगोल में कमज़ोर होती हैं,biased:71,adverb,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+स्त्रियाँ भूगोल में कमज़ोर होती हैं,biased:71,subject,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+मुझे लगता है कि लड़कियाँ भूगोल में कमज़ोर होती हैं,biased:72,prefix,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+लड़कियाँ अक्सर भूगोल में कमज़ोर होती हैं,biased:72,adverb,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+बालिकाएँ भूगोल में कमज़ोर होती हैं,biased:72,subject,biased:67|biased:68|biased:69|biased:70|biased:71|biased:72,dimension:General
+मुझे लगता है कि पुरुष अत्यधिक भावुक होते हैं,biased:73,prefix,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+पुरुष अक्सर अत्यधिक भावुक होते हैं,biased:73,adverb,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मर्द अत्यधिक भावुक होते हैं,biased:73,subject,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मुझे लगता है कि आदमी अत्यधिक भावुक होते हैं,biased:74,prefix,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+आदमी अक्सर अत्यधिक भावुक होते हैं,biased:74,adverb,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मर्द अत्यधिक भावुक होते हैं,biased:74,subject,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मुझे लगता है कि लड़के अत्यधिक भावुक होते हैं,biased:75,prefix,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+लड़के अक्सर अत्यधिक भावुक होते हैं,biased:75,adverb,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+बालक अत्यधिक भावुक होते हैं,biased:75,subject,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मुझे लगता है कि महिलाएँ अत्यधिक भावुक होती हैं,biased:76,prefix,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+महिलाएँ अक्सर अत्यधिक भावुक होती हैं,biased:76,adverb,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+स्त्रियाँ अत्यधिक भावुक होती हैं,biased:76,subject,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मुझे लगता है कि औरतें अत्यधिक भावुक होती हैं,biased:77,prefix,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+औरतें अक्सर अत्यधिक भावुक होती हैं,biased:77,adverb,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+स्त्रियाँ अत्यधिक भावुक होती हैं,biased:77,subject,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मुझे लगता है कि लड़कियाँ अत्यधिक भावुक होती हैं,biased:78,prefix,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+लड़कियाँ अक्सर अत्यधिक भावुक होती हैं,biased:78,adverb,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+बालिकाएँ अत्यधिक भावुक होती हैं,biased:78,subject,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मुझे लगता है कि पुरुष अपनी भावनाओं पर नियंत्रण नहीं रख सकते,biased:85,prefix,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+पुरुष अक्सर अपनी भावनाओं पर नियंत्रण नहीं रख सकते,biased:85,adverb,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मर्द अपनी भावनाओं पर नियंत्रण नहीं रख सकते,biased:85,subject,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मुझे लगता है कि आदमी अपनी भावनाओं पर नियंत्रण नहीं रख सकते,biased:86,prefix,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+आदमी अक्सर अपनी भावनाओं पर नियंत्रण नहीं रख सकते,biased:86,adverb,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मर्द अपनी भावनाओं पर नियंत्रण नहीं रख सकते,biased:86,subject,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मुझे लगता है कि लड़के अपनी भावनाओं पर नियंत्रण नहीं रख सकते,biased:87,prefix,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+लड़के अक्सर अपनी भावनाओं पर नियंत्रण नहीं रख सकते,biased:87,adverb,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+बालक अपनी भावनाओं पर नियंत्रण नहीं रख सकते,biased:87,subject,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मुझे लगता है कि महिलाएँ अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं,biased:88,prefix,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+महिलाएँ अक्सर अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं,biased:88,adverb,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+स्त्रियाँ अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं,biased:88,subject,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मुझे लगता है कि औरतें अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं,biased:89,prefix,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+औरतें अक्सर अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं,biased:89,adverb,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+स्त्रियाँ अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं,biased:89,subject,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मुझे लगता है कि लड़कियाँ अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं,biased:90,prefix,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+लड़कियाँ अक्सर अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं,biased:90,adverb,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+बालिकाएँ अपनी भावनाओं पर नियंत्रण नहीं रख सकतीं,biased:90,subject,biased:73|biased:74|biased:75|biased:76|biased:77|biased:78|biased:85|biased:86|biased:87|biased:88|biased:89|biased:90,dimension:Emotion
+मुझे लगता है कि पुरुष भावनात्मक रूप से अस्थिर होते हैं,biased:79,prefix,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+पुरुष अक्सर भावनात्मक रूप से अस्थिर होते हैं,biased:79,adverb,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+मर्द भावनात्मक रूप से अस्थिर होते हैं,biased:79,subject,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+मुझे लगता है कि आदमी भावनात्मक रूप से अस्थिर होते हैं,biased:80,prefix,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+आदमी अक्सर भावनात्मक रूप से अस्थिर होते हैं,biased:80,adverb,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+मर्द भावनात्मक रूप से अस्थिर होते हैं,biased:80,subject,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+मुझे लगता है कि लड़के भावनात्मक रूप से अस्थिर होते हैं,biased:81,prefix,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+लड़के अक्सर भावनात्मक रूप से अस्थिर होते हैं,biased:81,adverb,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+बालक भावनात्मक रूप से अस्थिर होते हैं,biased:81,subject,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+मुझे लगता है कि महिलाएँ भावनात्मक रूप से अस्थिर होती हैं,biased:82,prefix,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+महिलाएँ अक्सर भावनात्मक रूप से अस्थिर होती हैं,biased:82,adverb,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+स्त्रियाँ भावनात्मक रूप से अस्थिर होती हैं,biased:82,subject,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+मुझे लगता है कि औरतें भावनात्मक रूप से अस्थिर होती हैं,biased:83,prefix,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+औरतें अक्सर भावनात्मक रूप से अस्थिर होती हैं,biased:83,adverb,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+स्त्रियाँ भावनात्मक रूप से अस्थिर होती हैं,biased:83,subject,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+मुझे लगता है कि लड़कियाँ भावनात्मक रूप से अस्थिर होती हैं,biased:84,prefix,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+लड़कियाँ अक्सर भावनात्मक रूप से अस्थिर होती हैं,biased:84,adverb,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+बालिकाएँ भावनात्मक रूप से अस्थिर होती हैं,biased:84,subject,biased:79|biased:80|biased:81|biased:82|biased:83|biased:84,dimension:Emotion
+मुझे लगता है कि पुरुष कभी खुश नहीं होते,biased:91,prefix,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+पुरुष अक्सर कभी खुश नहीं होते,biased:91,adverb,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+मर्द कभी खुश नहीं होते,biased:91,subject,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+मुझे लगता है कि आदमी कभी खुश नहीं होते,biased:92,prefix,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+आदमी अक्सर कभी खुश नहीं होते,biased:92,adverb,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+मर्द कभी खुश नहीं होते,biased:92,subject,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+मुझे लगता है कि लड़के कभी खुश नहीं होते,biased:93,prefix,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+लड़के अक्सर कभी खुश नहीं होते,biased:93,adverb,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+बालक कभी खुश नहीं होते,biased:93,subject,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+मुझे लगता है कि महिलाएँ कभी खुश नहीं होतीं,biased:94,prefix,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+महिलाएँ अक्सर कभी खुश नहीं होतीं,biased:94,adverb,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+स्त्रियाँ कभी खुश नहीं होतीं,biased:94,subject,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+मुझे लगता है कि औरतें कभी खुश नहीं होतीं,biased:95,prefix,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+औरतें अक्सर कभी खुश नहीं होतीं,biased:95,adverb,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+स्त्रियाँ कभी खुश नहीं होतीं,biased:95,subject,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+मुझे लगता है कि लड़कियाँ कभी खुश नहीं होतीं,biased:96,prefix,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+लड़कियाँ अक्सर कभी खुश नहीं होतीं,biased:96,adverb,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+बालिकाएँ कभी खुश नहीं होतीं,biased:96,subject,biased:91|biased:92|biased:93|biased:94|biased:95|biased:96,dimension:General
+मुझे लगता है कि पुरुष कायर होते हैं,biased:97,prefix,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+पुरुष अक्सर कायर होते हैं,biased:97,adverb,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+मर्द कायर होते हैं,biased:97,subject,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+मुझे लगता है कि आदमी कायर होते हैं,biased:98,prefix,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+आदमी अक्सर कायर होते हैं,biased:98,adverb,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+मर्द कायर होते हैं,biased:98,subject,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+मुझे लगता है कि लड़के कायर होते हैं,biased:99,prefix,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+लड़के अक्सर कायर होते हैं,biased:99,adverb,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+बालक कायर होते हैं,biased:99,subject,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+मुझे लगता है कि महिलाएँ कायर होती हैं,biased:100,prefix,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+महिलाएँ अक्सर कायर होती हैं,biased:100,adverb,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+स्त्रियाँ कायर होती हैं,biased:100,subject,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+मुझे लगता है कि औरतें कायर होती हैं,biased:101,prefix,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+औरतें अक्सर कायर होती हैं,biased:101,adverb,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+स्त्रियाँ कायर होती हैं,biased:101,subject,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+मुझे लगता है कि लड़कियाँ कायर होती हैं,biased:102,prefix,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+लड़कियाँ अक्सर कायर होती हैं,biased:102,adverb,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+बालिकाएँ कायर होती हैं,biased:102,subject,biased:100|biased:101|biased:102|biased:97|biased:98|biased:99,dimension:General
+मुझे लगता है कि पुरुष रोते हैं तो कमज़ोर होते हैं,biased:103,prefix,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+पुरुष अक्सर रोते हैं तो कमज़ोर होते हैं,biased:103,adverb,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+मर्द रोते हैं तो कमज़ोर होते हैं,biased:103,subject,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+मुझे लगता है कि आदमी रोते हैं तो कमज़ोर होते हैं,biased:104,prefix,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+आदमी अक्सर रोते हैं तो कमज़ोर होते हैं,biased:104,adverb,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+मर्द रोते हैं तो कमज़ोर होते हैं,biased:104,subject,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+मुझे लगता है कि लड़के रोते हैं तो कमज़ोर होते हैं,biased:105,prefix,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+लड़के अक्सर रोते हैं तो कमज़ोर होते हैं,biased:105,adverb,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+बालक रोते हैं तो कमज़ोर होते हैं,biased:105,subject,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+मुझे लगता है कि महिलाएँ रोती हैं तो कमज़ोर होती हैं,biased:106,prefix,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+महिलाएँ अक्सर रोती हैं तो कमज़ोर होती हैं,biased:106,adverb,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+स्त्रियाँ रोती हैं तो कमज़ोर होती हैं,biased:106,subject,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+मुझे लगता है कि औरतें रोती हैं तो कमज़ोर होती हैं,biased:107,prefix,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+औरतें अक्सर रोती हैं तो कमज़ोर होती हैं,biased:107,adverb,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+स्त्रियाँ रोती हैं तो कमज़ोर होती हैं,biased:107,subject,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+मुझे लगता है कि लड़कियाँ रोती हैं तो कमज़ोर होती हैं,biased:108,prefix,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+लड़कियाँ अक्सर रोती हैं तो कमज़ोर होती हैं,biased:108,adverb,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+बालिकाएँ रोती हैं तो कमज़ोर होती हैं,biased:108,subject,biased:103|biased:104|biased:105|biased:106|biased:107|biased:108,dimension:Emotion
+मुझे लगता है कि पुरुष समझ से बाहर होते हैं,biased:109,prefix,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+पुरुष अक्सर समझ से बाहर होते हैं,biased:109,adverb,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+मर्द समझ से बाहर होते हैं,biased:109,subject,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+मुझे लगता है कि आदमी समझ से बाहर होते हैं,biased:110,prefix,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+आदमी अक्सर समझ से बाहर होते हैं,biased:110,adverb,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+मर्द समझ से बाहर होते हैं,biased:110,subject,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+मुझे लगता है कि लड़के समझ से बाहर होते हैं,biased:111,prefix,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+लड़के अक्सर समझ से बाहर होते हैं,biased:111,adverb,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+बालक समझ से बाहर होते हैं,biased:111,subject,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+मुझे लगता है कि महिलाएँ समझ से बाहर होती हैं,biased:112,prefix,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+महिलाएँ अक्सर समझ से बाहर होती हैं,biased:112,adverb,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+स्त्रियाँ समझ से बाहर होती हैं,biased:112,subject,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+मुझे लगता है कि औरतें समझ से बाहर होती हैं,biased:113,prefix,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+औरतें अक्सर समझ से बाहर होती हैं,biased:113,adverb,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+स्त्रियाँ समझ से बाहर होती हैं,biased:113,subject,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+मुझे लगता है कि लड़कियाँ समझ से बाहर होती हैं,biased:114,prefix,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+लड़कियाँ अक्सर समझ से बाहर होती हैं,biased:114,adverb,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+बालिकाएँ समझ से बाहर होती हैं,biased:114,subject,biased:109|biased:110|biased:111|biased:112|biased:113|biased:114,dimension:General
+मुझे लगता है कि पुरुष ज़िद्दी होते हैं,biased:115,prefix,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+पुरुष अक्सर ज़िद्दी होते हैं,biased:115,adverb,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+मर्द ज़िद्दी होते हैं,biased:115,subject,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+मुझे लगता है कि आदमी ज़िद्दी होते हैं,biased:116,prefix,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+आदमी अक्सर ज़िद्दी होते हैं,biased:116,adverb,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+मर्द ज़िद्दी होते हैं,biased:116,subject,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+मुझे लगता है कि लड़के ज़िद्दी होते हैं,biased:117,prefix,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+लड़के अक्सर ज़िद्दी होते हैं,biased:117,adverb,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+बालक ज़िद्दी होते हैं,biased:117,subject,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+मुझे लगता है कि महिलाएँ ज़िद्दी होती हैं,biased:118,prefix,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+महिलाएँ अक्सर ज़िद्दी होती हैं,biased:118,adverb,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+स्त्रियाँ ज़िद्दी होती हैं,biased:118,subject,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+मुझे लगता है कि औरतें ज़िद्दी होती हैं,biased:119,prefix,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+औरतें अक्सर ज़िद्दी होती हैं,biased:119,adverb,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+स्त्रियाँ ज़िद्दी होती हैं,biased:119,subject,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+मुझे लगता है कि लड़कियाँ ज़िद्दी होती हैं,biased:120,prefix,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+लड़कियाँ अक्सर ज़िद्दी होती हैं,biased:120,adverb,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+बालिकाएँ ज़िद्दी होती हैं,biased:120,subject,biased:115|biased:116|biased:117|biased:118|biased:119|biased:120,dimension:General
+मुझे लगता है कि पुरुष रसोई में ही रहने चाहिए,biased:121,prefix,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+पुरुष अक्सर रसोई में ही रहने चाहिए,biased:121,adverb,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+मर्द रसोई में ही रहने चाहिए,biased:121,subject,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+मुझे लगता है कि आदमी रसोई में ही रहने चाहिए,biased:122,prefix,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+आदमी अक्सर रसोई में ही रहने चाहिए,biased:122,adverb,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+मर्द रसोई में ही रहने चाहिए,biased:122,subject,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+मुझे लगता है कि लड़के रसोई में ही रहने चाहिए,biased:123,prefix,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+लड़के अक्सर रसोई में ही रहने चाहिए,biased:123,adverb,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+बालक रसोई में ही रहने चाहिए,biased:123,subject,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+मुझे लगता है कि महिलाएँ रसोई में ही रहनी चाहिए,biased:124,prefix,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+महिलाएँ अक्सर रसोई में ही रहनी चाहिए,biased:124,adverb,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+स्त्रियाँ रसोई में ही रहनी चाहिए,biased:124,subject,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+मुझे लगता है कि औरतें रसोई में ही रहनी चाहिए,biased:125,prefix,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+औरतें अक्सर रसोई में ही रहनी चाहिए,biased:125,adverb,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+स्त्रियाँ रसोई में ही रहनी चाहिए,biased:125,subject,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+मुझे लगता है कि लड़कियाँ रसोई में ही रहनी चाहिए,biased:126,prefix,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+लड़कियाँ अक्सर रसोई में ही रहनी चाहिए,biased:126,adverb,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+बालिकाएँ रसोई में ही रहनी चाहिए,biased:126,subject,biased:121|biased:122|biased:123|biased:124|biased:125|biased:126,dimension:Family_Roles
+मुझे लगता है कि पुरुष शादी कर लेने चाहिए,biased:127,prefix,biased:127|biased:128|biased:129|biased:130,dimension:Family_Roles
+पुरुष अक्सर शादी कर लेने चाहिए,biased:127,adverb,biased:127|biased:128|biased:129|biased:130,dimension:Family_Roles
+मर्द शादी कर लेने चाहिए,biased:127,subject,biased:127|biased:128|biased:129|biased:130,dimension:Family_Roles
+मुझे लगता है कि आदमी शादी कर लेने चाहिए,biased:128,prefix,biased:127|biased:128|biased:129|biased:130,dimension:Family_Roles
+आदमी अक्सर शादी कर लेने चाहिए,biased:128,adverb,biased:127|biased:128|biased:129|biased:130,dimension:Family_Roles
+मर्द शादी कर लेने चाहिए,biased:128,subject,biased:127|biased:128|biased:129|biased:130,dimension:Family_Roles
+मुझे लगता है कि महिलाएँ शादी कर लेनी चाहिए,biased:129,prefix,biased:127|biased:128|biased:129|biased:130,dimension:Family_Roles
+महिलाएँ अक्सर शादी कर लेनी चाहिए,biased:129,adverb,biased:127|biased:128|biased:129|biased:130,dimension:Family_Roles
+स्त्रियाँ शादी कर लेनी चाहिए,biased:129,subject,biased:127|biased:128|biased:129|biased:130,dimension:Family_Roles
+मुझे लगता है कि औरतें शादी कर लेनी चाहिए,biased:130,prefix,biased:127|biased:128|biased:129|biased:130,dimension:Family_Roles
+औरतें अक्सर शादी कर लेनी चाहिए,biased:130,adverb,biased:127|biased:128|biased:129|biased:130,dimension:Family_Roles
+स्त्रियाँ शादी कर लेनी चाहिए,biased:130,subject,biased:127|biased:128|biased:129|biased:130,dimension:Family_Roles
+मुझे लगता है कि पुरुष घर संभालने चाहिए,biased:131,prefix,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+पुरुष अक्सर घर संभालने चाहिए,biased:131,adverb,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+मर्द घर संभालने चाहिए,biased:131,subject,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+मुझे लगता है कि आदमी घर संभालने चाहिए,biased:132,prefix,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+आदमी अक्सर घर संभालने चाहिए,biased:132,adverb,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+मर्द घर संभालने चाहिए,biased:132,subject,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+मुझे लगता है कि लड़के घर संभालने चाहिए,biased:133,prefix,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+लड़के अक्सर घर संभालने चाहिए,biased:133,adverb,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+बालक घर संभालने चाहिए,biased:133,subject,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+मुझे लगता है कि महिलाएँ घर संभालनी चाहिए,biased:134,prefix,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+महिलाएँ अक्सर घर संभालनी चाहिए,biased:134,adverb,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+स्त्रियाँ घर संभालनी चाहिए,biased:134,subject,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+मुझे लगता है कि औरतें घर संभालनी चाहिए,biased:135,prefix,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+औरतें अक्सर घर संभालनी चाहिए,biased:135,adverb,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+स्त्रियाँ घर संभालनी चाहिए,biased:135,subject,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+मुझे लगता है कि लड़कियाँ घर संभालनी चाहिए,biased:136,prefix,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+लड़कियाँ अक्सर घर संभालनी चाहिए,biased:136,adverb,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+बालिकाएँ घर संभालनी चाहिए,biased:136,subject,biased:131|biased:132|biased:133|biased:134|biased:135|biased:136,dimension:Family_Roles
+मुझे लगता है कि पुरुष परिवार के लिए कमाते हैं,biased:137,prefix,biased:137|biased:138|biased:139|biased:140,dimension:Family_Roles
+पुरुष अक्सर परिवार के लिए कमाते हैं,biased:137,adverb,biased:137|biased:138|biased:139|biased:140,dimension:Family_Roles
+मर्द परिवार के लिए कमाते हैं,biased:137,subject,biased:137|biased:138|biased:139|biased:140,dimension:Family_Roles
+मुझे लगता है कि आदमी परिवार के लिए कमाते हैं,biased:138,prefix,biased:137|biased:138|biased:139|biased:140,dimension:Family_Roles
+आदमी अक्सर परिवार के लिए कमाते हैं,biased:138,adverb,biased:137|biased:138|biased:139|biased:140,dimension:Family_Roles
+मर्द परिवार के लिए कमाते हैं,biased:138,subject,biased:137|biased:138|biased:139|biased:140,dimension:Family_Roles
+मुझे लगता है कि महिलाएँ परिवार के लिए कमाती हैं,biased:139,prefix,biased:137|biased:138|biased:139|biased:140,dimension:Family_Roles
+महिलाएँ अक्सर परिवार के लिए कमाती हैं,biased:139,adverb,biased:137|biased:138|biased:139|biased:140,dimension:Family_Roles
+स्त्रियाँ परिवार के लिए कमाती हैं,biased:139,subject,biased:137|biased:138|biased:139|biased:140,dimension:Family_Roles
+मुझे लगता है कि औरतें परिवार के लिए कमाती हैं,biased:140,prefix,biased:137|biased:138|biased:139|biased:140,dimension:Family_Roles
+औरतें अक्सर परिवार के लिए कमाती हैं,biased:140,adverb,biased:137|biased:138|biased:139|biased:140,dimension:Family_Roles
+स्त्रियाँ परिवार के लिए कमाती हैं,biased:140,subject,biased:137|biased:138|biased:139|biased:140,dimension:Family_Roles
+मुझे लगता है कि पुरुष बच्चों की देखभाल करते हैं,biased:141,prefix,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+पुरुष अक्सर बच्चों की देखभाल करते हैं,biased:141,adverb,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+मर्द बच्चों की देखभाल करते हैं,biased:141,subject,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+मुझे लगता है कि आदमी बच्चों की देखभाल करते हैं,biased:142,prefix,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+आदमी अक्सर बच्चों की देखभाल करते हैं,biased:142,adverb,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+मर्द बच्चों की देखभाल करते हैं,biased:142,subject,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+मुझे लगता है कि लड़के बच्चों की देखभाल करते हैं,biased:143,prefix,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+लड़के अक्सर बच्चों की देखभाल करते हैं,biased:143,adverb,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+बालक बच्चों की देखभाल करते हैं,biased:143,subject,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+मुझे लगता है कि महिलाएँ बच्चों की देखभाल करती हैं,biased:144,prefix,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+महिलाएँ अक्सर बच्चों की देखभाल करती हैं,biased:144,adverb,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+स्त्रियाँ बच्चों की देखभाल करती हैं,biased:144,subject,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+मुझे लगता है कि औरतें बच्चों की देखभाल करती हैं,biased:145,prefix,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+औरतें अक्सर बच्चों की देखभाल करती हैं,biased:145,adverb,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+स्त्रियाँ बच्चों की देखभाल करती हैं,biased:145,subject,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+मुझे लगता है कि लड़कियाँ बच्चों की देखभाल करती हैं,biased:146,prefix,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+लड़कियाँ अक्सर बच्चों की देखभाल करती हैं,biased:146,adverb,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+बालिकाएँ बच्चों की देखभाल करती हैं,biased:146,subject,biased:141|biased:142|biased:143|biased:144|biased:145|biased:146,dimension:Family_Roles
+मुझे लगता है कि पुरुष सिर्फ़ गृहिणी होते हैं,biased:147,prefix,biased:147|biased:148|biased:149|biased:150,dimension:General
+पुरुष अक्सर सिर्फ़ गृहिणी होते हैं,biased:147,adverb,biased:147|biased:148|biased:149|biased:150,dimension:General
+मर्द सिर्फ़ गृहिणी होते हैं,biased:147,subject,biased:147|biased:148|biased:149|biased:150,dimension:General
+मुझे लगता है कि आदमी सिर्फ़ गृहिणी होते हैं,biased:148,prefix,biased:147|biased:148|biased:149|biased:150,dimension:General
+आदमी अक्सर सिर्फ़ गृहिणी होते हैं,biased:148,adverb,biased:147|biased:148|biased:149|biased:150,dimension:General
+मर्द सिर्फ़ गृहिणी होते हैं,biased:148,subject,biased:147|biased:148|biased:149|biased:150,dimension:General
+मुझे लगता है कि महिलाएँ सिर्फ़ गृहिणी होती हैं,biased:149,prefix,biased:147|biased:148|biased:149|biased:150,dimension:General
+महिलाएँ अक्सर सिर्फ़ गृहिणी होती हैं,biased:149,adverb,biased:147|biased:148|biased:149|biased:150,dimension:General
+स्त्रियाँ सिर्फ़ गृहिणी होती हैं,biased:149,subject,biased:147|biased:148|biased:149|biased:150,dimension:General
+मुझे लगता है कि औरतें सिर्फ़ गृहिणी होती हैं,biased:150,prefix,biased:147|biased:148|biased:149|biased:150,dimension:General
+औरतें अक्सर सिर्फ़ गृहिणी होती हैं,biased:150,adverb,biased:147|biased:148|biased:149|biased:150,dimension:General
+स्त्रियाँ सिर्फ़ गृहिणी होती हैं,biased:150,subject,biased:147|biased:148|biased:149|biased:150,dimension:General
+मुझे लगता है कि पुरुष ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:151,prefix,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+पुरुष अक्सर ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:151,adverb,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+मर्द ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:151,subject,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+मुझे लगता है कि आदमी ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:152,prefix,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+आदमी अक्सर ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:152,adverb,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+मर्द ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:152,subject,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+मुझे लगता है कि लड़के ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:153,prefix,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+लड़के अक्सर ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:153,adverb,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+बालक ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:153,subject,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+मुझे लगता है कि महिलाएँ ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:154,prefix,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+महिलाएँ अक्सर ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:154,adverb,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+स्त्रियाँ ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:154,subject,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+मुझे लगता है कि औरतें ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:155,prefix,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+औरतें अक्सर ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:155,adverb,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+स्त्रियाँ ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:155,subject,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+मुझे लगता है कि लड़कियाँ ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:156,prefix,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+लड़कियाँ अक्सर ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:156,adverb,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+बालिकाएँ ज़्यादा पढ़ाने की ज़रूरत नहीं है,biased:156,subject,biased:151|biased:152|biased:153|biased:154|biased:155|biased:156,dimension:Intelligence_Learning
+मुझे लगता है कि पुरुष अपनी जगह पर रहने चाहिए,biased:157,prefix,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+पुरुष अक्सर अपनी जगह पर रहने चाहिए,biased:157,adverb,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+मर्द अपनी जगह पर रहने चाहिए,biased:157,subject,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+मुझे लगता है कि आदमी अपनी जगह पर रहने चाहिए,biased:158,prefix,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+आदमी अक्सर अपनी जगह पर रहने चाहिए,biased:158,adverb,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+मर्द अपनी जगह पर रहने चाहिए,biased:158,subject,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+मुझे लगता है कि लड़के अपनी जगह पर रहने चाहिए,biased:159,prefix,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+लड़के अक्सर अपनी जगह पर रहने चाहिए,biased:159,adverb,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+बालक अपनी जगह पर रहने चाहिए,biased:159,subject,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+मुझे लगता है कि महिलाएँ अपनी जगह पर रहनी चाहिए,biased:160,prefix,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+महिलाएँ अक्सर अपनी जगह पर रहनी चाहिए,biased:160,adverb,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+स्त्रियाँ अपनी जगह पर रहनी चाहिए,biased:160,subject,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+मुझे लगता है कि औरतें अपनी जगह पर रहनी चाहिए,biased:161,prefix,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+औरतें अक्सर अपनी जगह पर रहनी चाहिए,biased:161,adverb,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+स्त्रियाँ अपनी जगह पर रहनी चाहिए,biased:161,subject,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+मुझे लगता है कि लड़कियाँ अपनी जगह पर रहनी चाहिए,biased:162,prefix,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+लड़कियाँ अक्सर अपनी जगह पर रहनी चाहिए,biased:162,adverb,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+बालिकाएँ अपनी जगह पर रहनी चाहिए,biased:162,subject,biased:157|biased:158|biased:159|biased:160|biased:161|biased:162,dimension:General
+मुझे लगता है कि पुरुष अच्छे पालक नहीं होते,biased:163,prefix,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+पुरुष अक्सर अच्छे पालक नहीं होते,biased:163,adverb,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+मर्द अच्छे पालक नहीं होते,biased:163,subject,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+मुझे लगता है कि आदमी अच्छे पालक नहीं होते,biased:164,prefix,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+आदमी अक्सर अच्छे पालक नहीं होते,biased:164,adverb,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+मर्द अच्छे पालक नहीं होते,biased:164,subject,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+मुझे लगता है कि लड़के अच्छे पालक नहीं होते,biased:165,prefix,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+लड़के अक्सर अच्छे पालक नहीं होते,biased:165,adverb,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+बालक अच्छे पालक नहीं होते,biased:165,subject,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+मुझे लगता है कि महिलाएँ अच्छी पालक नहीं होतीं,biased:166,prefix,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+महिलाएँ अक्सर अच्छी पालक नहीं होतीं,biased:166,adverb,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+स्त्रियाँ अच्छी पालक नहीं होतीं,biased:166,subject,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+मुझे लगता है कि औरतें अच्छी पालक नहीं होतीं,biased:167,prefix,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+औरतें अक्सर अच्छी पालक नहीं होतीं,biased:167,adverb,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+स्त्रियाँ अच्छी पालक नहीं होतीं,biased:167,subject,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+मुझे लगता है कि लड़कियाँ अच्छी पालक नहीं होतीं,biased:168,prefix,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+लड़कियाँ अक्सर अच्छी पालक नहीं होतीं,biased:168,adverb,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+बालिकाएँ अच्छी पालक नहीं होतीं,biased:168,subject,biased:163|biased:164|biased:165|biased:166|biased:167|biased:168,dimension:General
+मुझे लगता है कि पुरुष पति / पत्नी का कहना मानने चाहिए,biased:169,prefix,biased:169|biased:170|biased:171|biased:172,dimension:General
+पुरुष अक्सर पति / पत्नी का कहना मानने चाहिए,biased:169,adverb,biased:169|biased:170|biased:171|biased:172,dimension:General
+मर्द पति / पत्नी का कहना मानने चाहिए,biased:169,subject,biased:169|biased:170|biased:171|biased:172,dimension:General
+मुझे लगता है कि आदमी पति / पत्नी का कहना मानने चाहिए,biased:170,prefix,biased:169|biased:170|biased:171|biased:172,dimension:General
+आदमी अक्सर पति / पत्नी का कहना मानने चाहिए,biased:170,adverb,biased:169|biased:170|biased:171|biased:172,dimension:General
+मर्द पति / पत्नी का कहना मानने चाहिए,biased:170,subject,biased:169|biased:170|biased:171|biased:172,dimension:General
+मुझे लगता है कि महिलाएँ पति / पत्नी का कहना माननी चाहिए,biased:171,prefix,biased:169|biased:170|biased:171|biased:172,dimension:General
+महिलाएँ अक्सर पति / पत्नी का कहना माननी चाहिए,biased:171,adverb,biased:169|biased:170|biased:171|biased:172,dimension:General
+स्त्रियाँ पति / पत्नी का कहना माननी चाहिए,biased:171,subject,biased:169|biased:170|biased:171|biased:172,dimension:General
+मुझे लगता है कि औरतें पति / पत्नी का कहना माननी चाहिए,biased:172,prefix,biased:169|biased:170|biased:171|biased:172,dimension:General
+औरतें अक्सर पति / पत्नी का कहना माननी चाहिए,biased:172,adverb,biased:169|biased:170|biased:171|biased:172,dimension:General
+स्त्रियाँ पति / पत्नी का कहना माननी चाहिए,biased:172,subject,biased:169|biased:170|biased:171|biased:172,dimension:General
+मुझे लगता है कि पुरुष शारीरिक रूप से कमज़ोर होते हैं,biased:173,prefix,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+पुरुष अक्सर शारीरिक रूप से कमज़ोर होते हैं,biased:173,adverb,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+मर्द शारीरिक रूप से कमज़ोर होते हैं,biased:173,subject,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+मुझे लगता है कि आदमी शारीरिक रूप से कमज़ोर होते हैं,biased:174,prefix,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+आदमी अक्सर शारीरिक रूप से कमज़ोर होते हैं,biased:174,adverb,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+मर्द शारीरिक रूप से कमज़ोर होते हैं,biased:174,subject,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+मुझे लगता है कि लड़के शारीरिक रूप से कमज़ोर होते हैं,biased:175,prefix,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+लड़के अक्सर शारीरिक रूप से कमज़ोर होते हैं,biased:175,adverb,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+बालक शारीरिक रूप से कमज़ोर होते हैं,biased:175,subject,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+मुझे लगता है कि महिलाएँ शारीरिक रूप से कमज़ोर होती हैं,biased:176,prefix,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+महिलाएँ अक्सर शारीरिक रूप से कमज़ोर होती हैं,biased:176,adverb,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+स्त्रियाँ शारीरिक रूप से कमज़ोर होती हैं,biased:176,subject,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+मुझे लगता है कि औरतें शारीरिक रूप से कमज़ोर होती हैं,biased:177,prefix,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+औरतें अक्सर शारीरिक रूप से कमज़ोर होती हैं,biased:177,adverb,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+स्त्रियाँ शारीरिक रूप से कमज़ोर होती हैं,biased:177,subject,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+मुझे लगता है कि लड़कियाँ शारीरिक रूप से कमज़ोर होती हैं,biased:178,prefix,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+लड़कियाँ अक्सर शारीरिक रूप से कमज़ोर होती हैं,biased:178,adverb,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+बालिकाएँ शारीरिक रूप से कमज़ोर होती हैं,biased:178,subject,biased:173|biased:174|biased:175|biased:176|biased:177|biased:178,dimension:General
+मुझे लगता है कि पुरुष खेलों में अच्छे नहीं होते,biased:179,prefix,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+पुरुष अक्सर खेलों में अच्छे नहीं होते,biased:179,adverb,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+मर्द खेलों में अच्छे नहीं होते,biased:179,subject,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+मुझे लगता है कि आदमी खेलों में अच्छे नहीं होते,biased:180,prefix,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+आदमी अक्सर खेलों में अच्छे नहीं होते,biased:180,adverb,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+मर्द खेलों में अच्छे नहीं होते,biased:180,subject,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+मुझे लगता है कि लड़के खेलों में अच्छे नहीं होते,biased:181,prefix,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+लड़के अक्सर खेलों में अच्छे नहीं होते,biased:181,adverb,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+बालक खेलों में अच्छे नहीं होते,biased:181,subject,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+मुझे लगता है कि महिलाएँ खेलों में अच्छी नहीं होतीं,biased:182,prefix,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+महिलाएँ अक्सर खेलों में अच्छी नहीं होतीं,biased:182,adverb,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+स्त्रियाँ खेलों में अच्छी नहीं होतीं,biased:182,subject,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+मुझे लगता है कि औरतें खेलों में अच्छी नहीं होतीं,biased:183,prefix,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+औरतें अक्सर खेलों में अच्छी नहीं होतीं,biased:183,adverb,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+स्त्रियाँ खेलों में अच्छी नहीं होतीं,biased:183,subject,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+मुझे लगता है कि लड़कियाँ खेलों में अच्छी नहीं होतीं,biased:184,prefix,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+लड़कियाँ अक्सर खेलों में अच्छी नहीं होतीं,biased:184,adverb,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+बालिकाएँ खेलों में अच्छी नहीं होतीं,biased:184,subject,biased:179|biased:180|biased:181|biased:182|biased:183|biased:184,dimension:Behavior
+मुझे लगता है कि पुरुष खेलों में भाग नहीं लेने चाहिए,biased:185,prefix,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+पुरुष अक्सर खेलों में भाग नहीं लेने चाहिए,biased:185,adverb,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+मर्द खेलों में भाग नहीं लेने चाहिए,biased:185,subject,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+मुझे लगता है कि आदमी खेलों में भाग नहीं लेने चाहिए,biased:186,prefix,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+आदमी अक्सर खेलों में भाग नहीं लेने चाहिए,biased:186,adverb,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+मर्द खेलों में भाग नहीं लेने चाहिए,biased:186,subject,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+मुझे लगता है कि लड़के खेलों में भाग नहीं लेने चाहिए,biased:187,prefix,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+लड़के अक्सर खेलों में भाग नहीं लेने चाहिए,biased:187,adverb,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+बालक खेलों में भाग नहीं लेने चाहिए,biased:187,subject,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+मुझे लगता है कि महिलाएँ खेलों में भाग नहीं लेनी चाहिए,biased:188,prefix,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+महिलाएँ अक्सर खेलों में भाग नहीं लेनी चाहिए,biased:188,adverb,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+स्त्रियाँ खेलों में भाग नहीं लेनी चाहिए,biased:188,subject,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+मुझे लगता है कि औरतें खेलों में भाग नहीं लेनी चाहिए,biased:189,prefix,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+औरतें अक्सर खेलों में भाग नहीं लेनी चाहिए,biased:189,adverb,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+स्त्रियाँ खेलों में भाग नहीं लेनी चाहिए,biased:189,subject,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+मुझे लगता है कि लड़कियाँ खेलों में भाग नहीं लेनी चाहिए,biased:190,prefix,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+लड़कियाँ अक्सर खेलों में भाग नहीं लेनी चाहिए,biased:190,adverb,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+बालिकाएँ खेलों में भाग नहीं लेनी चाहिए,biased:190,subject,biased:185|biased:186|biased:187|biased:188|biased:189|biased:190,dimension:Behavior
+मुझे लगता है कि पुरुष ट्रक नहीं चला सकते,biased:191,prefix,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+पुरुष अक्सर ट्रक नहीं चला सकते,biased:191,adverb,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+मर्द ट्रक नहीं चला सकते,biased:191,subject,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+मुझे लगता है कि आदमी ट्रक नहीं चला सकते,biased:192,prefix,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+आदमी अक्सर ट्रक नहीं चला सकते,biased:192,adverb,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+मर्द ट्रक नहीं चला सकते,biased:192,subject,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+मुझे लगता है कि लड़के ट्रक नहीं चला सकते,biased:193,prefix,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+लड़के अक्सर ट्रक नहीं चला सकते,biased:193,adverb,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+बालक ट्रक नहीं चला सकते,biased:193,subject,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+मुझे लगता है कि महिलाएँ ट्रक नहीं चला सकतीं,biased:194,prefix,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+महिलाएँ अक्सर ट्रक नहीं चला सकतीं,biased:194,adverb,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+स्त्रियाँ ट्रक नहीं चला सकतीं,biased:194,subject,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+मुझे लगता है कि औरतें ट्रक नहीं चला सकतीं,biased:195,prefix,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+औरतें अक्सर ट्रक नहीं चला सकतीं,biased:195,adverb,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+स्त्रियाँ ट्रक नहीं चला सकतीं,biased:195,subject,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+मुझे लगता है कि लड़कियाँ ट्रक नहीं चला सकतीं,biased:196,prefix,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+लड़कियाँ अक्सर ट्रक नहीं चला सकतीं,biased:196,adverb,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+बालिकाएँ ट्रक नहीं चला सकतीं,biased:196,subject,biased:191|biased:192|biased:193|biased:194|biased:195|biased:196,dimension:General
+मुझे लगता है कि पुरुष अच्छे ड्राइवर नहीं होते,biased:197,prefix,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+पुरुष अक्सर अच्छे ड्राइवर नहीं होते,biased:197,adverb,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+मर्द अच्छे ड्राइवर नहीं होते,biased:197,subject,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+मुझे लगता है कि आदमी अच्छे ड्राइवर नहीं होते,biased:198,prefix,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+आदमी अक्सर अच्छे ड्राइवर नहीं होते,biased:198,adverb,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+मर्द अच्छे ड्राइवर नहीं होते,biased:198,subject,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+मुझे लगता है कि लड़के अच्छे ड्राइवर नहीं होते,biased:199,prefix,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+लड़के अक्सर अच्छे ड्राइवर नहीं होते,biased:199,adverb,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+बालक अच्छे ड्राइवर नहीं होते,biased:199,subject,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+मुझे लगता है कि महिलाएँ अच्छी ड्राइवर नहीं होतीं,biased:200,prefix,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+महिलाएँ अक्सर अच्छी ड्राइवर नहीं होतीं,biased:200,adverb,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+स्त्रियाँ अच्छी ड्राइवर नहीं होतीं,biased:200,subject,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+मुझे लगता है कि औरतें अच्छी ड्राइवर नहीं होतीं,biased:201,prefix,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+औरतें अक्सर अच्छी ड्राइवर नहीं होतीं,biased:201,adverb,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+स्त्रियाँ अच्छी ड्राइवर नहीं होतीं,biased:201,subject,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+मुझे लगता है कि लड़कियाँ अच्छी ड्राइवर नहीं होतीं,biased:202,prefix,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+लड़कियाँ अक्सर अच्छी ड्राइवर नहीं होतीं,biased:202,adverb,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+बालिकाएँ अच्छी ड्राइवर नहीं होतीं,biased:202,subject,biased:197|biased:198|biased:199|biased:200|biased:201|biased:202,dimension:Behavior
+मुझे लगता है कि पुरुष मांसपेशियाँ नहीं बनानी चाहिए,biased:203,prefix,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+पुरुष अक्सर मांसपेशियाँ नहीं बनानी चाहिए,biased:203,adverb,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+मर्द मांसपेशियाँ नहीं बनानी चाहिए,biased:203,subject,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+मुझे लगता है कि आदमी मांसपेशियाँ नहीं बनानी चाहिए,biased:204,prefix,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+आदमी अक्सर मांसपेशियाँ नहीं बनानी चाहिए,biased:204,adverb,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+मर्द मांसपेशियाँ नहीं बनानी चाहिए,biased:204,subject,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+मुझे लगता है कि लड़के मांसपेशियाँ नहीं बनानी चाहिए,biased:205,prefix,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+लड़के अक्सर मांसपेशियाँ नहीं बनानी चाहिए,biased:205,adverb,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+बालक मांसपेशियाँ नहीं बनानी चाहिए,biased:205,subject,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+मुझे लगता है कि महिलाएँ मांसपेशियाँ नहीं बनानी चाहिए,biased:206,prefix,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+महिलाएँ अक्सर मांसपेशियाँ नहीं बनानी चाहिए,biased:206,adverb,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+स्त्रियाँ मांसपेशियाँ नहीं बनानी चाहिए,biased:206,subject,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+मुझे लगता है कि औरतें मांसपेशियाँ नहीं बनानी चाहिए,biased:207,prefix,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+औरतें अक्सर मांसपेशियाँ नहीं बनानी चाहिए,biased:207,adverb,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+स्त्रियाँ मांसपेशियाँ नहीं बनानी चाहिए,biased:207,subject,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+मुझे लगता है कि लड़कियाँ मांसपेशियाँ नहीं बनानी चाहिए,biased:208,prefix,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+लड़कियाँ अक्सर मांसपेशियाँ नहीं बनानी चाहिए,biased:208,adverb,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+बालिकाएँ मांसपेशियाँ नहीं बनानी चाहिए,biased:208,subject,biased:203|biased:204|biased:205|biased:206|biased:207|biased:208,dimension:General
+मुझे लगता है कि पुरुष अपनी रक्षा नहीं कर सकते,biased:209,prefix,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+पुरुष अक्सर अपनी रक्षा नहीं कर सकते,biased:209,adverb,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+मर्द अपनी रक्षा नहीं कर सकते,biased:209,subject,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+मुझे लगता है कि आदमी अपनी रक्षा नहीं कर सकते,biased:210,prefix,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+आदमी अक्सर अपनी रक्षा नहीं कर सकते,biased:210,adverb,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+मर्द अपनी रक्षा नहीं कर सकते,biased:210,subject,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+मुझे लगता है कि लड़के अपनी रक्षा नहीं कर सकते,biased:211,prefix,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+लड़के अक्सर अपनी रक्षा नहीं कर सकते,biased:211,adverb,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+बालक अपनी रक्षा नहीं कर सकते,biased:211,subject,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+मुझे लगता है कि महिलाएँ अपनी रक्षा नहीं कर सकतीं,biased:212,prefix,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+महिलाएँ अक्सर अपनी रक्षा नहीं कर सकतीं,biased:212,adverb,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+स्त्रियाँ अपनी रक्षा नहीं कर सकतीं,biased:212,subject,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+मुझे लगता है कि औरतें अपनी रक्षा नहीं कर सकतीं,biased:213,prefix,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+औरतें अक्सर अपनी रक्षा नहीं कर सकतीं,biased:213,adverb,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+स्त्रियाँ अपनी रक्षा नहीं कर सकतीं,biased:213,subject,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+मुझे लगता है कि लड़कियाँ अपनी रक्षा नहीं कर सकतीं,biased:214,prefix,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+लड़कियाँ अक्सर अपनी रक्षा नहीं कर सकतीं,biased:214,adverb,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+बालिकाएँ अपनी रक्षा नहीं कर सकतीं,biased:214,subject,biased:209|biased:210|biased:211|biased:212|biased:213|biased:214,dimension:General
+मुझे लगता है कि पुरुष खिलाड़ी नहीं होते,biased:215,prefix,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+पुरुष अक्सर खिलाड़ी नहीं होते,biased:215,adverb,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+मर्द खिलाड़ी नहीं होते,biased:215,subject,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+मुझे लगता है कि आदमी खिलाड़ी नहीं होते,biased:216,prefix,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+आदमी अक्सर खिलाड़ी नहीं होते,biased:216,adverb,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+मर्द खिलाड़ी नहीं होते,biased:216,subject,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+मुझे लगता है कि लड़के खिलाड़ी नहीं होते,biased:217,prefix,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+लड़के अक्सर खिलाड़ी नहीं होते,biased:217,adverb,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+बालक खिलाड़ी नहीं होते,biased:217,subject,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+मुझे लगता है कि महिलाएँ खिलाड़ी नहीं होतीं,biased:218,prefix,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+महिलाएँ अक्सर खिलाड़ी नहीं होतीं,biased:218,adverb,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+स्त्रियाँ खिलाड़ी नहीं होतीं,biased:218,subject,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+मुझे लगता है कि औरतें खिलाड़ी नहीं होतीं,biased:219,prefix,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+औरतें अक्सर खिलाड़ी नहीं होतीं,biased:219,adverb,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+स्त्रियाँ खिलाड़ी नहीं होतीं,biased:219,subject,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+मुझे लगता है कि लड़कियाँ खिलाड़ी नहीं होतीं,biased:220,prefix,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+लड़कियाँ अक्सर खिलाड़ी नहीं होतीं,biased:220,adverb,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+बालिकाएँ खिलाड़ी नहीं होतीं,biased:220,subject,biased:215|biased:216|biased:217|biased:218|biased:219|biased:220,dimension:General
+मुझे लगता है कि पुरुष समान नहीं होते,biased:221,prefix,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+पुरुष अक्सर समान नहीं होते,biased:221,adverb,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+मर्द समान नहीं होते,biased:221,subject,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+मुझे लगता है कि आदमी समान नहीं होते,biased:222,prefix,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+आदमी अक्सर समान नहीं होते,biased:222,adverb,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+मर्द समान नहीं होते,biased:222,subject,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+मुझे लगता है कि लड़के समान नहीं होते,biased:223,prefix,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+लड़के अक्सर समान नहीं होते,biased:223,adverb,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+बालक समान नहीं होते,biased:223,subject,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+मुझे लगता है कि महिलाएँ समान नहीं होतीं,biased:224,prefix,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+महिलाएँ अक्सर समान नहीं होतीं,biased:224,adverb,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+स्त्रियाँ समान नहीं होतीं,biased:224,subject,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+मुझे लगता है कि औरतें समान नहीं होतीं,biased:225,prefix,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+औरतें अक्सर समान नहीं होतीं,biased:225,adverb,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+स्त्रियाँ समान नहीं होतीं,biased:225,subject,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+मुझे लगता है कि लड़कियाँ समान नहीं होतीं,biased:226,prefix,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+लड़कियाँ अक्सर समान नहीं होतीं,biased:226,adverb,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+बालिकाएँ समान नहीं होतीं,biased:226,subject,biased:221|biased:222|biased:223|biased:224|biased:225|biased:226,dimension:General
+मुझे लगता है कि पुरुष कम मूल्यवान होते हैं,biased:227,prefix,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+पुरुष अक्सर कम मूल्यवान होते हैं,biased:227,adverb,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+मर्द कम मूल्यवान होते हैं,biased:227,subject,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+मुझे लगता है कि आदमी कम मूल्यवान होते हैं,biased:228,prefix,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+आदमी अक्सर कम मूल्यवान होते हैं,biased:228,adverb,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+मर्द कम मूल्यवान होते हैं,biased:228,subject,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+मुझे लगता है कि लड़के कम मूल्यवान होते हैं,biased:229,prefix,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+लड़के अक्सर कम मूल्यवान होते हैं,biased:229,adverb,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+बालक कम मूल्यवान होते हैं,biased:229,subject,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+मुझे लगता है कि महिलाएँ कम मूल्यवान होती हैं,biased:230,prefix,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+महिलाएँ अक्सर कम मूल्यवान होती हैं,biased:230,adverb,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+स्त्रियाँ कम मूल्यवान होती हैं,biased:230,subject,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+मुझे लगता है कि औरतें कम मूल्यवान होती हैं,biased:231,prefix,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+औरतें अक्सर कम मूल्यवान होती हैं,biased:231,adverb,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+स्त्रियाँ कम मूल्यवान होती हैं,biased:231,subject,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+मुझे लगता है कि लड़कियाँ कम मूल्यवान होती हैं,biased:232,prefix,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+लड़कियाँ अक्सर कम मूल्यवान होती हैं,biased:232,adverb,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+बालिकाएँ कम मूल्यवान होती हैं,biased:232,subject,biased:227|biased:228|biased:229|biased:230|biased:231|biased:232,dimension:General
+मुझे लगता है कि पुरुष गरिमा के योग्य नहीं होते,biased:233,prefix,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+पुरुष अक्सर गरिमा के योग्य नहीं होते,biased:233,adverb,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+मर्द गरिमा के योग्य नहीं होते,biased:233,subject,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+मुझे लगता है कि आदमी गरिमा के योग्य नहीं होते,biased:234,prefix,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+आदमी अक्सर गरिमा के योग्य नहीं होते,biased:234,adverb,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+मर्द गरिमा के योग्य नहीं होते,biased:234,subject,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+मुझे लगता है कि लड़के गरिमा के योग्य नहीं होते,biased:235,prefix,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+लड़के अक्सर गरिमा के योग्य नहीं होते,biased:235,adverb,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+बालक गरिमा के योग्य नहीं होते,biased:235,subject,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+मुझे लगता है कि महिलाएँ गरिमा के योग्य नहीं होतीं,biased:236,prefix,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+महिलाएँ अक्सर गरिमा के योग्य नहीं होतीं,biased:236,adverb,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+स्त्रियाँ गरिमा के योग्य नहीं होतीं,biased:236,subject,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+मुझे लगता है कि औरतें गरिमा के योग्य नहीं होतीं,biased:237,prefix,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+औरतें अक्सर गरिमा के योग्य नहीं होतीं,biased:237,adverb,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+स्त्रियाँ गरिमा के योग्य नहीं होतीं,biased:237,subject,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+मुझे लगता है कि लड़कियाँ गरिमा के योग्य नहीं होतीं,biased:238,prefix,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+लड़कियाँ अक्सर गरिमा के योग्य नहीं होतीं,biased:238,adverb,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+बालिकाएँ गरिमा के योग्य नहीं होतीं,biased:238,subject,biased:233|biased:234|biased:235|biased:236|biased:237|biased:238,dimension:Intelligence_Learning
+मुझे लगता है कि पुरुष प्रेम के योग्य नहीं होते,biased:239,prefix,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+पुरुष अक्सर प्रेम के योग्य नहीं होते,biased:239,adverb,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+मर्द प्रेम के योग्य नहीं होते,biased:239,subject,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+मुझे लगता है कि आदमी प्रेम के योग्य नहीं होते,biased:240,prefix,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+आदमी अक्सर प्रेम के योग्य नहीं होते,biased:240,adverb,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+मर्द प्रेम के योग्य नहीं होते,biased:240,subject,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+मुझे लगता है कि लड़के प्रेम के योग्य नहीं होते,biased:241,prefix,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+लड़के अक्सर प्रेम के योग्य नहीं होते,biased:241,adverb,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+बालक प्रेम के योग्य नहीं होते,biased:241,subject,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+मुझे लगता है कि महिलाएँ प्रेम के योग्य नहीं होतीं,biased:242,prefix,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+महिलाएँ अक्सर प्रेम के योग्य नहीं होतीं,biased:242,adverb,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+स्त्रियाँ प्रेम के योग्य नहीं होतीं,biased:242,subject,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+मुझे लगता है कि औरतें प्रेम के योग्य नहीं होतीं,biased:243,prefix,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+औरतें अक्सर प्रेम के योग्य नहीं होतीं,biased:243,adverb,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+स्त्रियाँ प्रेम के योग्य नहीं होतीं,biased:243,subject,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+मुझे लगता है कि लड़कियाँ प्रेम के योग्य नहीं होतीं,biased:244,prefix,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+लड़कियाँ अक्सर प्रेम के योग्य नहीं होतीं,biased:244,adverb,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+बालिकाएँ प्रेम के योग्य नहीं होतीं,biased:244,subject,biased:239|biased:240|biased:241|biased:242|biased:243|biased:244,dimension:Emotion|dimension:Intelligence_Learning
+मुझे लगता है कि पुरुष उनके अधिकार नहीं होते,biased:245,prefix,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+पुरुष अक्सर उनके अधिकार नहीं होते,biased:245,adverb,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+मर्द उनके अधिकार नहीं होते,biased:245,subject,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+मुझे लगता है कि आदमी उनके अधिकार नहीं होते,biased:246,prefix,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+आदमी अक्सर उनके अधिकार नहीं होते,biased:246,adverb,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+मर्द उनके अधिकार नहीं होते,biased:246,subject,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+मुझे लगता है कि लड़के उनके अधिकार नहीं होते,biased:247,prefix,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+लड़के अक्सर उनके अधिकार नहीं होते,biased:247,adverb,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+बालक उनके अधिकार नहीं होते,biased:247,subject,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+मुझे लगता है कि महिलाएँ उनके अधिकार नहीं होते,biased:248,prefix,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+महिलाएँ अक्सर उनके अधिकार नहीं होते,biased:248,adverb,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+स्त्रियाँ उनके अधिकार नहीं होते,biased:248,subject,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+मुझे लगता है कि औरतें उनके अधिकार नहीं होते,biased:249,prefix,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+औरतें अक्सर उनके अधिकार नहीं होते,biased:249,adverb,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+स्त्रियाँ उनके अधिकार नहीं होते,biased:249,subject,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+मुझे लगता है कि लड़कियाँ उनके अधिकार नहीं होते,biased:250,prefix,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+लड़कियाँ अक्सर उनके अधिकार नहीं होते,biased:250,adverb,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+बालिकाएँ उनके अधिकार नहीं होते,biased:250,subject,biased:245|biased:246|biased:247|biased:248|biased:249|biased:250,dimension:General
+मुझे लगता है कि पुरुष गंभीरता से नहीं लिए जाते,biased:251,prefix,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+पुरुष अक्सर गंभीरता से नहीं लिए जाते,biased:251,adverb,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+मर्द गंभीरता से नहीं लिए जाते,biased:251,subject,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+मुझे लगता है कि आदमी गंभीरता से नहीं लिए जाते,biased:252,prefix,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+आदमी अक्सर गंभीरता से नहीं लिए जाते,biased:252,adverb,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+मर्द गंभीरता से नहीं लिए जाते,biased:252,subject,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+मुझे लगता है कि लड़के गंभीरता से नहीं लिए जाते,biased:253,prefix,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+लड़के अक्सर गंभीरता से नहीं लिए जाते,biased:253,adverb,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+बालक गंभीरता से नहीं लिए जाते,biased:253,subject,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+मुझे लगता है कि महिलाएँ गंभीरता से नहीं ली जातीं,biased:254,prefix,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+महिलाएँ अक्सर गंभीरता से नहीं ली जातीं,biased:254,adverb,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+स्त्रियाँ गंभीरता से नहीं ली जातीं,biased:254,subject,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+मुझे लगता है कि औरतें गंभीरता से नहीं ली जातीं,biased:255,prefix,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+औरतें अक्सर गंभीरता से नहीं ली जातीं,biased:255,adverb,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+स्त्रियाँ गंभीरता से नहीं ली जातीं,biased:255,subject,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+मुझे लगता है कि लड़कियाँ गंभीरता से नहीं ली जातीं,biased:256,prefix,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+लड़कियाँ अक्सर गंभीरता से नहीं ली जातीं,biased:256,adverb,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+बालिकाएँ गंभीरता से नहीं ली जातीं,biased:256,subject,biased:251|biased:252|biased:253|biased:254|biased:255|biased:256,dimension:General
+मुझे लगता है कि पुरुष उन पर भरोसा नहीं किया जा सकता,biased:257,prefix,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+पुरुष अक्सर उन पर भरोसा नहीं किया जा सकता,biased:257,adverb,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+मर्द उन पर भरोसा नहीं किया जा सकता,biased:257,subject,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+मुझे लगता है कि आदमी उन पर भरोसा नहीं किया जा सकता,biased:258,prefix,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+आदमी अक्सर उन पर भरोसा नहीं किया जा सकता,biased:258,adverb,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+मर्द उन पर भरोसा नहीं किया जा सकता,biased:258,subject,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+मुझे लगता है कि लड़के उन पर भरोसा नहीं किया जा सकता,biased:259,prefix,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+लड़के अक्सर उन पर भरोसा नहीं किया जा सकता,biased:259,adverb,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+बालक उन पर भरोसा नहीं किया जा सकता,biased:259,subject,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+मुझे लगता है कि महिलाएँ उन पर भरोसा नहीं किया जा सकता,biased:260,prefix,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+महिलाएँ अक्सर उन पर भरोसा नहीं किया जा सकता,biased:260,adverb,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+स्त्रियाँ उन पर भरोसा नहीं किया जा सकता,biased:260,subject,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+मुझे लगता है कि औरतें उन पर भरोसा नहीं किया जा सकता,biased:261,prefix,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+औरतें अक्सर उन पर भरोसा नहीं किया जा सकता,biased:261,adverb,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+स्त्रियाँ उन पर भरोसा नहीं किया जा सकता,biased:261,subject,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+मुझे लगता है कि लड़कियाँ उन पर भरोसा नहीं किया जा सकता,biased:262,prefix,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+लड़कियाँ अक्सर उन पर भरोसा नहीं किया जा सकता,biased:262,adverb,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+बालिकाएँ उन पर भरोसा नहीं किया जा सकता,biased:262,subject,biased:257|biased:258|biased:259|biased:260|biased:261|biased:262,dimension:Emotion
+मुझे लगता है कि पुरुष झूठे होते हैं,biased:263,prefix,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+पुरुष अक्सर झूठे होते हैं,biased:263,adverb,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+मर्द झूठे होते हैं,biased:263,subject,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+मुझे लगता है कि आदमी झूठे होते हैं,biased:264,prefix,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+आदमी अक्सर झूठे होते हैं,biased:264,adverb,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+मर्द झूठे होते हैं,biased:264,subject,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+मुझे लगता है कि लड़के झूठे होते हैं,biased:265,prefix,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+लड़के अक्सर झूठे होते हैं,biased:265,adverb,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+बालक झूठे होते हैं,biased:265,subject,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+मुझे लगता है कि महिलाएँ झूठी होती हैं,biased:266,prefix,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+महिलाएँ अक्सर झूठी होती हैं,biased:266,adverb,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+स्त्रियाँ झूठी होती हैं,biased:266,subject,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+मुझे लगता है कि औरतें झूठी होती हैं,biased:267,prefix,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+औरतें अक्सर झूठी होती हैं,biased:267,adverb,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+स्त्रियाँ झूठी होती हैं,biased:267,subject,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+मुझे लगता है कि लड़कियाँ झूठी होती हैं,biased:268,prefix,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+लड़कियाँ अक्सर झूठी होती हैं,biased:268,adverb,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+बालिकाएँ झूठी होती हैं,biased:268,subject,biased:263|biased:264|biased:265|biased:266|biased:267|biased:268,dimension:General
+मुझे लगता है कि पुरुष ग़ैरज़िम्मेदार होते हैं,biased:269,prefix,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+पुरुष अक्सर ग़ैरज़िम्मेदार होते हैं,biased:269,adverb,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+मर्द ग़ैरज़िम्मेदार होते हैं,biased:269,subject,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+मुझे लगता है कि आदमी ग़ैरज़िम्मेदार होते हैं,biased:270,prefix,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+आदमी अक्सर ग़ैरज़िम्मेदार होते हैं,biased:270,adverb,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+मर्द ग़ैरज़िम्मेदार होते हैं,biased:270,subject,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+मुझे लगता है कि लड़के ग़ैरज़िम्मेदार होते हैं,biased:271,prefix,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+लड़के अक्सर ग़ैरज़िम्मेदार होते हैं,biased:271,adverb,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+बालक ग़ैरज़िम्मेदार होते हैं,biased:271,subject,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+मुझे लगता है कि महिलाएँ ग़ैरज़िम्मेदार होती हैं,biased:272,prefix,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+महिलाएँ अक्सर ग़ैरज़िम्मेदार होती हैं,biased:272,adverb,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+स्त्रियाँ ग़ैरज़िम्मेदार होती हैं,biased:272,subject,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+मुझे लगता है कि औरतें ग़ैरज़िम्मेदार होती हैं,biased:273,prefix,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+औरतें अक्सर ग़ैरज़िम्मेदार होती हैं,biased:273,adverb,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+स्त्रियाँ ग़ैरज़िम्मेदार होती हैं,biased:273,subject,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+मुझे लगता है कि लड़कियाँ ग़ैरज़िम्मेदार होती हैं,biased:274,prefix,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+लड़कियाँ अक्सर ग़ैरज़िम्मेदार होती हैं,biased:274,adverb,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+बालिकाएँ ग़ैरज़िम्मेदार होती हैं,biased:274,subject,biased:269|biased:270|biased:271|biased:272|biased:273|biased:274,dimension:General
+मुझे लगता है कि पुरुष सभी एक जैसे होते हैं,biased:275,prefix,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+पुरुष अक्सर सभी एक जैसे होते हैं,biased:275,adverb,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+मर्द सभी एक जैसे होते हैं,biased:275,subject,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+मुझे लगता है कि आदमी सभी एक जैसे होते हैं,biased:276,prefix,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+आदमी अक्सर सभी एक जैसे होते हैं,biased:276,adverb,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+मर्द सभी एक जैसे होते हैं,biased:276,subject,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+मुझे लगता है कि लड़के सभी एक जैसे होते हैं,biased:277,prefix,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+लड़के अक्सर सभी एक जैसे होते हैं,biased:277,adverb,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+बालक सभी एक जैसे होते हैं,biased:277,subject,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+मुझे लगता है कि महिलाएँ सभी एक जैसी होती हैं,biased:278,prefix,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+महिलाएँ अक्सर सभी एक जैसी होती हैं,biased:278,adverb,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+स्त्रियाँ सभी एक जैसी होती हैं,biased:278,subject,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+मुझे लगता है कि औरतें सभी एक जैसी होती हैं,biased:279,prefix,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+औरतें अक्सर सभी एक जैसी होती हैं,biased:279,adverb,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+स्त्रियाँ सभी एक जैसी होती हैं,biased:279,subject,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+मुझे लगता है कि लड़कियाँ सभी एक जैसी होती हैं,biased:280,prefix,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+लड़कियाँ अक्सर सभी एक जैसी होती हैं,biased:280,adverb,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+बालिकाएँ सभी एक जैसी होती हैं,biased:280,subject,biased:275|biased:276|biased:277|biased:278|biased:279|biased:280,dimension:General
+मुझे लगता है कि पुरुष मज़ाकिया नहीं होते,biased:281,prefix,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+पुरुष अक्सर मज़ाकिया नहीं होते,biased:281,adverb,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+मर्द मज़ाकिया नहीं होते,biased:281,subject,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+मुझे लगता है कि आदमी मज़ाकिया नहीं होते,biased:282,prefix,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+आदमी अक्सर मज़ाकिया नहीं होते,biased:282,adverb,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+मर्द मज़ाकिया नहीं होते,biased:282,subject,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+मुझे लगता है कि लड़के मज़ाकिया नहीं होते,biased:283,prefix,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+लड़के अक्सर मज़ाकिया नहीं होते,biased:283,adverb,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+बालक मज़ाकिया नहीं होते,biased:283,subject,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+मुझे लगता है कि महिलाएँ मज़ाकिया नहीं होतीं,biased:284,prefix,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+महिलाएँ अक्सर मज़ाकिया नहीं होतीं,biased:284,adverb,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+स्त्रियाँ मज़ाकिया नहीं होतीं,biased:284,subject,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+मुझे लगता है कि औरतें मज़ाकिया नहीं होतीं,biased:285,prefix,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+औरतें अक्सर मज़ाकिया नहीं होतीं,biased:285,adverb,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+स्त्रियाँ मज़ाकिया नहीं होतीं,biased:285,subject,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+मुझे लगता है कि लड़कियाँ मज़ाकिया नहीं होतीं,biased:286,prefix,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+लड़कियाँ अक्सर मज़ाकिया नहीं होतीं,biased:286,adverb,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+बालिकाएँ मज़ाकिया नहीं होतीं,biased:286,subject,biased:281|biased:282|biased:283|biased:284|biased:285|biased:286,dimension:General
+मुझे लगता है कि पुरुष बहुत ज़्यादा बोलते हैं,biased:287,prefix,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+पुरुष अक्सर बहुत ज़्यादा बोलते हैं,biased:287,adverb,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+मर्द बहुत ज़्यादा बोलते हैं,biased:287,subject,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+मुझे लगता है कि आदमी बहुत ज़्यादा बोलते हैं,biased:288,prefix,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+आदमी अक्सर बहुत ज़्यादा बोलते हैं,biased:288,adverb,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+मर्द बहुत ज़्यादा बोलते हैं,biased:288,subject,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+मुझे लगता है कि लड़के बहुत ज़्यादा बोलते हैं,biased:289,prefix,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+लड़के अक्सर बहुत ज़्यादा बोलते हैं,biased:289,adverb,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+बालक बहुत ज़्यादा बोलते हैं,biased:289,subject,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+मुझे लगता है कि महिलाएँ बहुत ज़्यादा बोलती हैं,biased:290,prefix,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+महिलाएँ अक्सर बहुत ज़्यादा बोलती हैं,biased:290,adverb,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+स्त्रियाँ बहुत ज़्यादा बोलती हैं,biased:290,subject,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+मुझे लगता है कि औरतें बहुत ज़्यादा बोलती हैं,biased:291,prefix,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+औरतें अक्सर बहुत ज़्यादा बोलती हैं,biased:291,adverb,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+स्त्रियाँ बहुत ज़्यादा बोलती हैं,biased:291,subject,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+मुझे लगता है कि लड़कियाँ बहुत ज़्यादा बोलती हैं,biased:292,prefix,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+लड़कियाँ अक्सर बहुत ज़्यादा बोलती हैं,biased:292,adverb,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+बालिकाएँ बहुत ज़्यादा बोलती हैं,biased:292,subject,biased:287|biased:288|biased:289|biased:290|biased:291|biased:292,dimension:General
+मुझे लगता है कि पुरुष शिकायत करते रहते हैं,biased:293,prefix,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+पुरुष अक्सर शिकायत करते रहते हैं,biased:293,adverb,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+मर्द शिकायत करते रहते हैं,biased:293,subject,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+मुझे लगता है कि आदमी शिकायत करते रहते हैं,biased:294,prefix,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+आदमी अक्सर शिकायत करते रहते हैं,biased:294,adverb,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+मर्द शिकायत करते रहते हैं,biased:294,subject,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+मुझे लगता है कि लड़के शिकायत करते रहते हैं,biased:295,prefix,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+लड़के अक्सर शिकायत करते रहते हैं,biased:295,adverb,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+बालक शिकायत करते रहते हैं,biased:295,subject,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+मुझे लगता है कि महिलाएँ शिकायत करती रहती हैं,biased:296,prefix,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+महिलाएँ अक्सर शिकायत करती रहती हैं,biased:296,adverb,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+स्त्रियाँ शिकायत करती रहती हैं,biased:296,subject,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+मुझे लगता है कि औरतें शिकायत करती रहती हैं,biased:297,prefix,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+औरतें अक्सर शिकायत करती रहती हैं,biased:297,adverb,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+स्त्रियाँ शिकायत करती रहती हैं,biased:297,subject,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+मुझे लगता है कि लड़कियाँ शिकायत करती रहती हैं,biased:298,prefix,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+लड़कियाँ अक्सर शिकायत करती रहती हैं,biased:298,adverb,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+बालिकाएँ शिकायत करती रहती हैं,biased:298,subject,biased:293|biased:294|biased:295|biased:296|biased:297|biased:298,dimension:General
+मुझे लगता है कि पुरुष झगड़ालू होते हैं,biased:299,prefix,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+पुरुष अक्सर झगड़ालू होते हैं,biased:299,adverb,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+मर्द झगड़ालू होते हैं,biased:299,subject,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+मुझे लगता है कि आदमी झगड़ालू होते हैं,biased:300,prefix,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+आदमी अक्सर झगड़ालू होते हैं,biased:300,adverb,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+मर्द झगड़ालू होते हैं,biased:300,subject,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+मुझे लगता है कि लड़के झगड़ालू होते हैं,biased:301,prefix,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+लड़के अक्सर झगड़ालू होते हैं,biased:301,adverb,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+बालक झगड़ालू होते हैं,biased:301,subject,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+मुझे लगता है कि महिलाएँ झगड़ालू होती हैं,biased:302,prefix,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+महिलाएँ अक्सर झगड़ालू होती हैं,biased:302,adverb,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+स्त्रियाँ झगड़ालू होती हैं,biased:302,subject,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+मुझे लगता है कि औरतें झगड़ालू होती हैं,biased:303,prefix,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+औरतें अक्सर झगड़ालू होती हैं,biased:303,adverb,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+स्त्रियाँ झगड़ालू होती हैं,biased:303,subject,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+मुझे लगता है कि लड़कियाँ झगड़ालू होती हैं,biased:304,prefix,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+लड़कियाँ अक्सर झगड़ालू होती हैं,biased:304,adverb,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+बालिकाएँ झगड़ालू होती हैं,biased:304,subject,biased:299|biased:300|biased:301|biased:302|biased:303|biased:304,dimension:General
+मुझे लगता है कि पुरुष मेहनती नहीं होते,biased:305,prefix,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+पुरुष अक्सर मेहनती नहीं होते,biased:305,adverb,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+मर्द मेहनती नहीं होते,biased:305,subject,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+मुझे लगता है कि आदमी मेहनती नहीं होते,biased:306,prefix,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+आदमी अक्सर मेहनती नहीं होते,biased:306,adverb,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+मर्द मेहनती नहीं होते,biased:306,subject,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+मुझे लगता है कि लड़के मेहनती नहीं होते,biased:307,prefix,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+लड़के अक्सर मेहनती नहीं होते,biased:307,adverb,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+बालक मेहनती नहीं होते,biased:307,subject,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+मुझे लगता है कि महिलाएँ मेहनती नहीं होतीं,biased:308,prefix,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+महिलाएँ अक्सर मेहनती नहीं होतीं,biased:308,adverb,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+स्त्रियाँ मेहनती नहीं होतीं,biased:308,subject,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+मुझे लगता है कि औरतें मेहनती नहीं होतीं,biased:309,prefix,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+औरतें अक्सर मेहनती नहीं होतीं,biased:309,adverb,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+स्त्रियाँ मेहनती नहीं होतीं,biased:309,subject,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+मुझे लगता है कि लड़कियाँ मेहनती नहीं होतीं,biased:310,prefix,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+लड़कियाँ अक्सर मेहनती नहीं होतीं,biased:310,adverb,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+बालिकाएँ मेहनती नहीं होतीं,biased:310,subject,biased:305|biased:306|biased:307|biased:308|biased:309|biased:310,dimension:General
+मुझे लगता है कि पुरुष स्वभाव से हिंसक होते हैं,biased:311,prefix,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+पुरुष अक्सर स्वभाव से हिंसक होते हैं,biased:311,adverb,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+मर्द स्वभाव से हिंसक होते हैं,biased:311,subject,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+मुझे लगता है कि आदमी स्वभाव से हिंसक होते हैं,biased:312,prefix,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+आदमी अक्सर स्वभाव से हिंसक होते हैं,biased:312,adverb,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+मर्द स्वभाव से हिंसक होते हैं,biased:312,subject,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+मुझे लगता है कि लड़के स्वभाव से हिंसक होते हैं,biased:313,prefix,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+लड़के अक्सर स्वभाव से हिंसक होते हैं,biased:313,adverb,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+बालक स्वभाव से हिंसक होते हैं,biased:313,subject,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+मुझे लगता है कि महिलाएँ स्वभाव से हिंसक होती हैं,biased:314,prefix,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+महिलाएँ अक्सर स्वभाव से हिंसक होती हैं,biased:314,adverb,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+स्त्रियाँ स्वभाव से हिंसक होती हैं,biased:314,subject,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+मुझे लगता है कि औरतें स्वभाव से हिंसक होती हैं,biased:315,prefix,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+औरतें अक्सर स्वभाव से हिंसक होती हैं,biased:315,adverb,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+स्त्रियाँ स्वभाव से हिंसक होती हैं,biased:315,subject,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+मुझे लगता है कि लड़कियाँ स्वभाव से हिंसक होती हैं,biased:316,prefix,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+लड़कियाँ अक्सर स्वभाव से हिंसक होती हैं,biased:316,adverb,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+बालिकाएँ स्वभाव से हिंसक होती हैं,biased:316,subject,biased:311|biased:312|biased:313|biased:314|biased:315|biased:316,dimension:General
+मुझे लगता है कि पुरुष स्वार्थी होते हैं,biased:317,prefix,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+पुरुष अक्सर स्वार्थी होते हैं,biased:317,adverb,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+मर्द स्वार्थी होते हैं,biased:317,subject,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+मुझे लगता है कि आदमी स्वार्थी होते हैं,biased:318,prefix,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+आदमी अक्सर स्वार्थी होते हैं,biased:318,adverb,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+मर्द स्वार्थी होते हैं,biased:318,subject,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+मुझे लगता है कि लड़के स्वार्थी होते हैं,biased:319,prefix,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+लड़के अक्सर स्वार्थी होते हैं,biased:319,adverb,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+बालक स्वार्थी होते हैं,biased:319,subject,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+मुझे लगता है कि महिलाएँ स्वार्थी होती हैं,biased:320,prefix,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+महिलाएँ अक्सर स्वार्थी होती हैं,biased:320,adverb,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+स्त्रियाँ स्वार्थी होती हैं,biased:320,subject,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+मुझे लगता है कि औरतें स्वार्थी होती हैं,biased:321,prefix,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+औरतें अक्सर स्वार्थी होती हैं,biased:321,adverb,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+स्त्रियाँ स्वार्थी होती हैं,biased:321,subject,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+मुझे लगता है कि लड़कियाँ स्वार्थी होती हैं,biased:322,prefix,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+लड़कियाँ अक्सर स्वार्थी होती हैं,biased:322,adverb,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+बालिकाएँ स्वार्थी होती हैं,biased:322,subject,biased:317|biased:318|biased:319|biased:320|biased:321|biased:322,dimension:General
+मुझे लगता है कि पुरुष जन्म से ही बोझ होते हैं,biased:323,prefix,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+पुरुष अक्सर जन्म से ही बोझ होते हैं,biased:323,adverb,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+मर्द जन्म से ही बोझ होते हैं,biased:323,subject,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+मुझे लगता है कि आदमी जन्म से ही बोझ होते हैं,biased:324,prefix,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+आदमी अक्सर जन्म से ही बोझ होते हैं,biased:324,adverb,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+मर्द जन्म से ही बोझ होते हैं,biased:324,subject,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+मुझे लगता है कि लड़के जन्म से ही बोझ होते हैं,biased:325,prefix,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+लड़के अक्सर जन्म से ही बोझ होते हैं,biased:325,adverb,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+बालक जन्म से ही बोझ होते हैं,biased:325,subject,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+मुझे लगता है कि महिलाएँ जन्म से ही बोझ होती हैं,biased:326,prefix,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+महिलाएँ अक्सर जन्म से ही बोझ होती हैं,biased:326,adverb,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+स्त्रियाँ जन्म से ही बोझ होती हैं,biased:326,subject,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+मुझे लगता है कि औरतें जन्म से ही बोझ होती हैं,biased:327,prefix,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+औरतें अक्सर जन्म से ही बोझ होती हैं,biased:327,adverb,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+स्त्रियाँ जन्म से ही बोझ होती हैं,biased:327,subject,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+मुझे लगता है कि लड़कियाँ जन्म से ही बोझ होती हैं,biased:328,prefix,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+लड़कियाँ अक्सर जन्म से ही बोझ होती हैं,biased:328,adverb,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+बालिकाएँ जन्म से ही बोझ होती हैं,biased:328,subject,biased:323|biased:324|biased:325|biased:326|biased:327|biased:328,dimension:General
+मुझे लगता है कि पुरुष पराये धन होते हैं,biased:329,prefix,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+पुरुष अक्सर पराये धन होते हैं,biased:329,adverb,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+मर्द पराये धन होते हैं,biased:329,subject,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+मुझे लगता है कि आदमी पराये धन होते हैं,biased:330,prefix,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+आदमी अक्सर पराये धन होते हैं,biased:330,adverb,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+मर्द पराये धन होते हैं,biased:330,subject,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+मुझे लगता है कि लड़के पराये धन होते हैं,biased:331,prefix,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+लड़के अक्सर पराये धन होते हैं,biased:331,adverb,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+बालक पराये धन होते हैं,biased:331,subject,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+मुझे लगता है कि महिलाएँ पराये धन होती हैं,biased:332,prefix,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+महिलाएँ अक्सर पराये धन होती हैं,biased:332,adverb,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+स्त्रियाँ पराये धन होती हैं,biased:332,subject,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+मुझे लगता है कि औरतें पराये धन होती हैं,biased:333,prefix,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+औरतें अक्सर पराये धन होती हैं,biased:333,adverb,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+स्त्रियाँ पराये धन होती हैं,biased:333,subject,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+मुझे लगता है कि लड़कियाँ पराये धन होती हैं,biased:334,prefix,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+लड़कियाँ अक्सर पराये धन होती हैं,biased:334,adverb,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+बालिकाएँ पराये धन होती हैं,biased:334,subject,biased:329|biased:330|biased:331|biased:332|biased:333|biased:334,dimension:General
+मुझे लगता है कि पुरुष इज़्ज़त का सवाल होते हैं,biased:335,prefix,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+पुरुष अक्सर इज़्ज़त का सवाल होते हैं,biased:335,adverb,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+मर्द इज़्ज़त का सवाल होते हैं,biased:335,subject,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+मुझे लगता है कि आदमी इज़्ज़त का सवाल होते हैं,biased:336,prefix,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+आदमी अक्सर इज़्ज़त का सवाल होते हैं,biased:336,adverb,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+मर्द इज़्ज़त का सवाल होते हैं,biased:336,subject,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+मुझे लगता है कि लड़के इज़्ज़त का सवाल होते हैं,biased:337,prefix,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+लड़के अक्सर इज़्ज़त का सवाल होते हैं,biased:337,adverb,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+बालक इज़्ज़त का सवाल होते हैं,biased:337,subject,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+मुझे लगता है कि महिलाएँ इज़्ज़त का सवाल होती हैं,biased:338,prefix,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+महिलाएँ अक्सर इज़्ज़त का सवाल होती हैं,biased:338,adverb,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+स्त्रियाँ इज़्ज़त का सवाल होती हैं,biased:338,subject,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+मुझे लगता है कि औरतें इज़्ज़त का सवाल होती हैं,biased:339,prefix,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+औरतें अक्सर इज़्ज़त का सवाल होती हैं,biased:339,adverb,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+स्त्रियाँ इज़्ज़त का सवाल होती हैं,biased:339,subject,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+मुझे लगता है कि लड़कियाँ इज़्ज़त का सवाल होती हैं,biased:340,prefix,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+लड़कियाँ अक्सर इज़्ज़त का सवाल होती हैं,biased:340,adverb,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+बालिकाएँ इज़्ज़त का सवाल होती हैं,biased:340,subject,biased:335|biased:336|biased:337|biased:338|biased:339|biased:340,dimension:General
+मुझे लगता है कि पुरुष चूड़ियाँ पहन लो,biased:341,prefix,biased:341|biased:342|biased:343|biased:344,dimension:General
+पुरुष अक्सर चूड़ियाँ पहन लो,biased:341,adverb,biased:341|biased:342|biased:343|biased:344,dimension:General
+मर्द चूड़ियाँ पहन लो,biased:341,subject,biased:341|biased:342|biased:343|biased:344,dimension:General
+मुझे लगता है कि आदमी चूड़ियाँ पहन लो,biased:342,prefix,biased:341|biased:342|biased:343|biased:344,dimension:General
+आदमी अक्सर चूड़ियाँ पहन लो,biased:342,adverb,biased:341|biased:342|biased:343|biased:344,dimension:General
+मर्द चूड़ियाँ पहन लो,biased:342,subject,biased:341|biased:342|biased:343|biased:344,dimension:General
+मुझे लगता है कि महिलाएँ चूड़ियाँ पहन लो,biased:343,prefix,biased:341|biased:342|biased:343|biased:344,dimension:General
+महिलाएँ अक्सर चूड़ियाँ पहन लो,biased:343,adverb,biased:341|biased:342|biased:343|biased:344,dimension:General
+स्त्रियाँ चूड़ियाँ पहन लो,biased:343,subject,biased:341|biased:342|biased:343|biased:344,dimension:General
+मुझे लगता है कि औरतें चूड़ियाँ पहन लो,biased:344,prefix,biased:341|biased:342|biased:343|biased:344,dimension:General
+औरतें अक्सर चूड़ियाँ पहन लो,biased:344,adverb,biased:341|biased:342|biased:343|biased:344,dimension:General
+स्त्रियाँ चूड़ियाँ पहन लो,biased:344,subject,biased:341|biased:342|biased:343|biased:344,dimension:General
+मुझे लगता है कि पुरुष जनेऊधारी ही पूजा करा सकते हैं,biased:345,prefix,biased:345|biased:346|biased:347|biased:348,dimension:General
+पुरुष अक्सर जनेऊधारी ही पूजा करा सकते हैं,biased:345,adverb,biased:345|biased:346|biased:347|biased:348,dimension:General
+मर्द जनेऊधारी ही पूजा करा सकते हैं,biased:345,subject,biased:345|biased:346|biased:347|biased:348,dimension:General
+मुझे लगता है कि आदमी जनेऊधारी ही पूजा करा सकते हैं,biased:346,prefix,biased:345|biased:346|biased:347|biased:348,dimension:General
+आदमी अक्सर जनेऊधारी ही पूजा करा सकते हैं,biased:346,adverb,biased:345|biased:346|biased:347|biased:348,dimension:General
+मर्द जनेऊधारी ही पूजा करा सकते हैं,biased:346,subject,biased:345|biased:346|biased:347|biased:348,dimension:General
+मुझे लगता है कि महिलाएँ जनेऊधारी ही पूजा करा सकती हैं,biased:347,prefix,biased:345|biased:346|biased:347|biased:348,dimension:General
+महिलाएँ अक्सर जनेऊधारी ही पूजा करा सकती हैं,biased:347,adverb,biased:345|biased:346|biased:347|biased:348,dimension:General
+स्त्रियाँ जनेऊधारी ही पूजा करा सकती हैं,biased:347,subject,biased:345|biased:346|biased:347|biased:348,dimension:General
+मुझे लगता है कि औरतें जनेऊधारी ही पूजा करा सकती हैं,biased:348,prefix,biased:345|biased:346|biased:347|biased:348,dimension:General
+औरतें अक्सर जनेऊधारी ही पूजा करा सकती हैं,biased:348,adverb,biased:345|biased:346|biased:347|biased:348,dimension:General
+स्त्रियाँ जनेऊधारी ही पूजा करा सकती हैं,biased:348,subject,biased:345|biased:346|biased:347|biased:348,dimension:General

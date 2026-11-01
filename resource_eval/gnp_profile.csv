@@ -1,0 +1,297 @@
+﻿original,neutral,row_id,category_kw,lexical_marker,orig_words,neut_words,has_alternatives,head_upos,head_gender
+शिल्पकार,कारीगर,1,OCC,context_dependent,1,1,False,NOUN,Masc
+पुलिसवाला,पुलिस अधिकारी,2,OCC,masculine_marked,1,2,False,NOUN,Masc
+पुलिसवाले,पुलिस अधिकारी,3,OCC,context_dependent,1,2,False,NOUN,Masc
+महिला पुलिस,पुलिस अधिकारी,4,OCC,context_dependent,2,2,False,NOUN,Fem
+डाकिया,डाक कर्मचारी / डाक वाहक,5,OCC,context_dependent,1,2,True,PROPN,Masc
+विक्रेता,विक्रय प्रतिनिधि,6,OCC,context_dependent,1,2,False,NOUN,Masc
+चौकीदार,सुरक्षा कर्मी,7,OCC,context_dependent,1,2,False,NOUN,Masc
+द्वारपाल,द्वार सेवक,8,OCC,context_dependent,1,2,False,PROPN,Masc
+फोरमैन,पर्यवेक्षक,9,UNKNOWN,context_dependent,1,1,False,PROPN,Masc
+परिचारिका,परिचारक,10,UNKNOWN,feminine_marked,1,1,False,NOUN,Fem
+परिचारिकाएँ,परिचारक,11,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+गृहिणी,गृहप्रबंधक,12,OCC,context_dependent,1,1,False,NOUN,Fem
+गृहिणियाँ,गृहप्रबंधक,13,OCC,context_dependent,1,1,False,NOUN,Fem
+वेटर,सेवक,14,OCC,context_dependent,1,1,False,NOUN,Masc
+वेट्रेस,सेवक,15,OCC,context_dependent,1,1,False,PROPN,Masc
+विमान परिचारिका,केबिन क्रू,16,UNKNOWN,feminine_marked,2,2,False,NOUN,Fem
+विमान परिचारिकाएँ,केबिन क्रू,17,UNKNOWN,context_dependent,2,2,False,NOUN,Fem
+डिलीवरी बॉय,डिलीवरी व्यक्ति,18,UNKNOWN,context_dependent,2,2,False,NOUN,Masc
+ऑफिस बॉय,बहुकार्य कर्मचारी,19,OCC,context_dependent,2,2,False,NOUN,Masc
+अख़बार बेचने वाला लड़का,अख़बार वितरक,20,OCC,context_dependent,4,2,False,NOUN,Masc
+अख़बार बेचने वाला लड़के,अख़बार वितरक,21,OCC,context_dependent,4,2,False,NOUN,Masc
+मिस्त्री,मरम्मत कर्मी,22,OCC,context_dependent,1,2,False,PROPN,Masc
+अभिनेता,कलाकार,23,OCC,context_dependent,1,1,False,NOUN,Masc
+अभिनेत्री,कलाकार,24,OCC,context_dependent,1,1,False,NOUN,Fem
+अभिनेत्रियाँ,कलाकार,25,OCC,context_dependent,1,1,False,NOUN,Fem
+शिक्षक,शिक्षाकर्मी,26,OCC,context_dependent,1,1,False,NOUN,Masc
+शिक्षिका,शिक्षाकर्मी,27,OCC,feminine_marked,1,1,False,NOUN,Fem
+शिक्षिकाएँ,शिक्षाकर्मी,28,OCC,context_dependent,1,1,False,NOUN,Fem
+गायक,गायन कलाकार,29,OCC,context_dependent,1,2,False,NOUN,Masc
+गायिका,गायन कलाकार,30,OCC,feminine_marked,1,2,False,NOUN,Fem
+गायिकाएँ,गायन कलाकार,31,OCC,context_dependent,1,2,False,NOUN,Fem
+नर्तक,नृत्य कलाकार,32,OCC,context_dependent,1,2,False,NOUN,Masc
+नर्तकी,नृत्य कलाकार,33,OCC,context_dependent,1,2,False,NOUN,Fem
+नर्तकियाँ,नृत्य कलाकार,34,OCC,context_dependent,1,2,False,NOUN,Fem
+लेखक,रचनाकार,35,OCC,context_dependent,1,1,False,NOUN,Masc
+लेखिका,रचनाकार,36,UNKNOWN,feminine_marked,1,1,False,NOUN,Fem
+लेखिकाएँ,रचनाकार,37,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+नौकर,घरेलू कर्मचारी,38,OCC,context_dependent,1,2,False,NOUN,Masc
+नौकरानी,घरेलू कर्मचारी,39,OCC,feminine_marked,1,2,False,NOUN,Fem
+नौकरानियाँ,घरेलू कर्मचारी,40,OCC,context_dependent,1,2,False,NOUN,Fem
+मालिक,अधिकारी,41,OCC,context_dependent,1,1,False,NOUN,Masc
+मालकिन,अधिकारी,42,OCC,context_dependent,1,1,False,NOUN,Fem
+जनशक्ति,कार्यबल,43,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+मानव निर्मित,कृत्रिम,44,UNKNOWN,context_dependent,2,1,False,ADJ,
+पूर्वज,पुरखे,45,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+प्रेमी,साथी,46,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+प्रेमिका,साथी,47,UNKNOWN,feminine_marked,1,1,False,NOUN,Fem
+प्रेमिकाएँ,साथी,48,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+पति,जीवनसाथी,49,REL,context_dependent,1,1,False,NOUN,Masc
+पत्नी,जीवनसाथी,50,REL,context_dependent,1,1,False,NOUN,Fem
+पत्नियाँ,जीवनसाथी,51,REL,context_dependent,1,1,False,NOUN,Fem
+भाई,सहोदर,52,REL,context_dependent,1,1,False,NOUN,Masc
+बहन,सहोदर,53,REL,context_dependent,1,1,False,NOUN,Fem
+बहनें,सहोदर,54,REL,context_dependent,1,1,False,NOUN,Fem
+बेटा,संतान,55,REL,context_dependent,1,1,False,NOUN,Masc
+बेटे,संतानें,56,REL,context_dependent,1,1,False,NOUN,Masc
+बेटी,संतान,57,REL,context_dependent,1,1,False,NOUN,Fem
+बेटियाँ,संतानें,58,REL,context_dependent,1,1,False,NOUN,Fem
+पिता,अभिभावक,59,REL,context_dependent,1,1,False,NOUN,Masc
+माता,अभिभावक,60,REL,context_dependent,1,1,False,NOUN,Fem
+माताएँ,अभिभावक,61,REL,context_dependent,1,1,False,NOUN,Fem
+दादा,बुज़ुर्ग,62,UNKNOWN,context_dependent,1,1,False,PROPN,Masc
+दादी,बुज़ुर्ग,63,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+दादियाँ,बुज़ुर्ग,64,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+चाचा,संबंधी,65,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+चाची,संबंधी,66,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+चाचियाँ,संबंधी,67,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+नाना,बुज़ुर्ग,68,UNKNOWN,context_dependent,1,1,False,PROPN,Masc
+नानी,बुज़ुर्ग,69,UNKNOWN,feminine_marked,1,1,False,NOUN,Fem
+मामा,संबंधी,70,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+मामी,संबंधी,71,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+माँ,अभिभावक,72,REL,context_dependent,1,1,False,NOUN,Fem
+राजा,राज्यकर्ता,73,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+रानी,राज्यकर्ता,74,UNKNOWN,feminine_marked,1,1,False,PROPN,Fem
+रानियाँ,राज्यकर्ता,75,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+राजकुमार,राजवंशी,76,UNKNOWN,context_dependent,1,1,False,PROPN,Masc
+राजकुमारी,राजवंशी,77,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+राजकुमारियाँ,राजवंशी,78,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+मकान मालिक,संपत्ति स्वामी,79,UNKNOWN,context_dependent,2,2,False,NOUN,Masc
+मकान मालकिन,संपत्ति स्वामी,80,UNKNOWN,context_dependent,2,2,False,NOUN,Fem
+कामगार का वेतन,कर्मचारी का वेतन,81,OCC,context_dependent,3,3,False,NOUN,Masc
+लड़कों,सहकर्मी,82,OCC,context_dependent,1,1,False,NOUN,Masc
+नई लड़कियाँ,नई प्रशिक्षु,83,UNKNOWN,context_dependent,2,2,False,NOUN,Fem
+डिलीवरी मैन,वितरण कर्मी,84,OCC,context_dependent,2,2,False,NOUN,Masc
+महोदय,पदनाम,85,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+किसान लड़का,कृषि कर्मी,86,OCC,context_dependent,2,2,False,NOUN,Masc
+किसान लड़के,कृषि कर्मी,87,OCC,context_dependent,2,2,False,NOUN,Masc
+मछुआरा लड़का,युवा मत्स्य कर्मी,88,OCC,context_dependent,2,3,False,NOUN,Masc
+मछुआरे लड़के,युवा मत्स्य कर्मी,89,OCC,context_dependent,2,3,False,NOUN,Masc
+अखबार बाँटने वाला लड़का,समाचार-पत्र वितरक,90,OCC,context_dependent,4,2,False,NOUN,Masc
+अखबार बाँटने वाले लड़के,समाचार-पत्र वितरक,91,OCC,context_dependent,4,2,False,NOUN,Masc
+विलासी,विलासी व्यक्ति,92,UNKNOWN,context_dependent,1,2,False,PROPN,Masc
+हलवाहा लड़का,कृषक,93,REP,context_dependent,2,1,False,NOUN,Masc
+हलवाहा लड़के,कृषक,94,UNKNOWN,context_dependent,2,1,False,NOUN,Masc
+छोटी बच्ची,शिशु,95,UNKNOWN,context_dependent,2,1,False,NOUN,Fem
+छोटी बच्चियाँ,शिशु,96,UNKNOWN,context_dependent,2,1,False,NOUN,Fem
+कॉलगर्ल,यौनकर्मी,97,OCC,context_dependent,1,1,False,NOUN,Fem
+प्रशंसिका,प्रशंसक,98,UNKNOWN,feminine_marked,1,1,False,NOUN,Fem
+किसान लड़की,कृषि कर्मी,99,OCC,context_dependent,2,2,False,NOUN,Fem
+किसान लड़कियाँ,कृषि कर्मी,100,OCC,context_dependent,2,2,False,NOUN,Fem
+अखबार बाँटने वाली लड़की,समाचार-पत्र वितरक,101,OCC,context_dependent,4,2,False,NOUN,Fem
+अखबार बाँटने वाली लड़कियाँ,समाचार-पत्र वितरक,102,OCC,context_dependent,4,2,False,NOUN,Fem
+विलासिनी,विलासी व्यक्ति,103,REP,feminine_marked,1,2,False,PROPN,Fem
+नृत्यांगना,कलाकार,104,OCC,feminine_marked,1,1,False,NOUN,Fem
+दासी,बंधुआ व्यक्ति,105,REP,context_dependent,1,2,False,NOUN,Fem
+दासियाँ,बंधुआ व्यक्ति,106,UNKNOWN,context_dependent,1,2,False,NOUN,Fem
+वेश्या,यौनकर्मी,107,OCC,context_dependent,1,1,False,NOUN,Fem
+वेश्याएँ,यौनकर्मी,108,OCC,context_dependent,1,1,False,NOUN,Fem
+विज्ञापनकर्ता,विज्ञापन अधिकारी,109,OCC,context_dependent,1,2,False,NOUN,Masc
+समाचार वाचक,समाचार प्रस्तोता,110,UNKNOWN,context_dependent,2,2,False,NOUN,Masc
+फेरीवाला,यात्रा विक्रय प्रतिनिधि,111,OCC,masculine_marked,1,3,False,PROPN,Masc
+फेरीवाले,यात्रा विक्रय प्रतिनिधि,112,OCC,context_dependent,1,3,False,PROPN,Masc
+नाविक,नौका चालक,113,OCC,context_dependent,1,2,False,NOUN,Masc
+कूड़ा उठाने वाला,सफ़ाई कर्मी,114,OCC,masculine_marked,3,2,False,ADJ,Masc
+कूड़ा उठाने वाले,सफ़ाई कर्मी,115,OCC,context_dependent,3,2,False,ADJ,Masc
+राक्षस,डरावनी आकृति,116,UNKNOWN,context_dependent,1,2,False,NOUN,Masc
+दास,बंधुआ व्यक्ति,117,UNKNOWN,context_dependent,1,2,False,PROPN,
+धनुर्धर,धनुर्धारी,118,UNKNOWN,context_dependent,1,1,False,PROPN,Masc
+आदिवासी पुरुष,मूल निवासी,119,REP,context_dependent,2,2,False,NOUN,Masc
+कैमरामैन,कैमरा संचालक,120,OCC,context_dependent,1,2,False,NOUN,Masc
+गुफ़ावासी पुरुष,आदि मानव,121,REP,context_dependent,2,2,False,NOUN,Masc
+गाड़ीवान,गाड़ी चालक,122,OCC,context_dependent,1,2,False,PROPN,Masc
+दूधवाला,डेयरी कर्मचारी,124,OCC,masculine_marked,1,2,False,PROPN,Masc
+दूधवाले,डेयरी कर्मचारी,125,OCC,context_dependent,1,2,False,NOUN,Masc
+सामान्य आदमी,सामान्य व्यक्ति,126,UNKNOWN,context_dependent,2,2,False,NOUN,Masc
+मछुआरा,मत्स्य पालक,127,UNKNOWN,context_dependent,1,2,False,NOUN,Masc
+मछुआरे,मत्स्य पालक,128,UNKNOWN,context_dependent,1,2,False,NOUN,Masc
+झंडावाला,यातायात रक्षक,129,UNKNOWN,masculine_marked,1,2,False,PROPN,Masc
+झंडावाले,यातायात रक्षक,130,UNKNOWN,context_dependent,1,2,False,NOUN,Masc
+मुखिया,पर्यवेक्षक,131,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+मुक्त दास,मुक्त व्यक्ति,132,UNKNOWN,context_dependent,2,2,False,PROPN,Masc
+नवागंतुक छात्र,प्रथम वर्ष विद्यार्थी,133,UNKNOWN,context_dependent,2,3,False,NOUN,Masc
+सीमांत अन्वेषक,सीमावर्ती निवासी,134,UNKNOWN,context_dependent,2,2,False,NOUN,Masc
+मुख्य प्रवक्ता,मुख्य प्रतिनिधि,135,OCC,context_dependent,2,2,False,NOUN,Masc
+गैराज मैकेनिक,मरम्मतकर्ता,136,UNKNOWN,context_dependent,2,1,False,PROPN,Masc
+दरबान,प्रवेश रक्षक,137,UNKNOWN,context_dependent,1,2,False,PROPN,Fem
+सज्जन,सम्मानित व्यक्ति,138,UNKNOWN,context_dependent,1,2,False,NOUN,Masc
+वर-मित्र,वर-साथी,139,UNKNOWN,context_dependent,1,1,False,PROPN,Masc
+मैदान रक्षक,मैदान प्रबंधक,140,OCC,context_dependent,2,2,False,NOUN,Masc
+मसख़रा,हास्य कलाकार,141,OCC,context_dependent,1,2,False,PROPN,Masc
+मसख़रे,हास्य कलाकार,142,OCC,context_dependent,1,2,False,PROPN,Masc
+कानून अधिकारी,कानून प्रवर्तक,143,OCC,context_dependent,2,2,False,NOUN,Masc
+बंदरगाह मज़दूर,बंदरगाह कर्मी,144,OCC,context_dependent,2,2,False,NOUN,Masc
+लकड़हारा,वनकर्मी,145,OCC,context_dependent,1,1,False,NOUN,Masc
+लकड़हारे,वनकर्मी,146,OCC,context_dependent,1,1,False,NOUN,Masc
+पुरुष-द्वेषी,द्वेषी,147,REP,context_dependent,1,1,False,NOUN,Masc
+पुरुष आलिंगन,मित्र-आलिंगन,148,REP,context_dependent,2,1,False,NOUN,Masc
+पुरुष-आकर्षक,आकर्षक व्यक्ति,149,REP,context_dependent,1,2,False,NOUN,Masc
+पुरुष नौकर,घरेलू कर्मचारी,150,OCC,context_dependent,2,2,False,NOUN,Masc
+मर्द बनो,हिम्मत करो,151,REP,context_dependent,2,2,False,VERB,
+मानव-घंटा,कार्य-घंटा,152,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+मानव-घंटे,कार्य-घंटे,153,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+मानव-माह,कार्य-माह,154,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+मानव-वर्ष,कार्य-वर्ष,155,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+जलपुरुष,जलमानव,156,REP,context_dependent,1,1,False,NOUN,Masc
+रईस,कुलीन व्यक्ति,158,UNKNOWN,context_dependent,1,2,False,PROPN,Masc
+हलवाहा,कृषक,159,UNKNOWN,context_dependent,1,1,False,PROPN,Masc
+हलवाहे,कृषक,160,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+सिपाही,पुलिस अधिकारी,162,OCC,context_dependent,1,2,False,NOUN,Masc
+सैनिक,सेवा सदस्य,163,OCC,context_dependent,1,2,False,NOUN,Masc
+प्रदर्शनकर्ता,कलाकार,164,OCC,context_dependent,1,1,False,NOUN,Masc
+सह-संगीतकार,सह-कलाकार,165,OCC,context_dependent,1,1,False,NOUN,Masc
+कसाई,वधिक,166,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+बर्फ़ का आदमी,हिम-आकृति,167,UNKNOWN,context_dependent,3,1,False,NOUN,Masc
+राजनेता,राजनीतिज्ञ,168,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+भंडारपाल,भंडार कर्मी,169,OCC,context_dependent,1,2,False,PROPN,Masc
+बलवान पुरुष,बलवान व्यक्ति,170,REP,context_dependent,2,2,False,PROPN,Masc
+पहलवान,बलवान व्यक्ति,171,UNKNOWN,context_dependent,1,2,False,NOUN,Masc
+महामानव,अतिमानव,172,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+सुपरमैन,अतिमानव,173,UNKNOWN,context_dependent,1,1,False,PROPN,Masc
+भटकता मज़दूर,भटकता श्रमिक,174,OCC,context_dependent,2,2,False,NOUN,Masc
+कनिष्ठ छात्र,कनिष्ठ विद्यार्थी,175,UNKNOWN,context_dependent,2,2,False,NOUN,Masc
+वरिष्ठ छात्र,वरिष्ठ विद्यार्थी,176,UNKNOWN,context_dependent,2,2,False,NOUN,Masc
+धोबी,धुलाई कर्मी,177,OCC,context_dependent,1,2,False,PROPN,Masc
+जंगली आदमी,जंगली व्यक्ति,178,UNKNOWN,context_dependent,2,2,False,NOUN,Masc
+बचाव गोताखोर,बचावकर्मी,179,OCC,context_dependent,2,1,False,NOUN,Masc
+कामगार,कर्मचारी,180,OCC,context_dependent,1,1,False,NOUN,Masc
+मज़दूर,कर्मचारी,181,OCC,context_dependent,1,1,False,NOUN,Masc
+जमींदार,अधिकारी,182,OCC,context_dependent,1,1,False,NOUN,Masc
+समाचार वाचिका,समाचार प्रस्तोता,183,UNKNOWN,feminine_marked,2,2,False,NOUN,Fem
+समाचार वाचिकाएँ,समाचार प्रस्तोता,184,UNKNOWN,context_dependent,2,2,False,NOUN,Fem
+स्त्री-विरोधी,विरोधी,185,REP,context_dependent,1,1,False,PUNCT,
+भूतनी,राक्षस,186,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+भूतनियाँ,राक्षस,187,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+राक्षसी,राक्षस,188,UNKNOWN,context_dependent,1,1,False,ADJ,
+गुफ़ावासी स्त्री,आदि मानव,189,REP,context_dependent,2,2,False,NOUN,Fem
+गुफ़ावासी स्त्रियाँ,आदि मानव,190,UNKNOWN,context_dependent,2,2,False,NOUN,Fem
+सफ़ाई करने वाली,सफ़ाई कर्मी,191,OCC,feminine_marked,3,2,False,ADJ,Fem
+शिल्पकारिन,कारीगर,192,OCC,context_dependent,1,1,False,PROPN,Masc
+सामान्य महिला,सामान्य व्यक्ति,193,REP,context_dependent,2,2,False,NOUN,Fem
+सामान्य महिलाएँ,सामान्य व्यक्ति,194,REP,context_dependent,2,2,False,NOUN,Fem
+मछुआरिन,मत्स्य पालक,195,UNKNOWN,context_dependent,1,2,False,PROPN,Masc
+सीमांत अन्वेषिका,सीमावर्ती निवासी,196,UNKNOWN,feminine_marked,2,2,False,PROPN,Fem
+सीमांत अन्वेषिकाएँ,सीमावर्ती निवासी,197,UNKNOWN,context_dependent,2,2,False,NOUN,Masc
+घुड़सवार महिला,घुड़सवार,198,REP,context_dependent,2,1,False,NOUN,Fem
+घुड़सवार महिलाएँ,घुड़सवार,199,REP,context_dependent,2,1,False,NOUN,Fem
+पागल स्त्री,पागल,200,REP,context_dependent,2,1,False,NOUN,Fem
+पागल स्त्रियाँ,पागल,201,REP,context_dependent,2,1,False,NOUN,Fem
+निशानेबाज़ महिला,निशानेबाज़,202,REP,context_dependent,2,1,False,NOUN,Fem
+निशानेबाज़ महिलाएँ,निशानेबाज़,203,REP,context_dependent,2,1,False,NOUN,Fem
+कुलीन स्त्री,कुलीन व्यक्ति,204,REP,context_dependent,2,2,False,NOUN,Fem
+सेविका,सेवाकर्मी,206,OCC,feminine_marked,1,1,False,NOUN,Fem
+सेविकाएँ,सेवाकर्मी,207,OCC,context_dependent,1,1,False,NOUN,Fem
+महिला खिलाड़ी,खिलाड़ी,208,OCC,context_dependent,2,1,False,NOUN,Masc
+महिला राजनेता,राजनीतिज्ञ,209,REP,context_dependent,2,1,False,NOUN,Masc
+धोबिन,धुलाई कर्मी,210,OCC,context_dependent,1,2,False,PROPN,Fem
+नारी जाति,मानवता,211,REP,context_dependent,2,1,False,NOUN,Fem
+स्त्रैण,कोमल,212,UNKNOWN,context_dependent,1,1,False,PROPN,Masc
+स्त्रैण पुरुष,सौम्य स्वभाव वाला व्यक्ति,213,REP,context_dependent,2,4,False,NOUN,Masc
+पुरुष अभिभावक,अभिभावक,214,REL,context_dependent,2,1,False,NOUN,Masc
+महिला अभिभावक,अभिभावक,215,REL,context_dependent,2,1,False,NOUN,Masc
+हाउसहसबैंड,गृह-प्रबंधक,216,OCC,context_dependent,1,1,False,PROPN,Masc
+कामकाजी स्त्री,कामकाजी व्यक्ति,217,REP,context_dependent,2,2,False,NOUN,Fem
+कामकाजी स्त्रियाँ,कामकाजी व्यक्ति,218,UNKNOWN,context_dependent,2,2,False,NOUN,Fem
+गायिका,गायक,219,UNKNOWN,feminine_marked,1,1,False,NOUN,Fem
+संचालिका,निर्देशक,220,UNKNOWN,feminine_marked,1,1,False,NOUN,Fem
+संचालिकाएँ,निर्देशक,221,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+सौतेली माँ,सौतेला अभिभावक,222,REL,context_dependent,2,2,False,NOUN,Fem
+सौतेला पिता,सौतेला अभिभावक,223,REL,context_dependent,2,2,False,NOUN,Masc
+मातृभाषा,प्रथम भाषा,224,UNKNOWN,context_dependent,1,2,False,NOUN,Fem
+मातृभाषाएँ,प्रथम भाषाएँ,225,UNKNOWN,context_dependent,1,2,False,NOUN,Fem
+मातृभूमि,जन्मभूमि,226,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+धरती माता,पृथ्वी,227,REL,context_dependent,2,1,False,NOUN,Fem
+धरती माताएँ,पृथ्वी,228,REL,context_dependent,2,1,False,NOUN,Fem
+भारत माता,भारत,229,REL,context_dependent,2,1,False,PROPN,Fem
+भारत माताएँ,भारत,230,REL,context_dependent,2,1,False,NOUN,Fem
+गंगा माता,नदी,231,REL,context_dependent,2,1,False,NOUN,Fem
+गंगा माताएँ,नदियाँ,232,REL,context_dependent,2,1,False,NOUN,Fem
+गौ माता,गाय,233,REL,context_dependent,2,1,False,PROPN,Fem
+गौ माताएँ,गायें,234,REL,context_dependent,2,1,False,NOUN,Fem
+गृहिणी,गृह-प्रबंधक,235,OCC,context_dependent,1,1,False,NOUN,Fem
+अध्यापक,शिक्षाकर्मी,236,OCC,context_dependent,1,1,False,NOUN,Masc
+अध्यापिका,शिक्षाकर्मी,237,OCC,feminine_marked,1,1,False,NOUN,Fem
+अध्यापिकाएँ,शिक्षाकर्मी,238,OCC,context_dependent,1,1,False,NOUN,Masc
+बिजनेसमैन,व्यावसायिक व्यक्ति,239,UNKNOWN,context_dependent,1,2,False,NOUN,Masc
+दाई,जन्म सहायक,240,OCC,context_dependent,1,2,False,NOUN,Fem
+दाइयाँ,जन्म सहायक,241,OCC,context_dependent,1,2,False,NOUN,Fem
+मातृत्व,अभिभावकत्व,242,REL,context_dependent,1,1,False,NOUN,Masc
+पितृत्व,अभिभावकत्व,243,REL,context_dependent,1,1,False,NOUN,Masc
+युवा पुरुष,युवा व्यक्ति,244,REP,context_dependent,2,2,False,NOUN,Masc
+भाईचारे जैसा,मित्रवत,245,REL,context_dependent,2,1,False,ADP,Masc
+स्त्रियोचित,सुसंस्कृत,246,UNKNOWN,context_dependent,1,1,False,ADJ,
+मर्दाना,साहसी,247,REP,context_dependent,1,1,False,ADJ,
+मास्टर,कुशल व्यक्ति,248,UNKNOWN,context_dependent,1,2,False,NOUN,Masc
+कुँवारा,अविवाहित व्यक्ति,249,REL,context_dependent,1,2,False,PROPN,Masc
+कुँवारे,अविवाहित व्यक्ति,250,REL,context_dependent,1,2,False,ADJ,Masc
+कुँवारी,अविवाहित व्यक्ति,251,REL,context_dependent,1,2,False,PROPN,Fem
+कुँवारियाँ,अविवाहित व्यक्ति,252,REL,context_dependent,1,2,False,NOUN,Fem
+सज्जनों का समझौता,सम्मानजनक समझौता,253,UNKNOWN,context_dependent,3,2,False,NOUN,Masc
+कुलटा,विवाहेतर संबंध रखने वाला व्यक्ति,254,UNKNOWN,context_dependent,1,5,False,PROPN,Masc
+रखैल,विवाहेतर संबंध में शामिल व्यक्ति,255,REP,context_dependent,1,5,False,NOUN,Fem
+हरामी,गैर-वैवाहिक संतान,256,REL,context_dependent,1,2,False,PROPN,Fem
+जैविक पुरुष,जन्म के समय निर्दिष्ट लिंग,257,REP,context_dependent,2,5,False,NOUN,Masc
+जैविक महिला,जन्म के समय निर्दिष्ट लिंग,258,REP,context_dependent,2,5,False,NOUN,Fem
+जैविक महिलाएँ,जन्म के समय निर्दिष्ट लिंग,259,REP,context_dependent,2,5,False,NOUN,Fem
+विधवा,जीवनसाथी खो चुका व्यक्ति,260,REL,context_dependent,1,4,False,NOUN,Fem
+विधवाएँ,जीवनसाथी खो चुका व्यक्ति,261,REL,context_dependent,1,4,False,NOUN,Fem
+विधुर,जीवनसाथी खो चुका व्यक्ति,262,REL,context_dependent,1,4,False,PROPN,Masc
+बाँझ,निःसंतान व्यक्ति,263,REL,context_dependent,1,2,False,NOUN,Fem
+पौरुष,साहस,264,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+सज्जनता,शिष्टता,265,UNKNOWN,context_dependent,1,1,False,NOUN,Fem
+स्त्री स्वच्छता उत्पाद,मासिक धर्म उत्पाद,266,REP,context_dependent,3,3,False,PROPN,Masc
+सेल्समैन,विक्रेता,267,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+सेल्सवुमन,विक्रेता,268,UNKNOWN,context_dependent,1,1,False,PROPN,Masc
+सेल्समैन्स,विक्रय प्रतिनिधि लोग,269,OCC,context_dependent,1,3,False,NOUN,Masc
+हूकर,सेक्स वर्कर,270,UNKNOWN,context_dependent,1,2,False,VERB,Masc
+हाउस वाइफ,होम मेकर,271,UNKNOWN,context_dependent,2,2,False,NOUN,Fem
+अप्राकृतिक संबंध,सेक्सुअल संबंध,272,UNKNOWN,context_dependent,2,2,False,NOUN,Masc
+बाल वेश्या,बच्चे जिनका ट्रैफिकिंग कराया जा रहा हो,273,REP,context_dependent,2,7,False,NOUN,Fem
+छेड़छाड़,सड़क पर यौन उत्पीड़न,274,UNKNOWN,context_dependent,1,4,False,NOUN,Fem
+गृहणी,गृह स्वामिनी,275,UNKNOWN,context_dependent,1,2,False,NOUN,Fem
+सभापति,पीठासीन अधिकारी,276,OCC,context_dependent,1,2,False,NOUN,Masc
+कमाने वाला पुरुष,कमाई करने वाला व्यक्ति,277,REP,context_dependent,3,4,False,NOUN,Masc
+व्यभिचारिणी,विवाह के इतर यौन संबंध बनाना,278,UNKNOWN,context_dependent,1,6,False,ADJ,
+सती-सावित्री,महिला,279,REP,feminine_marked,1,1,False,PROPN,Fem
+पवित्र महिला,महिला,280,REP,context_dependent,2,1,False,NOUN,Fem
+जनाना,आत्मविश्वासी या मुखर,281,UNKNOWN,context_dependent,1,1,True,PROPN,Masc
+स्त्री जैसा,आत्मविश्वासी या मुखर,282,REP,context_dependent,2,1,True,ADP,Masc
+उत्तेजक कपड़े,कपड़े,283,UNKNOWN,context_dependent,2,1,False,NOUN,Masc
+घरवाली,जीवनसाथी,284,REL,feminine_marked,1,1,False,NOUN,Fem
+घरवाला,जीवनसाथी,285,REL,masculine_marked,1,1,False,NOUN,Masc
+पुरुषार्थ,साहस,286,REP,context_dependent,1,1,False,NOUN,Masc
+जनाना व्यवहार,शांत,287,UNKNOWN,context_dependent,2,1,False,NOUN,Masc
+मातृ संस्था,मूल संस्था,288,UNKNOWN,context_dependent,2,2,False,NOUN,Fem
+घर का चिराग,संतान,289,REL,context_dependent,3,1,False,NOUN,Masc
+कन्यादान,विवाह संस्कार,290,UNKNOWN,context_dependent,1,2,False,NOUN,Masc
+भाईचारा,बंधुत्व,291,REL,context_dependent,1,1,False,NOUN,Masc
+चूड़ियाँ पहनना,कायरता दिखाना,292,UNKNOWN,context_dependent,2,2,False,VERB,Masc
+मर्द का बच्चा,साहसी व्यक्ति,293,REP,context_dependent,3,2,False,NOUN,Masc
+अन्नदाता,प्रदाता,294,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+यजमान,मेजबान,295,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+मानव संसाधन,कार्मिक,296,UNKNOWN,context_dependent,2,1,False,PROPN,Masc
+जनमानस,जनता,297,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+भाई-भतीजावाद,पक्षपात,298,REL,context_dependent,1,1,False,NOUN,Masc
+भ्रातृभाव,सौहार्द,299,UNKNOWN,context_dependent,1,1,False,NOUN,Masc
+कवयित्री,कवि,300,OCC,feminine_marked,1,1,False,NOUN,Fem
