@@ -2,7 +2,7 @@
 
 Resources for **gender-inclusive language generation and retrieval in Hindi**: two Hindi datasets, a Hindi gender-bias Knowledge Graph (KG), evaluation data, and the code for a KG-guided rewriting pipeline.
 
-This repository accompanies the paper *"MorphoGIL-Hindi: Resources for Gender-Inclusive Language Generation and Retrieval in Hindi"* (submitted to the ECIR 2027 Resource Track).
+This repository accompanies the paper *"MorphoGIL-Hindi: Resources for Gender-Inclusive Language Generation and Retrieval in Hindi"* .
 
 ---
 
@@ -38,7 +38,6 @@ MorphoGIL-Hindi/
 ├── Phase 3 - Neurosymbolic counterfactual Pipeline.ipynb
 ├── Phase 4 - Evaluation.ipynb
 ├── Phase 5 - Resource Evaluation.ipynb   # statistics, KG checks, retrieval evaluation
-├── requirements.txt
 └── LICENSE
 ```
 
@@ -46,7 +45,7 @@ MorphoGIL-Hindi/
 
 ## 1. GNP-Hindi (Gender-Neutral Pairs)
 
-**Columns:** [copy the header row of GNP-Hindi.csv here, e.g. `Original Terms`, `Neutral Terms`]
+**Columns:** [`Original Terms`, `Neutral Terms`]
 
 **How it was built**
 1. The 693 English gender-neutral pairs of Bartl and Leavy (2024) were translated into Hindi with ChatGPT-4.
@@ -71,7 +70,7 @@ MorphoGIL-Hindi/
 
 ## 2. CSP-Hindi (Counterfactual Sentence Pairs)
 
-**Columns:** [copy the header row of CSP-Hindi.csv here, e.g. `Pair ID`, `Biased Sentence`, `Counterfactual Sentence`]
+**Columns:** [`Pair ID`, `Biased Sentence`, `Counterfactual Sentence`]
 
 **How it was built**
 - 60 predicate rules, each written as a triplet (masculine form, feminine form, inclusive form). The inclusive form uses the masculine plural, the Hindi convention for mixed or generic reference.
@@ -209,21 +208,5 @@ The resources cover binary gender only. GNP-Hindi translations were drafted with
 - **Datasets and KG:** CC BY 4.0
 - **Code:** MIT (see `LICENSE`)
 
-GNP-Hindi is derived from the English pairs of Bartl and Leavy (2024); please also cite their work.
-
-## Citation
-
-```bibtex
-@inproceedings{chakalakal2027morphogil,
-  author    = {Chakalakal, Janice Johnson and Chinnan, Shunmuga Priya Muthusamy and Chakravarthi, Bharathi Raja},
-  title     = {{MorphoGIL-Hindi}: Resources for Gender-Inclusive Language Generation and Retrieval in {Hindi}},
-  booktitle = {Proceedings of the 49th European Conference on Information Retrieval (ECIR)},
-  year      = {2027},
-  note      = {Under review}
-}
 ```
 
-## Contact and contributions
-
-Please report errors or suggest new terms through [GitHub Issues](../../issues). Updates are published as versioned releases.
-Maintainer: Janice Johnson Chakalakal, University of Galway ([j.Chakalakal1@universityofgalway.ie](mailto:j.Chakalakal1@universityofgalway.ie)).
